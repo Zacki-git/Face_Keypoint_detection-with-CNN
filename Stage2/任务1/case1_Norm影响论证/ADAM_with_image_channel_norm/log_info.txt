@@ -1,0 +1,600 @@
+Train Epoch: 0 [0/2193 (0%)]	 pts_loss: 3022.174805
+Train Epoch: 0 [1280/2193 (57%)]	 pts_loss: 2913.227295
+Valid: pts_loss: 2906.506782
+Train Epoch: 1 [0/2193 (0%)]	 pts_loss: 2923.916260
+Train Epoch: 1 [1280/2193 (57%)]	 pts_loss: 2901.532715
+Valid: pts_loss: 2617.747694
+Train Epoch: 2 [0/2193 (0%)]	 pts_loss: 2606.957520
+Train Epoch: 2 [1280/2193 (57%)]	 pts_loss: 826.847473
+Valid: pts_loss: 309.335080
+Train Epoch: 3 [0/2193 (0%)]	 pts_loss: 304.990112
+Train Epoch: 3 [1280/2193 (57%)]	 pts_loss: 114.858589
+Valid: pts_loss: 71.797782
+Train Epoch: 4 [0/2193 (0%)]	 pts_loss: 85.970116
+Train Epoch: 4 [1280/2193 (57%)]	 pts_loss: 60.040482
+Valid: pts_loss: 43.388954
+Train Epoch: 5 [0/2193 (0%)]	 pts_loss: 40.728359
+Train Epoch: 5 [1280/2193 (57%)]	 pts_loss: 39.247154
+Valid: pts_loss: 39.509806
+Train Epoch: 6 [0/2193 (0%)]	 pts_loss: 42.337902
+Train Epoch: 6 [1280/2193 (57%)]	 pts_loss: 64.442604
+Valid: pts_loss: 37.387227
+Train Epoch: 7 [0/2193 (0%)]	 pts_loss: 43.889061
+Train Epoch: 7 [1280/2193 (57%)]	 pts_loss: 30.711531
+Valid: pts_loss: 35.323003
+Train Epoch: 8 [0/2193 (0%)]	 pts_loss: 44.157047
+Train Epoch: 8 [1280/2193 (57%)]	 pts_loss: 39.026371
+Valid: pts_loss: 33.187429
+Train Epoch: 9 [0/2193 (0%)]	 pts_loss: 29.596489
+Train Epoch: 9 [1280/2193 (57%)]	 pts_loss: 38.339180
+Valid: pts_loss: 31.331871
+Train Epoch: 10 [0/2193 (0%)]	 pts_loss: 29.401661
+Train Epoch: 10 [1280/2193 (57%)]	 pts_loss: 28.004101
+Valid: pts_loss: 29.491457
+Train Epoch: 11 [0/2193 (0%)]	 pts_loss: 48.788853
+Train Epoch: 11 [1280/2193 (57%)]	 pts_loss: 35.576046
+Valid: pts_loss: 27.885436
+Train Epoch: 12 [0/2193 (0%)]	 pts_loss: 30.756371
+Train Epoch: 12 [1280/2193 (57%)]	 pts_loss: 22.813631
+Valid: pts_loss: 26.576245
+Train Epoch: 13 [0/2193 (0%)]	 pts_loss: 34.384464
+Train Epoch: 13 [1280/2193 (57%)]	 pts_loss: 29.201786
+Valid: pts_loss: 24.588454
+Train Epoch: 14 [0/2193 (0%)]	 pts_loss: 39.573246
+Train Epoch: 14 [1280/2193 (57%)]	 pts_loss: 28.289080
+Valid: pts_loss: 23.689483
+Train Epoch: 15 [0/2193 (0%)]	 pts_loss: 22.388548
+Train Epoch: 15 [1280/2193 (57%)]	 pts_loss: 23.977501
+Valid: pts_loss: 23.543567
+Train Epoch: 16 [0/2193 (0%)]	 pts_loss: 39.549229
+Train Epoch: 16 [1280/2193 (57%)]	 pts_loss: 29.850107
+Valid: pts_loss: 22.075429
+Train Epoch: 17 [0/2193 (0%)]	 pts_loss: 32.447163
+Train Epoch: 17 [1280/2193 (57%)]	 pts_loss: 23.016333
+Valid: pts_loss: 21.856335
+Train Epoch: 18 [0/2193 (0%)]	 pts_loss: 34.527496
+Train Epoch: 18 [1280/2193 (57%)]	 pts_loss: 26.705198
+Valid: pts_loss: 22.051752
+Train Epoch: 19 [0/2193 (0%)]	 pts_loss: 26.814293
+Train Epoch: 19 [1280/2193 (57%)]	 pts_loss: 37.196144
+Valid: pts_loss: 21.235136
+Train Epoch: 20 [0/2193 (0%)]	 pts_loss: 25.800243
+Train Epoch: 20 [1280/2193 (57%)]	 pts_loss: 36.320335
+Valid: pts_loss: 21.137003
+Train Epoch: 21 [0/2193 (0%)]	 pts_loss: 41.641853
+Train Epoch: 21 [1280/2193 (57%)]	 pts_loss: 48.538292
+Valid: pts_loss: 21.046345
+Train Epoch: 22 [0/2193 (0%)]	 pts_loss: 22.835825
+Train Epoch: 22 [1280/2193 (57%)]	 pts_loss: 36.694893
+Valid: pts_loss: 20.929835
+Train Epoch: 23 [0/2193 (0%)]	 pts_loss: 34.448307
+Train Epoch: 23 [1280/2193 (57%)]	 pts_loss: 24.936327
+Valid: pts_loss: 20.879034
+Train Epoch: 24 [0/2193 (0%)]	 pts_loss: 31.579699
+Train Epoch: 24 [1280/2193 (57%)]	 pts_loss: 20.645264
+Valid: pts_loss: 20.925212
+Train Epoch: 25 [0/2193 (0%)]	 pts_loss: 44.627716
+Train Epoch: 25 [1280/2193 (57%)]	 pts_loss: 23.086727
+Valid: pts_loss: 20.812184
+Train Epoch: 26 [0/2193 (0%)]	 pts_loss: 35.007378
+Train Epoch: 26 [1280/2193 (57%)]	 pts_loss: 22.041899
+Valid: pts_loss: 20.998138
+Train Epoch: 27 [0/2193 (0%)]	 pts_loss: 36.644783
+Train Epoch: 27 [1280/2193 (57%)]	 pts_loss: 35.124126
+Valid: pts_loss: 21.345262
+Train Epoch: 28 [0/2193 (0%)]	 pts_loss: 29.931313
+Train Epoch: 28 [1280/2193 (57%)]	 pts_loss: 28.919037
+Valid: pts_loss: 20.708896
+Train Epoch: 29 [0/2193 (0%)]	 pts_loss: 33.139591
+Train Epoch: 29 [1280/2193 (57%)]	 pts_loss: 30.325794
+Valid: pts_loss: 20.843159
+Train Epoch: 30 [0/2193 (0%)]	 pts_loss: 21.250502
+Train Epoch: 30 [1280/2193 (57%)]	 pts_loss: 24.869810
+Valid: pts_loss: 21.193535
+Train Epoch: 31 [0/2193 (0%)]	 pts_loss: 28.716320
+Train Epoch: 31 [1280/2193 (57%)]	 pts_loss: 33.389446
+Valid: pts_loss: 20.984209
+Train Epoch: 32 [0/2193 (0%)]	 pts_loss: 14.858117
+Train Epoch: 32 [1280/2193 (57%)]	 pts_loss: 45.072906
+Valid: pts_loss: 22.272022
+Train Epoch: 33 [0/2193 (0%)]	 pts_loss: 40.694637
+Train Epoch: 33 [1280/2193 (57%)]	 pts_loss: 25.659489
+Valid: pts_loss: 20.926294
+Train Epoch: 34 [0/2193 (0%)]	 pts_loss: 17.173643
+Train Epoch: 34 [1280/2193 (57%)]	 pts_loss: 21.878752
+Valid: pts_loss: 21.122814
+Train Epoch: 35 [0/2193 (0%)]	 pts_loss: 20.881889
+Train Epoch: 35 [1280/2193 (57%)]	 pts_loss: 45.630924
+Valid: pts_loss: 20.667934
+Train Epoch: 36 [0/2193 (0%)]	 pts_loss: 24.003405
+Train Epoch: 36 [1280/2193 (57%)]	 pts_loss: 41.787056
+Valid: pts_loss: 20.685505
+Train Epoch: 37 [0/2193 (0%)]	 pts_loss: 39.246384
+Train Epoch: 37 [1280/2193 (57%)]	 pts_loss: 21.154097
+Valid: pts_loss: 20.863036
+Train Epoch: 38 [0/2193 (0%)]	 pts_loss: 20.302540
+Train Epoch: 38 [1280/2193 (57%)]	 pts_loss: 20.768644
+Valid: pts_loss: 21.910517
+Train Epoch: 39 [0/2193 (0%)]	 pts_loss: 27.698429
+Train Epoch: 39 [1280/2193 (57%)]	 pts_loss: 21.235956
+Valid: pts_loss: 20.669208
+Train Epoch: 40 [0/2193 (0%)]	 pts_loss: 25.242718
+Train Epoch: 40 [1280/2193 (57%)]	 pts_loss: 23.820396
+Valid: pts_loss: 20.720599
+Train Epoch: 41 [0/2193 (0%)]	 pts_loss: 16.401665
+Train Epoch: 41 [1280/2193 (57%)]	 pts_loss: 35.125446
+Valid: pts_loss: 20.781253
+Train Epoch: 42 [0/2193 (0%)]	 pts_loss: 19.524311
+Train Epoch: 42 [1280/2193 (57%)]	 pts_loss: 27.392700
+Valid: pts_loss: 20.717060
+Train Epoch: 43 [0/2193 (0%)]	 pts_loss: 30.246016
+Train Epoch: 43 [1280/2193 (57%)]	 pts_loss: 20.849596
+Valid: pts_loss: 20.608162
+Train Epoch: 44 [0/2193 (0%)]	 pts_loss: 24.819231
+Train Epoch: 44 [1280/2193 (57%)]	 pts_loss: 20.942160
+Valid: pts_loss: 20.745973
+Train Epoch: 45 [0/2193 (0%)]	 pts_loss: 18.094261
+Train Epoch: 45 [1280/2193 (57%)]	 pts_loss: 28.838146
+Valid: pts_loss: 20.556753
+Train Epoch: 46 [0/2193 (0%)]	 pts_loss: 35.600437
+Train Epoch: 46 [1280/2193 (57%)]	 pts_loss: 21.954638
+Valid: pts_loss: 20.672589
+Train Epoch: 47 [0/2193 (0%)]	 pts_loss: 16.427334
+Train Epoch: 47 [1280/2193 (57%)]	 pts_loss: 17.259048
+Valid: pts_loss: 20.981513
+Train Epoch: 48 [0/2193 (0%)]	 pts_loss: 20.899284
+Train Epoch: 48 [1280/2193 (57%)]	 pts_loss: 21.842686
+Valid: pts_loss: 21.021779
+Train Epoch: 49 [0/2193 (0%)]	 pts_loss: 24.110271
+Train Epoch: 49 [1280/2193 (57%)]	 pts_loss: 26.363142
+Valid: pts_loss: 20.468873
+Train Epoch: 50 [0/2193 (0%)]	 pts_loss: 28.014957
+Train Epoch: 50 [1280/2193 (57%)]	 pts_loss: 25.262468
+Valid: pts_loss: 20.957893
+Train Epoch: 51 [0/2193 (0%)]	 pts_loss: 29.216564
+Train Epoch: 51 [1280/2193 (57%)]	 pts_loss: 40.981697
+Valid: pts_loss: 20.454340
+Train Epoch: 52 [0/2193 (0%)]	 pts_loss: 53.375973
+Train Epoch: 52 [1280/2193 (57%)]	 pts_loss: 24.452358
+Valid: pts_loss: 20.867109
+Train Epoch: 53 [0/2193 (0%)]	 pts_loss: 23.578417
+Train Epoch: 53 [1280/2193 (57%)]	 pts_loss: 34.765633
+Valid: pts_loss: 20.561672
+Train Epoch: 54 [0/2193 (0%)]	 pts_loss: 20.910395
+Train Epoch: 54 [1280/2193 (57%)]	 pts_loss: 23.103842
+Valid: pts_loss: 20.622662
+Train Epoch: 55 [0/2193 (0%)]	 pts_loss: 25.006802
+Train Epoch: 55 [1280/2193 (57%)]	 pts_loss: 36.566345
+Valid: pts_loss: 20.602271
+Train Epoch: 56 [0/2193 (0%)]	 pts_loss: 40.768990
+Train Epoch: 56 [1280/2193 (57%)]	 pts_loss: 26.787886
+Valid: pts_loss: 20.444455
+Train Epoch: 57 [0/2193 (0%)]	 pts_loss: 45.344994
+Train Epoch: 57 [1280/2193 (57%)]	 pts_loss: 19.941280
+Valid: pts_loss: 20.502813
+Train Epoch: 58 [0/2193 (0%)]	 pts_loss: 24.650961
+Train Epoch: 58 [1280/2193 (57%)]	 pts_loss: 34.382389
+Valid: pts_loss: 20.442113
+Train Epoch: 59 [0/2193 (0%)]	 pts_loss: 25.874599
+Train Epoch: 59 [1280/2193 (57%)]	 pts_loss: 19.643688
+Valid: pts_loss: 20.421618
+Train Epoch: 60 [0/2193 (0%)]	 pts_loss: 25.519421
+Train Epoch: 60 [1280/2193 (57%)]	 pts_loss: 26.045214
+Valid: pts_loss: 21.127394
+Train Epoch: 61 [0/2193 (0%)]	 pts_loss: 35.882286
+Train Epoch: 61 [1280/2193 (57%)]	 pts_loss: 31.514172
+Valid: pts_loss: 20.803567
+Train Epoch: 62 [0/2193 (0%)]	 pts_loss: 35.954445
+Train Epoch: 62 [1280/2193 (57%)]	 pts_loss: 26.544926
+Valid: pts_loss: 20.692406
+Train Epoch: 63 [0/2193 (0%)]	 pts_loss: 33.786034
+Train Epoch: 63 [1280/2193 (57%)]	 pts_loss: 18.499401
+Valid: pts_loss: 20.340330
+Train Epoch: 64 [0/2193 (0%)]	 pts_loss: 19.941820
+Train Epoch: 64 [1280/2193 (57%)]	 pts_loss: 35.595383
+Valid: pts_loss: 20.490477
+Train Epoch: 65 [0/2193 (0%)]	 pts_loss: 22.240860
+Train Epoch: 65 [1280/2193 (57%)]	 pts_loss: 19.581379
+Valid: pts_loss: 21.072618
+Train Epoch: 66 [0/2193 (0%)]	 pts_loss: 24.482580
+Train Epoch: 66 [1280/2193 (57%)]	 pts_loss: 26.338856
+Valid: pts_loss: 20.294734
+Train Epoch: 67 [0/2193 (0%)]	 pts_loss: 18.740786
+Train Epoch: 67 [1280/2193 (57%)]	 pts_loss: 34.865170
+Valid: pts_loss: 20.762135
+Train Epoch: 68 [0/2193 (0%)]	 pts_loss: 22.482887
+Train Epoch: 68 [1280/2193 (57%)]	 pts_loss: 29.681189
+Valid: pts_loss: 20.425111
+Train Epoch: 69 [0/2193 (0%)]	 pts_loss: 28.278015
+Train Epoch: 69 [1280/2193 (57%)]	 pts_loss: 28.707153
+Valid: pts_loss: 20.376913
+Train Epoch: 70 [0/2193 (0%)]	 pts_loss: 47.841732
+Train Epoch: 70 [1280/2193 (57%)]	 pts_loss: 20.974970
+Valid: pts_loss: 20.695196
+Train Epoch: 71 [0/2193 (0%)]	 pts_loss: 28.862347
+Train Epoch: 71 [1280/2193 (57%)]	 pts_loss: 33.923435
+Valid: pts_loss: 20.514624
+Train Epoch: 72 [0/2193 (0%)]	 pts_loss: 21.307659
+Train Epoch: 72 [1280/2193 (57%)]	 pts_loss: 49.612103
+Valid: pts_loss: 20.713291
+Train Epoch: 73 [0/2193 (0%)]	 pts_loss: 20.163908
+Train Epoch: 73 [1280/2193 (57%)]	 pts_loss: 39.938759
+Valid: pts_loss: 20.706025
+Train Epoch: 74 [0/2193 (0%)]	 pts_loss: 49.595798
+Train Epoch: 74 [1280/2193 (57%)]	 pts_loss: 21.571636
+Valid: pts_loss: 20.410259
+Train Epoch: 75 [0/2193 (0%)]	 pts_loss: 26.032104
+Train Epoch: 75 [1280/2193 (57%)]	 pts_loss: 19.724220
+Valid: pts_loss: 20.436845
+Train Epoch: 76 [0/2193 (0%)]	 pts_loss: 25.397949
+Train Epoch: 76 [1280/2193 (57%)]	 pts_loss: 36.593273
+Valid: pts_loss: 20.568133
+Train Epoch: 77 [0/2193 (0%)]	 pts_loss: 28.166735
+Train Epoch: 77 [1280/2193 (57%)]	 pts_loss: 26.045675
+Valid: pts_loss: 20.560327
+Train Epoch: 78 [0/2193 (0%)]	 pts_loss: 29.602171
+Train Epoch: 78 [1280/2193 (57%)]	 pts_loss: 34.288078
+Valid: pts_loss: 21.086633
+Train Epoch: 79 [0/2193 (0%)]	 pts_loss: 18.424541
+Train Epoch: 79 [1280/2193 (57%)]	 pts_loss: 48.367672
+Valid: pts_loss: 20.523759
+Train Epoch: 80 [0/2193 (0%)]	 pts_loss: 16.308655
+Train Epoch: 80 [1280/2193 (57%)]	 pts_loss: 22.334164
+Valid: pts_loss: 20.445810
+Train Epoch: 81 [0/2193 (0%)]	 pts_loss: 31.297020
+Train Epoch: 81 [1280/2193 (57%)]	 pts_loss: 28.640160
+Valid: pts_loss: 20.266074
+Train Epoch: 82 [0/2193 (0%)]	 pts_loss: 20.733355
+Train Epoch: 82 [1280/2193 (57%)]	 pts_loss: 18.517210
+Valid: pts_loss: 20.502633
+Train Epoch: 83 [0/2193 (0%)]	 pts_loss: 19.773632
+Train Epoch: 83 [1280/2193 (57%)]	 pts_loss: 49.039471
+Valid: pts_loss: 20.559283
+Train Epoch: 84 [0/2193 (0%)]	 pts_loss: 26.110434
+Train Epoch: 84 [1280/2193 (57%)]	 pts_loss: 32.111992
+Valid: pts_loss: 20.493071
+Train Epoch: 85 [0/2193 (0%)]	 pts_loss: 37.839851
+Train Epoch: 85 [1280/2193 (57%)]	 pts_loss: 19.745094
+Valid: pts_loss: 20.294247
+Train Epoch: 86 [0/2193 (0%)]	 pts_loss: 33.186436
+Train Epoch: 86 [1280/2193 (57%)]	 pts_loss: 20.036983
+Valid: pts_loss: 20.375482
+Train Epoch: 87 [0/2193 (0%)]	 pts_loss: 26.814274
+Train Epoch: 87 [1280/2193 (57%)]	 pts_loss: 34.235470
+Valid: pts_loss: 20.515829
+Train Epoch: 88 [0/2193 (0%)]	 pts_loss: 32.327644
+Train Epoch: 88 [1280/2193 (57%)]	 pts_loss: 29.435719
+Valid: pts_loss: 20.513007
+Train Epoch: 89 [0/2193 (0%)]	 pts_loss: 22.267673
+Train Epoch: 89 [1280/2193 (57%)]	 pts_loss: 37.615108
+Valid: pts_loss: 21.381561
+Train Epoch: 90 [0/2193 (0%)]	 pts_loss: 56.754402
+Train Epoch: 90 [1280/2193 (57%)]	 pts_loss: 35.460560
+Valid: pts_loss: 20.372388
+Train Epoch: 91 [0/2193 (0%)]	 pts_loss: 22.573664
+Train Epoch: 91 [1280/2193 (57%)]	 pts_loss: 21.259109
+Valid: pts_loss: 20.286621
+Train Epoch: 92 [0/2193 (0%)]	 pts_loss: 19.809374
+Train Epoch: 92 [1280/2193 (57%)]	 pts_loss: 22.607903
+Valid: pts_loss: 20.604212
+Train Epoch: 93 [0/2193 (0%)]	 pts_loss: 13.756200
+Train Epoch: 93 [1280/2193 (57%)]	 pts_loss: 56.746857
+Valid: pts_loss: 20.681743
+Train Epoch: 94 [0/2193 (0%)]	 pts_loss: 45.731022
+Train Epoch: 94 [1280/2193 (57%)]	 pts_loss: 22.477476
+Valid: pts_loss: 20.482096
+Train Epoch: 95 [0/2193 (0%)]	 pts_loss: 25.885010
+Train Epoch: 95 [1280/2193 (57%)]	 pts_loss: 28.502447
+Valid: pts_loss: 20.399119
+Train Epoch: 96 [0/2193 (0%)]	 pts_loss: 31.421436
+Train Epoch: 96 [1280/2193 (57%)]	 pts_loss: 22.624142
+Valid: pts_loss: 21.496752
+Train Epoch: 97 [0/2193 (0%)]	 pts_loss: 40.460701
+Train Epoch: 97 [1280/2193 (57%)]	 pts_loss: 41.883621
+Valid: pts_loss: 20.622579
+Train Epoch: 98 [0/2193 (0%)]	 pts_loss: 35.033756
+Train Epoch: 98 [1280/2193 (57%)]	 pts_loss: 28.344219
+Valid: pts_loss: 20.425954
+Train Epoch: 99 [0/2193 (0%)]	 pts_loss: 17.077293
+Train Epoch: 99 [1280/2193 (57%)]	 pts_loss: 21.172741
+Valid: pts_loss: 20.447605
+Train Epoch: 100 [0/2193 (0%)]	 pts_loss: 40.875111
+Train Epoch: 100 [1280/2193 (57%)]	 pts_loss: 23.747862
+Valid: pts_loss: 21.290234
+Train Epoch: 101 [0/2193 (0%)]	 pts_loss: 20.903957
+Train Epoch: 101 [1280/2193 (57%)]	 pts_loss: 33.335030
+Valid: pts_loss: 20.529170
+Train Epoch: 102 [0/2193 (0%)]	 pts_loss: 23.707861
+Train Epoch: 102 [1280/2193 (57%)]	 pts_loss: 30.778118
+Valid: pts_loss: 20.240894
+Train Epoch: 103 [0/2193 (0%)]	 pts_loss: 17.572512
+Train Epoch: 103 [1280/2193 (57%)]	 pts_loss: 21.693579
+Valid: pts_loss: 20.539152
+Train Epoch: 104 [0/2193 (0%)]	 pts_loss: 29.828545
+Train Epoch: 104 [1280/2193 (57%)]	 pts_loss: 27.273058
+Valid: pts_loss: 20.306910
+Train Epoch: 105 [0/2193 (0%)]	 pts_loss: 23.947876
+Train Epoch: 105 [1280/2193 (57%)]	 pts_loss: 22.100290
+Valid: pts_loss: 21.796870
+Train Epoch: 106 [0/2193 (0%)]	 pts_loss: 24.054708
+Train Epoch: 106 [1280/2193 (57%)]	 pts_loss: 48.726376
+Valid: pts_loss: 20.933737
+Train Epoch: 107 [0/2193 (0%)]	 pts_loss: 23.913170
+Train Epoch: 107 [1280/2193 (57%)]	 pts_loss: 14.832209
+Valid: pts_loss: 20.567141
+Train Epoch: 108 [0/2193 (0%)]	 pts_loss: 29.094774
+Train Epoch: 108 [1280/2193 (57%)]	 pts_loss: 23.265875
+Valid: pts_loss: 20.578507
+Train Epoch: 109 [0/2193 (0%)]	 pts_loss: 18.815718
+Train Epoch: 109 [1280/2193 (57%)]	 pts_loss: 29.908983
+Valid: pts_loss: 20.525612
+Train Epoch: 110 [0/2193 (0%)]	 pts_loss: 18.914513
+Train Epoch: 110 [1280/2193 (57%)]	 pts_loss: 16.607719
+Valid: pts_loss: 20.475594
+Train Epoch: 111 [0/2193 (0%)]	 pts_loss: 40.071629
+Train Epoch: 111 [1280/2193 (57%)]	 pts_loss: 26.420437
+Valid: pts_loss: 20.409223
+Train Epoch: 112 [0/2193 (0%)]	 pts_loss: 23.019663
+Train Epoch: 112 [1280/2193 (57%)]	 pts_loss: 18.201965
+Valid: pts_loss: 20.585574
+Train Epoch: 113 [0/2193 (0%)]	 pts_loss: 28.212852
+Train Epoch: 113 [1280/2193 (57%)]	 pts_loss: 23.648188
+Valid: pts_loss: 20.766954
+Train Epoch: 114 [0/2193 (0%)]	 pts_loss: 35.068031
+Train Epoch: 114 [1280/2193 (57%)]	 pts_loss: 24.481760
+Valid: pts_loss: 20.648468
+Train Epoch: 115 [0/2193 (0%)]	 pts_loss: 19.734629
+Train Epoch: 115 [1280/2193 (57%)]	 pts_loss: 21.271990
+Valid: pts_loss: 20.946478
+Train Epoch: 116 [0/2193 (0%)]	 pts_loss: 36.828568
+Train Epoch: 116 [1280/2193 (57%)]	 pts_loss: 28.303062
+Valid: pts_loss: 20.362636
+Train Epoch: 117 [0/2193 (0%)]	 pts_loss: 29.985945
+Train Epoch: 117 [1280/2193 (57%)]	 pts_loss: 22.912529
+Valid: pts_loss: 20.340478
+Train Epoch: 118 [0/2193 (0%)]	 pts_loss: 33.157013
+Train Epoch: 118 [1280/2193 (57%)]	 pts_loss: 26.854841
+Valid: pts_loss: 20.552966
+Train Epoch: 119 [0/2193 (0%)]	 pts_loss: 24.753906
+Train Epoch: 119 [1280/2193 (57%)]	 pts_loss: 35.383045
+Valid: pts_loss: 20.356807
+Train Epoch: 120 [0/2193 (0%)]	 pts_loss: 24.933769
+Train Epoch: 120 [1280/2193 (57%)]	 pts_loss: 35.090256
+Valid: pts_loss: 20.716558
+Train Epoch: 121 [0/2193 (0%)]	 pts_loss: 41.285458
+Train Epoch: 121 [1280/2193 (57%)]	 pts_loss: 47.238697
+Valid: pts_loss: 20.388515
+Train Epoch: 122 [0/2193 (0%)]	 pts_loss: 23.326469
+Train Epoch: 122 [1280/2193 (57%)]	 pts_loss: 35.551998
+Valid: pts_loss: 20.376804
+Train Epoch: 123 [0/2193 (0%)]	 pts_loss: 32.850193
+Train Epoch: 123 [1280/2193 (57%)]	 pts_loss: 23.750481
+Valid: pts_loss: 20.348795
+Train Epoch: 124 [0/2193 (0%)]	 pts_loss: 30.530622
+Train Epoch: 124 [1280/2193 (57%)]	 pts_loss: 20.127434
+Valid: pts_loss: 20.751877
+Train Epoch: 125 [0/2193 (0%)]	 pts_loss: 44.410484
+Train Epoch: 125 [1280/2193 (57%)]	 pts_loss: 22.507238
+Valid: pts_loss: 20.347780
+Train Epoch: 126 [0/2193 (0%)]	 pts_loss: 34.318832
+Train Epoch: 126 [1280/2193 (57%)]	 pts_loss: 21.336485
+Valid: pts_loss: 20.573088
+Train Epoch: 127 [0/2193 (0%)]	 pts_loss: 36.687431
+Train Epoch: 127 [1280/2193 (57%)]	 pts_loss: 35.392658
+Valid: pts_loss: 20.711153
+Train Epoch: 128 [0/2193 (0%)]	 pts_loss: 29.979803
+Train Epoch: 128 [1280/2193 (57%)]	 pts_loss: 28.893810
+Valid: pts_loss: 20.415044
+Train Epoch: 129 [0/2193 (0%)]	 pts_loss: 32.574787
+Train Epoch: 129 [1280/2193 (57%)]	 pts_loss: 29.250872
+Valid: pts_loss: 20.510901
+Train Epoch: 130 [0/2193 (0%)]	 pts_loss: 20.670944
+Train Epoch: 130 [1280/2193 (57%)]	 pts_loss: 24.485979
+Valid: pts_loss: 20.990333
+Train Epoch: 131 [0/2193 (0%)]	 pts_loss: 28.285156
+Train Epoch: 131 [1280/2193 (57%)]	 pts_loss: 32.671848
+Valid: pts_loss: 20.965726
+Train Epoch: 132 [0/2193 (0%)]	 pts_loss: 15.309170
+Train Epoch: 132 [1280/2193 (57%)]	 pts_loss: 44.116165
+Valid: pts_loss: 21.854978
+Train Epoch: 133 [0/2193 (0%)]	 pts_loss: 40.487926
+Train Epoch: 133 [1280/2193 (57%)]	 pts_loss: 25.387878
+Valid: pts_loss: 20.525028
+Train Epoch: 134 [0/2193 (0%)]	 pts_loss: 16.880028
+Train Epoch: 134 [1280/2193 (57%)]	 pts_loss: 21.435764
+Valid: pts_loss: 21.157424
+Train Epoch: 135 [0/2193 (0%)]	 pts_loss: 20.560724
+Train Epoch: 135 [1280/2193 (57%)]	 pts_loss: 45.159069
+Valid: pts_loss: 20.456761
+Train Epoch: 136 [0/2193 (0%)]	 pts_loss: 23.919750
+Train Epoch: 136 [1280/2193 (57%)]	 pts_loss: 40.974960
+Valid: pts_loss: 20.459382
+Train Epoch: 137 [0/2193 (0%)]	 pts_loss: 38.839874
+Train Epoch: 137 [1280/2193 (57%)]	 pts_loss: 21.094324
+Valid: pts_loss: 20.548746
+Train Epoch: 138 [0/2193 (0%)]	 pts_loss: 19.948792
+Train Epoch: 138 [1280/2193 (57%)]	 pts_loss: 20.751154
+Valid: pts_loss: 21.553715
+Train Epoch: 139 [0/2193 (0%)]	 pts_loss: 26.879107
+Train Epoch: 139 [1280/2193 (57%)]	 pts_loss: 20.793158
+Valid: pts_loss: 20.673971
+Train Epoch: 140 [0/2193 (0%)]	 pts_loss: 25.098295
+Train Epoch: 140 [1280/2193 (57%)]	 pts_loss: 23.857603
+Valid: pts_loss: 20.557143
+Train Epoch: 141 [0/2193 (0%)]	 pts_loss: 16.044731
+Train Epoch: 141 [1280/2193 (57%)]	 pts_loss: 34.275730
+Valid: pts_loss: 20.682665
+Train Epoch: 142 [0/2193 (0%)]	 pts_loss: 19.481291
+Train Epoch: 142 [1280/2193 (57%)]	 pts_loss: 26.739630
+Valid: pts_loss: 20.500274
+Train Epoch: 143 [0/2193 (0%)]	 pts_loss: 29.778097
+Train Epoch: 143 [1280/2193 (57%)]	 pts_loss: 20.492643
+Valid: pts_loss: 20.512316
+Train Epoch: 144 [0/2193 (0%)]	 pts_loss: 25.046253
+Train Epoch: 144 [1280/2193 (57%)]	 pts_loss: 20.483742
+Valid: pts_loss: 20.591137
+Train Epoch: 145 [0/2193 (0%)]	 pts_loss: 18.011196
+Train Epoch: 145 [1280/2193 (57%)]	 pts_loss: 28.633251
+Valid: pts_loss: 20.376034
+Train Epoch: 146 [0/2193 (0%)]	 pts_loss: 34.874664
+Train Epoch: 146 [1280/2193 (57%)]	 pts_loss: 21.683084
+Valid: pts_loss: 20.661715
+Train Epoch: 147 [0/2193 (0%)]	 pts_loss: 16.550453
+Train Epoch: 147 [1280/2193 (57%)]	 pts_loss: 17.146015
+Valid: pts_loss: 21.193706
+Train Epoch: 148 [0/2193 (0%)]	 pts_loss: 21.071074
+Train Epoch: 148 [1280/2193 (57%)]	 pts_loss: 21.577408
+Valid: pts_loss: 20.761332
+Train Epoch: 149 [0/2193 (0%)]	 pts_loss: 23.920357
+Train Epoch: 149 [1280/2193 (57%)]	 pts_loss: 26.388737
+Valid: pts_loss: 20.337709
+Train Epoch: 150 [0/2193 (0%)]	 pts_loss: 27.933403
+Train Epoch: 150 [1280/2193 (57%)]	 pts_loss: 24.761889
+Valid: pts_loss: 20.680340
+Train Epoch: 151 [0/2193 (0%)]	 pts_loss: 28.793106
+Train Epoch: 151 [1280/2193 (57%)]	 pts_loss: 40.190098
+Valid: pts_loss: 20.353114
+Train Epoch: 152 [0/2193 (0%)]	 pts_loss: 52.485718
+Train Epoch: 152 [1280/2193 (57%)]	 pts_loss: 24.253954
+Valid: pts_loss: 20.802620
+Train Epoch: 153 [0/2193 (0%)]	 pts_loss: 23.498823
+Train Epoch: 153 [1280/2193 (57%)]	 pts_loss: 34.384563
+Valid: pts_loss: 20.514654
+Train Epoch: 154 [0/2193 (0%)]	 pts_loss: 20.882418
+Train Epoch: 154 [1280/2193 (57%)]	 pts_loss: 23.032610
+Valid: pts_loss: 20.561027
+Train Epoch: 155 [0/2193 (0%)]	 pts_loss: 25.153591
+Train Epoch: 155 [1280/2193 (57%)]	 pts_loss: 36.949955
+Valid: pts_loss: 20.390860
+Train Epoch: 156 [0/2193 (0%)]	 pts_loss: 39.635056
+Train Epoch: 156 [1280/2193 (57%)]	 pts_loss: 26.382311
+Valid: pts_loss: 20.340784
+Train Epoch: 157 [0/2193 (0%)]	 pts_loss: 44.772179
+Train Epoch: 157 [1280/2193 (57%)]	 pts_loss: 19.683239
+Valid: pts_loss: 20.414547
+Train Epoch: 158 [0/2193 (0%)]	 pts_loss: 24.482166
+Train Epoch: 158 [1280/2193 (57%)]	 pts_loss: 34.088570
+Valid: pts_loss: 20.318095
+Train Epoch: 159 [0/2193 (0%)]	 pts_loss: 25.487047
+Train Epoch: 159 [1280/2193 (57%)]	 pts_loss: 19.556614
+Valid: pts_loss: 20.294425
+Train Epoch: 160 [0/2193 (0%)]	 pts_loss: 25.099047
+Train Epoch: 160 [1280/2193 (57%)]	 pts_loss: 25.893814
+Valid: pts_loss: 20.947531
+Train Epoch: 161 [0/2193 (0%)]	 pts_loss: 35.357071
+Train Epoch: 161 [1280/2193 (57%)]	 pts_loss: 31.444906
+Valid: pts_loss: 20.723854
+Train Epoch: 162 [0/2193 (0%)]	 pts_loss: 35.533001
+Train Epoch: 162 [1280/2193 (57%)]	 pts_loss: 26.514751
+Valid: pts_loss: 20.521573
+Train Epoch: 163 [0/2193 (0%)]	 pts_loss: 33.278881
+Train Epoch: 163 [1280/2193 (57%)]	 pts_loss: 18.572277
+Valid: pts_loss: 20.277987
+Train Epoch: 164 [0/2193 (0%)]	 pts_loss: 19.911345
+Train Epoch: 164 [1280/2193 (57%)]	 pts_loss: 35.836147
+Valid: pts_loss: 20.431908
+Train Epoch: 165 [0/2193 (0%)]	 pts_loss: 22.185137
+Train Epoch: 165 [1280/2193 (57%)]	 pts_loss: 19.543079
+Valid: pts_loss: 21.017574
+Train Epoch: 166 [0/2193 (0%)]	 pts_loss: 24.355328
+Train Epoch: 166 [1280/2193 (57%)]	 pts_loss: 26.143032
+Valid: pts_loss: 20.234210
+Train Epoch: 167 [0/2193 (0%)]	 pts_loss: 18.864672
+Train Epoch: 167 [1280/2193 (57%)]	 pts_loss: 35.070755
+Valid: pts_loss: 20.590250
+Train Epoch: 168 [0/2193 (0%)]	 pts_loss: 22.539534
+Train Epoch: 168 [1280/2193 (57%)]	 pts_loss: 29.482515
+Valid: pts_loss: 20.383861
+Train Epoch: 169 [0/2193 (0%)]	 pts_loss: 28.038488
+Train Epoch: 169 [1280/2193 (57%)]	 pts_loss: 28.926306
+Valid: pts_loss: 20.329525
+Train Epoch: 170 [0/2193 (0%)]	 pts_loss: 47.038670
+Train Epoch: 170 [1280/2193 (57%)]	 pts_loss: 20.933477
+Valid: pts_loss: 20.599674
+Train Epoch: 171 [0/2193 (0%)]	 pts_loss: 28.733059
+Train Epoch: 171 [1280/2193 (57%)]	 pts_loss: 33.542294
+Valid: pts_loss: 20.457441
+Train Epoch: 172 [0/2193 (0%)]	 pts_loss: 21.243176
+Train Epoch: 172 [1280/2193 (57%)]	 pts_loss: 49.176876
+Valid: pts_loss: 20.639496
+Train Epoch: 173 [0/2193 (0%)]	 pts_loss: 20.068619
+Train Epoch: 173 [1280/2193 (57%)]	 pts_loss: 39.523045
+Valid: pts_loss: 20.654289
+Train Epoch: 174 [0/2193 (0%)]	 pts_loss: 48.904373
+Train Epoch: 174 [1280/2193 (57%)]	 pts_loss: 21.456587
+Valid: pts_loss: 20.406394
+Train Epoch: 175 [0/2193 (0%)]	 pts_loss: 25.987438
+Train Epoch: 175 [1280/2193 (57%)]	 pts_loss: 19.653425
+Valid: pts_loss: 20.439555
+Train Epoch: 176 [0/2193 (0%)]	 pts_loss: 25.532726
+Train Epoch: 176 [1280/2193 (57%)]	 pts_loss: 36.315018
+Valid: pts_loss: 20.521309
+Train Epoch: 177 [0/2193 (0%)]	 pts_loss: 28.178520
+Train Epoch: 177 [1280/2193 (57%)]	 pts_loss: 25.801306
+Valid: pts_loss: 20.489651
+Train Epoch: 178 [0/2193 (0%)]	 pts_loss: 29.392782
+Train Epoch: 178 [1280/2193 (57%)]	 pts_loss: 34.389412
+Valid: pts_loss: 20.990991
+Train Epoch: 179 [0/2193 (0%)]	 pts_loss: 18.428423
+Train Epoch: 179 [1280/2193 (57%)]	 pts_loss: 47.708321
+Valid: pts_loss: 20.502469
+Train Epoch: 180 [0/2193 (0%)]	 pts_loss: 16.113321
+Train Epoch: 180 [1280/2193 (57%)]	 pts_loss: 22.202591
+Valid: pts_loss: 20.415445
+Train Epoch: 181 [0/2193 (0%)]	 pts_loss: 31.229691
+Train Epoch: 181 [1280/2193 (57%)]	 pts_loss: 28.574406
+Valid: pts_loss: 20.236603
+Train Epoch: 182 [0/2193 (0%)]	 pts_loss: 20.789232
+Train Epoch: 182 [1280/2193 (57%)]	 pts_loss: 18.609152
+Valid: pts_loss: 20.412952
+Train Epoch: 183 [0/2193 (0%)]	 pts_loss: 19.650530
+Train Epoch: 183 [1280/2193 (57%)]	 pts_loss: 48.941563
+Valid: pts_loss: 20.522121
+Train Epoch: 184 [0/2193 (0%)]	 pts_loss: 26.017859
+Train Epoch: 184 [1280/2193 (57%)]	 pts_loss: 32.206238
+Valid: pts_loss: 20.448545
+Train Epoch: 185 [0/2193 (0%)]	 pts_loss: 37.588886
+Train Epoch: 185 [1280/2193 (57%)]	 pts_loss: 19.630314
+Valid: pts_loss: 20.238041
+Train Epoch: 186 [0/2193 (0%)]	 pts_loss: 33.064327
+Train Epoch: 186 [1280/2193 (57%)]	 pts_loss: 20.210876
+Valid: pts_loss: 20.328782
+Train Epoch: 187 [0/2193 (0%)]	 pts_loss: 26.775990
+Train Epoch: 187 [1280/2193 (57%)]	 pts_loss: 34.032177
+Valid: pts_loss: 20.428445
+Train Epoch: 188 [0/2193 (0%)]	 pts_loss: 32.335957
+Train Epoch: 188 [1280/2193 (57%)]	 pts_loss: 29.382191
+Valid: pts_loss: 20.526900
+Train Epoch: 189 [0/2193 (0%)]	 pts_loss: 22.274031
+Train Epoch: 189 [1280/2193 (57%)]	 pts_loss: 37.389194
+Valid: pts_loss: 21.456164
+Train Epoch: 190 [0/2193 (0%)]	 pts_loss: 56.522984
+Train Epoch: 190 [1280/2193 (57%)]	 pts_loss: 35.456516
+Valid: pts_loss: 20.357117
+Train Epoch: 191 [0/2193 (0%)]	 pts_loss: 22.568554
+Train Epoch: 191 [1280/2193 (57%)]	 pts_loss: 21.163679
+Valid: pts_loss: 20.256165
+Train Epoch: 192 [0/2193 (0%)]	 pts_loss: 19.680334
+Train Epoch: 192 [1280/2193 (57%)]	 pts_loss: 22.769835
+Valid: pts_loss: 20.580992
+Train Epoch: 193 [0/2193 (0%)]	 pts_loss: 13.802598
+Train Epoch: 193 [1280/2193 (57%)]	 pts_loss: 56.402428
+Valid: pts_loss: 20.622940
+Train Epoch: 194 [0/2193 (0%)]	 pts_loss: 45.176521
+Train Epoch: 194 [1280/2193 (57%)]	 pts_loss: 22.268843
+Valid: pts_loss: 20.421615
+Train Epoch: 195 [0/2193 (0%)]	 pts_loss: 25.902809
+Train Epoch: 195 [1280/2193 (57%)]	 pts_loss: 28.521982
+Valid: pts_loss: 20.367617
+Train Epoch: 196 [0/2193 (0%)]	 pts_loss: 31.567730
+Train Epoch: 196 [1280/2193 (57%)]	 pts_loss: 22.408886
+Valid: pts_loss: 21.394889
+Train Epoch: 197 [0/2193 (0%)]	 pts_loss: 40.309959
+Train Epoch: 197 [1280/2193 (57%)]	 pts_loss: 41.808666
+Valid: pts_loss: 20.564572
+Train Epoch: 198 [0/2193 (0%)]	 pts_loss: 35.103195
+Train Epoch: 198 [1280/2193 (57%)]	 pts_loss: 28.280018
+Valid: pts_loss: 20.428369
+Train Epoch: 199 [0/2193 (0%)]	 pts_loss: 17.006071
+Train Epoch: 199 [1280/2193 (57%)]	 pts_loss: 21.207212
+Valid: pts_loss: 20.399321

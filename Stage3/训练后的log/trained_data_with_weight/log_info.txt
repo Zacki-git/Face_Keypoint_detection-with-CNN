@@ -1,0 +1,1800 @@
+Train Epoch:0[0/7250(0%)]	 loss:13.282167
+Train Epoch:0[5120/7250(70%)]	 loss:5.830040
+Valid: loss: 4.949370
+Train_CLS_accuracy:71.4897% (5183 / 7250)
+Train_CLS_one_accuracy:14.3580% (312 / 2173)
+Train_CLS_zero_accuracy:95.9425% (4871 / 5077)
+Valid_CLS_accuracy:75.2507% (1426 / 1895)
+Valid_CLS_one_accuracy:25.3676% (138 / 544)
+Valid_CLS_zero_accuracy:95.3368% (1288 / 1351)
+Train Epoch:1[0/7250(0%)]	 loss:2.356411
+Train Epoch:1[5120/7250(70%)]	 loss:1.837144
+Valid: loss: 3.809385
+Train_CLS_accuracy:81.0069% (5873 / 7250)
+Train_CLS_one_accuracy:44.7308% (972 / 2173)
+Train_CLS_zero_accuracy:96.5334% (4901 / 5077)
+Valid_CLS_accuracy:87.2823% (1654 / 1895)
+Valid_CLS_one_accuracy:66.1765% (360 / 544)
+Valid_CLS_zero_accuracy:95.7809% (1294 / 1351)
+Train Epoch:2[0/7250(0%)]	 loss:2.209398
+Train Epoch:2[5120/7250(70%)]	 loss:3.366723
+Valid: loss: 10.408422
+Train_CLS_accuracy:84.4690% (6124 / 7250)
+Train_CLS_one_accuracy:56.3277% (1224 / 2173)
+Train_CLS_zero_accuracy:96.5137% (4900 / 5077)
+Valid_CLS_accuracy:71.1346% (1348 / 1895)
+Valid_CLS_one_accuracy:0.0000% (0 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:3[0/7250(0%)]	 loss:3.012370
+Train Epoch:3[5120/7250(70%)]	 loss:1.362775
+Valid: loss: 2.723226
+Train_CLS_accuracy:86.2069% (6250 / 7250)
+Train_CLS_one_accuracy:62.7704% (1364 / 2173)
+Train_CLS_zero_accuracy:96.2379% (4886 / 5077)
+Valid_CLS_accuracy:89.7098% (1700 / 1895)
+Valid_CLS_one_accuracy:66.5441% (362 / 544)
+Valid_CLS_zero_accuracy:99.0377% (1338 / 1351)
+Train Epoch:4[0/7250(0%)]	 loss:1.894918
+Train Epoch:4[5120/7250(70%)]	 loss:2.621041
+Valid: loss: 3.250919
+Train_CLS_accuracy:88.7586% (6435 / 7250)
+Train_CLS_one_accuracy:69.6733% (1514 / 2173)
+Train_CLS_zero_accuracy:96.9273% (4921 / 5077)
+Valid_CLS_accuracy:92.4538% (1752 / 1895)
+Valid_CLS_one_accuracy:83.8235% (456 / 544)
+Valid_CLS_zero_accuracy:95.9289% (1296 / 1351)
+Train Epoch:5[0/7250(0%)]	 loss:2.236172
+Train Epoch:5[5120/7250(70%)]	 loss:0.990053
+Valid: loss: 2.652264
+Train_CLS_accuracy:89.4483% (6485 / 7250)
+Train_CLS_one_accuracy:71.7902% (1560 / 2173)
+Train_CLS_zero_accuracy:97.0061% (4925 / 5077)
+Valid_CLS_accuracy:93.6148% (1774 / 1895)
+Valid_CLS_one_accuracy:83.0882% (452 / 544)
+Valid_CLS_zero_accuracy:97.8534% (1322 / 1351)
+Train Epoch:6[0/7250(0%)]	 loss:1.793048
+Train Epoch:6[5120/7250(70%)]	 loss:1.104197
+Valid: loss: 2.433233
+Train_CLS_accuracy:91.2552% (6616 / 7250)
+Train_CLS_one_accuracy:76.5762% (1664 / 2173)
+Train_CLS_zero_accuracy:97.5379% (4952 / 5077)
+Valid_CLS_accuracy:93.8259% (1778 / 1895)
+Valid_CLS_one_accuracy:82.3529% (448 / 544)
+Valid_CLS_zero_accuracy:98.4456% (1330 / 1351)
+Train Epoch:7[0/7250(0%)]	 loss:1.550858
+Train Epoch:7[5120/7250(70%)]	 loss:1.736345
+Valid: loss: 4.848715
+Train_CLS_accuracy:92.4828% (6705 / 7250)
+Train_CLS_one_accuracy:78.9231% (1715 / 2173)
+Train_CLS_zero_accuracy:98.2864% (4990 / 5077)
+Valid_CLS_accuracy:86.5435% (1640 / 1895)
+Valid_CLS_one_accuracy:53.4926% (291 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:8[0/7250(0%)]	 loss:2.321130
+Train Epoch:8[5120/7250(70%)]	 loss:0.836504
+Valid: loss: 1.950037
+Train_CLS_accuracy:93.9034% (6808 / 7250)
+Train_CLS_one_accuracy:82.8348% (1800 / 2173)
+Train_CLS_zero_accuracy:98.6409% (5008 / 5077)
+Valid_CLS_accuracy:95.6201% (1812 / 1895)
+Valid_CLS_one_accuracy:85.1103% (463 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:9[0/7250(0%)]	 loss:1.682886
+Train Epoch:9[5120/7250(70%)]	 loss:2.006693
+Valid: loss: 3.086303
+Train_CLS_accuracy:93.5724% (6784 / 7250)
+Train_CLS_one_accuracy:81.3622% (1768 / 2173)
+Train_CLS_zero_accuracy:98.7985% (5016 / 5077)
+Valid_CLS_accuracy:92.2427% (1748 / 1895)
+Valid_CLS_one_accuracy:74.8162% (407 / 544)
+Valid_CLS_zero_accuracy:99.2598% (1341 / 1351)
+Train Epoch:10[0/7250(0%)]	 loss:1.027014
+Train Epoch:10[5120/7250(70%)]	 loss:1.570421
+Valid: loss: 1.289576
+Train_CLS_accuracy:95.0621% (6892 / 7250)
+Train_CLS_one_accuracy:85.8721% (1866 / 2173)
+Train_CLS_zero_accuracy:98.9955% (5026 / 5077)
+Valid_CLS_accuracy:97.0976% (1840 / 1895)
+Valid_CLS_one_accuracy:93.9338% (511 / 544)
+Valid_CLS_zero_accuracy:98.3716% (1329 / 1351)
+Train Epoch:11[0/7250(0%)]	 loss:1.223365
+Train Epoch:11[5120/7250(70%)]	 loss:1.649173
+Valid: loss: 1.774206
+Train_CLS_accuracy:94.9103% (6881 / 7250)
+Train_CLS_one_accuracy:85.0437% (1848 / 2173)
+Train_CLS_zero_accuracy:99.1333% (5033 / 5077)
+Valid_CLS_accuracy:92.0317% (1744 / 1895)
+Valid_CLS_one_accuracy:72.9779% (397 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:12[0/7250(0%)]	 loss:0.930755
+Train Epoch:12[5120/7250(70%)]	 loss:1.887684
+Valid: loss: 1.705132
+Train_CLS_accuracy:96.0690% (6965 / 7250)
+Train_CLS_one_accuracy:88.6332% (1926 / 2173)
+Train_CLS_zero_accuracy:99.2515% (5039 / 5077)
+Valid_CLS_accuracy:93.9314% (1780 / 1895)
+Valid_CLS_one_accuracy:79.2279% (431 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:13[0/7250(0%)]	 loss:1.055652
+Train Epoch:13[5120/7250(70%)]	 loss:1.869922
+Valid: loss: 1.256544
+Train_CLS_accuracy:96.5931% (7003 / 7250)
+Train_CLS_one_accuracy:89.9678% (1955 / 2173)
+Train_CLS_zero_accuracy:99.4288% (5048 / 5077)
+Valid_CLS_accuracy:94.6174% (1793 / 1895)
+Valid_CLS_one_accuracy:81.4338% (443 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:14[0/7250(0%)]	 loss:0.593097
+Train Epoch:14[5120/7250(70%)]	 loss:0.978122
+Valid: loss: 2.016962
+Train_CLS_accuracy:96.5793% (7002 / 7250)
+Train_CLS_one_accuracy:89.9218% (1954 / 2173)
+Train_CLS_zero_accuracy:99.4288% (5048 / 5077)
+Valid_CLS_accuracy:89.0765% (1688 / 1895)
+Valid_CLS_one_accuracy:62.5000% (340 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:15[0/7250(0%)]	 loss:1.790392
+Train Epoch:15[5120/7250(70%)]	 loss:1.210755
+Valid: loss: 1.356480
+Train_CLS_accuracy:97.0345% (7035 / 7250)
+Train_CLS_one_accuracy:91.4864% (1988 / 2173)
+Train_CLS_zero_accuracy:99.4091% (5047 / 5077)
+Valid_CLS_accuracy:95.4617% (1809 / 1895)
+Valid_CLS_one_accuracy:85.1103% (463 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:16[0/7250(0%)]	 loss:0.556832
+Train Epoch:16[5120/7250(70%)]	 loss:0.684110
+Valid: loss: 2.079155
+Train_CLS_accuracy:96.9103% (7026 / 7250)
+Train_CLS_one_accuracy:90.9342% (1976 / 2173)
+Train_CLS_zero_accuracy:99.4682% (5050 / 5077)
+Valid_CLS_accuracy:96.0422% (1820 / 1895)
+Valid_CLS_one_accuracy:87.8676% (478 / 544)
+Valid_CLS_zero_accuracy:99.3338% (1342 / 1351)
+Train Epoch:17[0/7250(0%)]	 loss:1.255063
+Train Epoch:17[5120/7250(70%)]	 loss:0.731696
+Valid: loss: 1.595047
+Train_CLS_accuracy:97.1862% (7046 / 7250)
+Train_CLS_one_accuracy:91.9006% (1997 / 2173)
+Train_CLS_zero_accuracy:99.4485% (5049 / 5077)
+Valid_CLS_accuracy:94.3536% (1788 / 1895)
+Valid_CLS_one_accuracy:80.5147% (438 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:18[0/7250(0%)]	 loss:0.867377
+Train Epoch:18[5120/7250(70%)]	 loss:1.077876
+Valid: loss: 1.289063
+Train_CLS_accuracy:97.7655% (7088 / 7250)
+Train_CLS_one_accuracy:93.4192% (2030 / 2173)
+Train_CLS_zero_accuracy:99.6258% (5058 / 5077)
+Valid_CLS_accuracy:96.3588% (1826 / 1895)
+Valid_CLS_one_accuracy:88.9706% (484 / 544)
+Valid_CLS_zero_accuracy:99.3338% (1342 / 1351)
+Train Epoch:19[0/7250(0%)]	 loss:0.838389
+Train Epoch:19[5120/7250(70%)]	 loss:1.275708
+Valid: loss: 1.917078
+Train_CLS_accuracy:97.8759% (7096 / 7250)
+Train_CLS_one_accuracy:94.2476% (2048 / 2173)
+Train_CLS_zero_accuracy:99.4288% (5048 / 5077)
+Valid_CLS_accuracy:90.9763% (1724 / 1895)
+Valid_CLS_one_accuracy:69.1176% (376 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:20[0/7250(0%)]	 loss:1.018411
+Train Epoch:20[5120/7250(70%)]	 loss:0.400862
+Valid: loss: 1.143670
+Train_CLS_accuracy:97.8621% (7095 / 7250)
+Train_CLS_one_accuracy:93.8794% (2040 / 2173)
+Train_CLS_zero_accuracy:99.5667% (5055 / 5077)
+Valid_CLS_accuracy:96.6227% (1831 / 1895)
+Valid_CLS_one_accuracy:89.5221% (487 / 544)
+Valid_CLS_zero_accuracy:99.4819% (1344 / 1351)
+Train Epoch:21[0/7250(0%)]	 loss:0.586226
+Train Epoch:21[5120/7250(70%)]	 loss:1.051398
+Valid: loss: 2.122816
+Train_CLS_accuracy:97.5724% (7074 / 7250)
+Train_CLS_one_accuracy:93.0511% (2022 / 2173)
+Train_CLS_zero_accuracy:99.5076% (5052 / 5077)
+Valid_CLS_accuracy:88.7071% (1681 / 1895)
+Valid_CLS_one_accuracy:61.0294% (332 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:22[0/7250(0%)]	 loss:0.892108
+Train Epoch:22[5120/7250(70%)]	 loss:0.769627
+Valid: loss: 1.101826
+Train_CLS_accuracy:98.2069% (7120 / 7250)
+Train_CLS_one_accuracy:94.9379% (2063 / 2173)
+Train_CLS_zero_accuracy:99.6061% (5057 / 5077)
+Valid_CLS_accuracy:96.7282% (1833 / 1895)
+Valid_CLS_one_accuracy:88.9706% (484 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:23[0/7250(0%)]	 loss:1.017229
+Train Epoch:23[5120/7250(70%)]	 loss:0.797176
+Valid: loss: 1.139186
+Train_CLS_accuracy:98.0828% (7111 / 7250)
+Train_CLS_one_accuracy:94.3396% (2050 / 2173)
+Train_CLS_zero_accuracy:99.6849% (5061 / 5077)
+Valid_CLS_accuracy:96.3061% (1825 / 1895)
+Valid_CLS_one_accuracy:87.5000% (476 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:24[0/7250(0%)]	 loss:0.426340
+Train Epoch:24[5120/7250(70%)]	 loss:1.140562
+Valid: loss: 2.392340
+Train_CLS_accuracy:98.4000% (7134 / 7250)
+Train_CLS_one_accuracy:95.5821% (2077 / 2173)
+Train_CLS_zero_accuracy:99.6061% (5057 / 5077)
+Valid_CLS_accuracy:94.7757% (1796 / 1895)
+Valid_CLS_one_accuracy:82.3529% (448 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:25[0/7250(0%)]	 loss:1.192419
+Train Epoch:25[5120/7250(70%)]	 loss:0.873669
+Valid: loss: 1.576253
+Train_CLS_accuracy:97.5448% (7072 / 7250)
+Train_CLS_one_accuracy:92.7289% (2015 / 2173)
+Train_CLS_zero_accuracy:99.6061% (5057 / 5077)
+Valid_CLS_accuracy:96.2533% (1824 / 1895)
+Valid_CLS_one_accuracy:88.0515% (479 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:26[0/7250(0%)]	 loss:0.576850
+Train Epoch:26[5120/7250(70%)]	 loss:0.763740
+Valid: loss: 1.414934
+Train_CLS_accuracy:98.2897% (7126 / 7250)
+Train_CLS_one_accuracy:95.1680% (2068 / 2173)
+Train_CLS_zero_accuracy:99.6258% (5058 / 5077)
+Valid_CLS_accuracy:96.5172% (1829 / 1895)
+Valid_CLS_one_accuracy:88.2353% (480 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:27[0/7250(0%)]	 loss:1.179761
+Train Epoch:27[5120/7250(70%)]	 loss:0.663832
+Valid: loss: 0.985033
+Train_CLS_accuracy:98.0828% (7111 / 7250)
+Train_CLS_one_accuracy:94.2936% (2049 / 2173)
+Train_CLS_zero_accuracy:99.7045% (5062 / 5077)
+Valid_CLS_accuracy:97.3615% (1845 / 1895)
+Valid_CLS_one_accuracy:91.1765% (496 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:28[0/7250(0%)]	 loss:0.764840
+Train Epoch:28[5120/7250(70%)]	 loss:0.906348
+Valid: loss: 1.694673
+Train_CLS_accuracy:98.6897% (7155 / 7250)
+Train_CLS_one_accuracy:96.3185% (2093 / 2173)
+Train_CLS_zero_accuracy:99.7045% (5062 / 5077)
+Valid_CLS_accuracy:96.5699% (1830 / 1895)
+Valid_CLS_one_accuracy:88.6029% (482 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:29[0/7250(0%)]	 loss:1.476007
+Train Epoch:29[5120/7250(70%)]	 loss:0.825243
+Valid: loss: 1.595496
+Train_CLS_accuracy:98.0276% (7107 / 7250)
+Train_CLS_one_accuracy:94.2476% (2048 / 2173)
+Train_CLS_zero_accuracy:99.6455% (5059 / 5077)
+Valid_CLS_accuracy:94.5119% (1791 / 1895)
+Valid_CLS_one_accuracy:81.0662% (441 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:30[0/7250(0%)]	 loss:1.011595
+Train Epoch:30[5120/7250(70%)]	 loss:1.221413
+Valid: loss: 1.230078
+Train_CLS_accuracy:98.2897% (7126 / 7250)
+Train_CLS_one_accuracy:95.2140% (2069 / 2173)
+Train_CLS_zero_accuracy:99.6061% (5057 / 5077)
+Valid_CLS_accuracy:95.9894% (1819 / 1895)
+Valid_CLS_one_accuracy:86.7647% (472 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:31[0/7250(0%)]	 loss:0.914116
+Train Epoch:31[5120/7250(70%)]	 loss:0.840769
+Valid: loss: 1.701814
+Train_CLS_accuracy:98.5241% (7143 / 7250)
+Train_CLS_one_accuracy:95.8122% (2082 / 2173)
+Train_CLS_zero_accuracy:99.6849% (5061 / 5077)
+Valid_CLS_accuracy:97.2559% (1843 / 1895)
+Valid_CLS_one_accuracy:91.3603% (497 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:32[0/7250(0%)]	 loss:1.076006
+Train Epoch:32[5120/7250(70%)]	 loss:0.855386
+Valid: loss: 1.287042
+Train_CLS_accuracy:98.8276% (7165 / 7250)
+Train_CLS_one_accuracy:96.5486% (2098 / 2173)
+Train_CLS_zero_accuracy:99.8030% (5067 / 5077)
+Valid_CLS_accuracy:96.3588% (1826 / 1895)
+Valid_CLS_one_accuracy:87.8676% (478 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:33[0/7250(0%)]	 loss:0.953628
+Train Epoch:33[5120/7250(70%)]	 loss:0.894550
+Valid: loss: 1.429848
+Train_CLS_accuracy:98.1931% (7119 / 7250)
+Train_CLS_one_accuracy:94.9839% (2064 / 2173)
+Train_CLS_zero_accuracy:99.5667% (5055 / 5077)
+Valid_CLS_accuracy:93.8259% (1778 / 1895)
+Valid_CLS_one_accuracy:78.4926% (427 / 544)
+Valid_CLS_zero_accuracy:100.0000% (1351 / 1351)
+Train Epoch:34[0/7250(0%)]	 loss:0.874690
+Train Epoch:34[5120/7250(70%)]	 loss:0.602632
+Valid: loss: 1.340612
+Train_CLS_accuracy:98.4138% (7135 / 7250)
+Train_CLS_one_accuracy:95.4441% (2074 / 2173)
+Train_CLS_zero_accuracy:99.6849% (5061 / 5077)
+Valid_CLS_accuracy:95.7784% (1815 / 1895)
+Valid_CLS_one_accuracy:86.0294% (468 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:35[0/7250(0%)]	 loss:0.766537
+Train Epoch:35[5120/7250(70%)]	 loss:0.741785
+Valid: loss: 1.289439
+Train_CLS_accuracy:98.8000% (7163 / 7250)
+Train_CLS_one_accuracy:96.5025% (2097 / 2173)
+Train_CLS_zero_accuracy:99.7833% (5066 / 5077)
+Valid_CLS_accuracy:96.5172% (1829 / 1895)
+Valid_CLS_one_accuracy:88.0515% (479 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:36[0/7250(0%)]	 loss:0.909553
+Train Epoch:36[5120/7250(70%)]	 loss:1.479438
+Valid: loss: 1.101471
+Train_CLS_accuracy:98.3172% (7128 / 7250)
+Train_CLS_one_accuracy:94.9379% (2063 / 2173)
+Train_CLS_zero_accuracy:99.7636% (5065 / 5077)
+Valid_CLS_accuracy:97.6781% (1851 / 1895)
+Valid_CLS_one_accuracy:93.1985% (507 / 544)
+Valid_CLS_zero_accuracy:99.4819% (1344 / 1351)
+Train Epoch:37[0/7250(0%)]	 loss:0.797863
+Train Epoch:37[5120/7250(70%)]	 loss:0.946498
+Valid: loss: 1.379689
+Train_CLS_accuracy:98.7724% (7161 / 7250)
+Train_CLS_one_accuracy:96.5025% (2097 / 2173)
+Train_CLS_zero_accuracy:99.7439% (5064 / 5077)
+Valid_CLS_accuracy:98.0475% (1858 / 1895)
+Valid_CLS_one_accuracy:94.1176% (512 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:38[0/7250(0%)]	 loss:0.717082
+Train Epoch:38[5120/7250(70%)]	 loss:1.320396
+Valid: loss: 2.100297
+Train_CLS_accuracy:98.3862% (7133 / 7250)
+Train_CLS_one_accuracy:95.8122% (2082 / 2173)
+Train_CLS_zero_accuracy:99.4879% (5051 / 5077)
+Valid_CLS_accuracy:97.4670% (1847 / 1895)
+Valid_CLS_one_accuracy:91.9118% (500 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:39[0/7250(0%)]	 loss:1.087602
+Train Epoch:39[5120/7250(70%)]	 loss:0.859431
+Valid: loss: 1.213518
+Train_CLS_accuracy:98.8138% (7164 / 7250)
+Train_CLS_one_accuracy:96.7326% (2102 / 2173)
+Train_CLS_zero_accuracy:99.7045% (5062 / 5077)
+Valid_CLS_accuracy:97.7309% (1852 / 1895)
+Valid_CLS_one_accuracy:93.1985% (507 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:40[0/7250(0%)]	 loss:0.852953
+Train Epoch:40[5120/7250(70%)]	 loss:0.951019
+Valid: loss: 1.675236
+Train_CLS_accuracy:98.9103% (7171 / 7250)
+Train_CLS_one_accuracy:96.8247% (2104 / 2173)
+Train_CLS_zero_accuracy:99.8030% (5067 / 5077)
+Valid_CLS_accuracy:95.1451% (1803 / 1895)
+Valid_CLS_one_accuracy:83.8235% (456 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:41[0/7250(0%)]	 loss:0.960249
+Train Epoch:41[5120/7250(70%)]	 loss:1.789149
+Valid: loss: 4.205798
+Train_CLS_accuracy:98.7172% (7157 / 7250)
+Train_CLS_one_accuracy:96.7326% (2102 / 2173)
+Train_CLS_zero_accuracy:99.5667% (5055 / 5077)
+Valid_CLS_accuracy:95.4090% (1808 / 1895)
+Valid_CLS_one_accuracy:84.1912% (458 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:42[0/7250(0%)]	 loss:1.651312
+Train Epoch:42[5120/7250(70%)]	 loss:0.778141
+Valid: loss: 0.944067
+Train_CLS_accuracy:98.3310% (7129 / 7250)
+Train_CLS_one_accuracy:95.2600% (2070 / 2173)
+Train_CLS_zero_accuracy:99.6455% (5059 / 5077)
+Valid_CLS_accuracy:97.8364% (1854 / 1895)
+Valid_CLS_one_accuracy:93.1985% (507 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:43[0/7250(0%)]	 loss:0.864806
+Train Epoch:43[5120/7250(70%)]	 loss:0.729534
+Valid: loss: 1.174527
+Train_CLS_accuracy:98.9793% (7176 / 7250)
+Train_CLS_one_accuracy:97.0548% (2109 / 2173)
+Train_CLS_zero_accuracy:99.8030% (5067 / 5077)
+Valid_CLS_accuracy:98.0475% (1858 / 1895)
+Valid_CLS_one_accuracy:93.7500% (510 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:44[0/7250(0%)]	 loss:0.574465
+Train Epoch:44[5120/7250(70%)]	 loss:1.134242
+Valid: loss: 2.300949
+Train_CLS_accuracy:98.5793% (7147 / 7250)
+Train_CLS_one_accuracy:95.9503% (2085 / 2173)
+Train_CLS_zero_accuracy:99.7045% (5062 / 5077)
+Valid_CLS_accuracy:96.0950% (1821 / 1895)
+Valid_CLS_one_accuracy:86.9485% (473 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:45[0/7250(0%)]	 loss:1.113382
+Train Epoch:45[5120/7250(70%)]	 loss:0.727560
+Valid: loss: 2.139686
+Train_CLS_accuracy:98.9793% (7176 / 7250)
+Train_CLS_one_accuracy:97.1928% (2112 / 2173)
+Train_CLS_zero_accuracy:99.7439% (5064 / 5077)
+Valid_CLS_accuracy:97.0976% (1840 / 1895)
+Valid_CLS_one_accuracy:90.9926% (495 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:46[0/7250(0%)]	 loss:0.393056
+Train Epoch:46[5120/7250(70%)]	 loss:0.837244
+Valid: loss: 0.806288
+Train_CLS_accuracy:98.6069% (7149 / 7250)
+Train_CLS_one_accuracy:96.2724% (2092 / 2173)
+Train_CLS_zero_accuracy:99.6061% (5057 / 5077)
+Valid_CLS_accuracy:97.9947% (1857 / 1895)
+Valid_CLS_one_accuracy:93.9338% (511 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:47[0/7250(0%)]	 loss:0.706067
+Train Epoch:47[5120/7250(70%)]	 loss:0.575104
+Valid: loss: 1.366188
+Train_CLS_accuracy:98.5379% (7144 / 7250)
+Train_CLS_one_accuracy:95.9963% (2086 / 2173)
+Train_CLS_zero_accuracy:99.6258% (5058 / 5077)
+Valid_CLS_accuracy:97.2559% (1843 / 1895)
+Valid_CLS_one_accuracy:90.8088% (494 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:48[0/7250(0%)]	 loss:0.846473
+Train Epoch:48[5120/7250(70%)]	 loss:0.655285
+Valid: loss: 1.392435
+Train_CLS_accuracy:99.0759% (7183 / 7250)
+Train_CLS_one_accuracy:97.2849% (2114 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:97.3615% (1845 / 1895)
+Valid_CLS_one_accuracy:91.3603% (497 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:49[0/7250(0%)]	 loss:0.527565
+Train Epoch:49[5120/7250(70%)]	 loss:1.296870
+Valid: loss: 1.300307
+Train_CLS_accuracy:99.0483% (7181 / 7250)
+Train_CLS_one_accuracy:97.1468% (2111 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:95.9894% (1819 / 1895)
+Valid_CLS_one_accuracy:86.3971% (470 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:50[0/7250(0%)]	 loss:0.912883
+Train Epoch:50[5120/7250(70%)]	 loss:0.752252
+Valid: loss: 0.867259
+Train_CLS_accuracy:99.0897% (7184 / 7250)
+Train_CLS_one_accuracy:97.2849% (2114 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:97.7836% (1853 / 1895)
+Valid_CLS_one_accuracy:93.0147% (506 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:51[0/7250(0%)]	 loss:0.732789
+Train Epoch:51[5120/7250(70%)]	 loss:0.950834
+Valid: loss: 1.138942
+Train_CLS_accuracy:99.2138% (7193 / 7250)
+Train_CLS_one_accuracy:97.7451% (2124 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:97.2559% (1843 / 1895)
+Valid_CLS_one_accuracy:92.0956% (501 / 544)
+Valid_CLS_zero_accuracy:99.3338% (1342 / 1351)
+Train Epoch:52[0/7250(0%)]	 loss:0.773850
+Train Epoch:52[5120/7250(70%)]	 loss:0.632203
+Valid: loss: 5.646015
+Train_CLS_accuracy:98.8828% (7169 / 7250)
+Train_CLS_one_accuracy:97.0087% (2108 / 2173)
+Train_CLS_zero_accuracy:99.6849% (5061 / 5077)
+Valid_CLS_accuracy:93.2454% (1767 / 1895)
+Valid_CLS_one_accuracy:79.0441% (430 / 544)
+Valid_CLS_zero_accuracy:98.9637% (1337 / 1351)
+Train Epoch:53[0/7250(0%)]	 loss:4.055039
+Train Epoch:53[5120/7250(70%)]	 loss:0.833856
+Valid: loss: 1.188322
+Train_CLS_accuracy:98.5655% (7146 / 7250)
+Train_CLS_one_accuracy:95.8122% (2082 / 2173)
+Train_CLS_zero_accuracy:99.7439% (5064 / 5077)
+Valid_CLS_accuracy:98.2058% (1861 / 1895)
+Valid_CLS_one_accuracy:94.8529% (516 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:54[0/7250(0%)]	 loss:0.650616
+Train Epoch:54[5120/7250(70%)]	 loss:0.528287
+Valid: loss: 0.842177
+Train_CLS_accuracy:99.2414% (7195 / 7250)
+Train_CLS_one_accuracy:97.6530% (2122 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:97.8892% (1855 / 1895)
+Valid_CLS_one_accuracy:93.7500% (510 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:55[0/7250(0%)]	 loss:0.755618
+Train Epoch:55[5120/7250(70%)]	 loss:0.927344
+Valid: loss: 2.441088
+Train_CLS_accuracy:99.3517% (7203 / 7250)
+Train_CLS_one_accuracy:98.2513% (2135 / 2173)
+Train_CLS_zero_accuracy:99.8227% (5068 / 5077)
+Valid_CLS_accuracy:90.7124% (1719 / 1895)
+Valid_CLS_one_accuracy:68.0147% (370 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:56[0/7250(0%)]	 loss:0.512117
+Train Epoch:56[5120/7250(70%)]	 loss:0.850462
+Valid: loss: 1.255213
+Train_CLS_accuracy:99.1862% (7191 / 7250)
+Train_CLS_one_accuracy:97.6530% (2122 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:97.8892% (1855 / 1895)
+Valid_CLS_one_accuracy:93.9338% (511 / 544)
+Valid_CLS_zero_accuracy:99.4819% (1344 / 1351)
+Train Epoch:57[0/7250(0%)]	 loss:0.472858
+Train Epoch:57[5120/7250(70%)]	 loss:1.092428
+Valid: loss: 1.754793
+Train_CLS_accuracy:98.2069% (7120 / 7250)
+Train_CLS_one_accuracy:95.6282% (2078 / 2173)
+Train_CLS_zero_accuracy:99.3106% (5042 / 5077)
+Valid_CLS_accuracy:92.6649% (1756 / 1895)
+Valid_CLS_one_accuracy:74.6324% (406 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:58[0/7250(0%)]	 loss:1.074736
+Train Epoch:58[5120/7250(70%)]	 loss:0.720687
+Valid: loss: 0.938319
+Train_CLS_accuracy:98.8828% (7169 / 7250)
+Train_CLS_one_accuracy:96.9627% (2107 / 2173)
+Train_CLS_zero_accuracy:99.7045% (5062 / 5077)
+Valid_CLS_accuracy:97.5198% (1848 / 1895)
+Valid_CLS_one_accuracy:91.7279% (499 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:59[0/7250(0%)]	 loss:0.691094
+Train Epoch:59[5120/7250(70%)]	 loss:0.611521
+Valid: loss: 1.262102
+Train_CLS_accuracy:99.3655% (7204 / 7250)
+Train_CLS_one_accuracy:98.1132% (2132 / 2173)
+Train_CLS_zero_accuracy:99.9015% (5072 / 5077)
+Valid_CLS_accuracy:97.7309% (1852 / 1895)
+Valid_CLS_one_accuracy:93.0147% (506 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:60[0/7250(0%)]	 loss:0.784023
+Train Epoch:60[5120/7250(70%)]	 loss:1.436632
+Valid: loss: 1.229985
+Train_CLS_accuracy:99.0897% (7184 / 7250)
+Train_CLS_one_accuracy:97.5610% (2120 / 2173)
+Train_CLS_zero_accuracy:99.7439% (5064 / 5077)
+Valid_CLS_accuracy:97.7309% (1852 / 1895)
+Valid_CLS_one_accuracy:92.6471% (504 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:61[0/7250(0%)]	 loss:0.885096
+Train Epoch:61[5120/7250(70%)]	 loss:0.917859
+Valid: loss: 1.281217
+Train_CLS_accuracy:99.0069% (7178 / 7250)
+Train_CLS_one_accuracy:97.2388% (2113 / 2173)
+Train_CLS_zero_accuracy:99.7636% (5065 / 5077)
+Valid_CLS_accuracy:97.1504% (1841 / 1895)
+Valid_CLS_one_accuracy:90.4412% (492 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:62[0/7250(0%)]	 loss:0.667201
+Train Epoch:62[5120/7250(70%)]	 loss:0.998072
+Valid: loss: 1.699228
+Train_CLS_accuracy:99.5448% (7217 / 7250)
+Train_CLS_one_accuracy:98.5274% (2141 / 2173)
+Train_CLS_zero_accuracy:99.9803% (5076 / 5077)
+Valid_CLS_accuracy:98.1530% (1860 / 1895)
+Valid_CLS_one_accuracy:94.1176% (512 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:63[0/7250(0%)]	 loss:0.779531
+Train Epoch:63[5120/7250(70%)]	 loss:0.749293
+Valid: loss: 0.749474
+Train_CLS_accuracy:99.2276% (7194 / 7250)
+Train_CLS_one_accuracy:97.6990% (2123 / 2173)
+Train_CLS_zero_accuracy:99.8818% (5071 / 5077)
+Valid_CLS_accuracy:98.2058% (1861 / 1895)
+Valid_CLS_one_accuracy:94.3015% (513 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:64[0/7250(0%)]	 loss:0.433667
+Train Epoch:64[5120/7250(70%)]	 loss:0.751416
+Valid: loss: 1.290519
+Train_CLS_accuracy:98.8690% (7168 / 7250)
+Train_CLS_one_accuracy:97.0548% (2109 / 2173)
+Train_CLS_zero_accuracy:99.6455% (5059 / 5077)
+Valid_CLS_accuracy:95.5145% (1810 / 1895)
+Valid_CLS_one_accuracy:85.4779% (465 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:65[0/7250(0%)]	 loss:0.785931
+Train Epoch:65[5120/7250(70%)]	 loss:0.749157
+Valid: loss: 1.004923
+Train_CLS_accuracy:98.1517% (7116 / 7250)
+Train_CLS_one_accuracy:94.7078% (2058 / 2173)
+Train_CLS_zero_accuracy:99.6258% (5058 / 5077)
+Valid_CLS_accuracy:97.5198% (1848 / 1895)
+Valid_CLS_one_accuracy:91.5441% (498 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:66[0/7250(0%)]	 loss:0.960393
+Train Epoch:66[5120/7250(70%)]	 loss:0.645811
+Valid: loss: 0.914339
+Train_CLS_accuracy:99.0897% (7184 / 7250)
+Train_CLS_one_accuracy:97.3309% (2115 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:98.4169% (1865 / 1895)
+Valid_CLS_one_accuracy:96.3235% (524 / 544)
+Valid_CLS_zero_accuracy:99.2598% (1341 / 1351)
+Train Epoch:67[0/7250(0%)]	 loss:0.638274
+Train Epoch:67[5120/7250(70%)]	 loss:0.844797
+Valid: loss: 1.242887
+Train_CLS_accuracy:99.3379% (7202 / 7250)
+Train_CLS_one_accuracy:98.2052% (2134 / 2173)
+Train_CLS_zero_accuracy:99.8227% (5068 / 5077)
+Valid_CLS_accuracy:98.2058% (1861 / 1895)
+Valid_CLS_one_accuracy:94.4853% (514 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:68[0/7250(0%)]	 loss:0.815618
+Train Epoch:68[5120/7250(70%)]	 loss:0.863590
+Valid: loss: 3.207670
+Train_CLS_accuracy:99.1310% (7187 / 7250)
+Train_CLS_one_accuracy:97.6530% (2122 / 2173)
+Train_CLS_zero_accuracy:99.7636% (5065 / 5077)
+Valid_CLS_accuracy:94.1425% (1784 / 1895)
+Valid_CLS_one_accuracy:80.5147% (438 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:69[0/7250(0%)]	 loss:0.484627
+Train Epoch:69[5120/7250(70%)]	 loss:0.542640
+Valid: loss: 1.602184
+Train_CLS_accuracy:98.4276% (7136 / 7250)
+Train_CLS_one_accuracy:95.9503% (2085 / 2173)
+Train_CLS_zero_accuracy:99.4879% (5051 / 5077)
+Valid_CLS_accuracy:96.8865% (1836 / 1895)
+Valid_CLS_one_accuracy:90.2574% (491 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:70[0/7250(0%)]	 loss:1.264558
+Train Epoch:70[5120/7250(70%)]	 loss:0.371331
+Valid: loss: 1.181251
+Train_CLS_accuracy:99.1724% (7190 / 7250)
+Train_CLS_one_accuracy:97.6070% (2121 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:97.6253% (1850 / 1895)
+Valid_CLS_one_accuracy:92.2794% (502 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:71[0/7250(0%)]	 loss:0.556237
+Train Epoch:71[5120/7250(70%)]	 loss:0.714498
+Valid: loss: 1.332265
+Train_CLS_accuracy:99.4483% (7210 / 7250)
+Train_CLS_one_accuracy:98.3893% (2138 / 2173)
+Train_CLS_zero_accuracy:99.9015% (5072 / 5077)
+Valid_CLS_accuracy:96.9921% (1838 / 1895)
+Valid_CLS_one_accuracy:89.7059% (488 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:72[0/7250(0%)]	 loss:0.553673
+Train Epoch:72[5120/7250(70%)]	 loss:0.783142
+Valid: loss: 1.225717
+Train_CLS_accuracy:99.4621% (7211 / 7250)
+Train_CLS_one_accuracy:98.4814% (2140 / 2173)
+Train_CLS_zero_accuracy:99.8818% (5071 / 5077)
+Valid_CLS_accuracy:98.6280% (1869 / 1895)
+Valid_CLS_one_accuracy:96.1397% (523 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:73[0/7250(0%)]	 loss:0.737876
+Train Epoch:73[5120/7250(70%)]	 loss:0.888326
+Valid: loss: 1.775562
+Train_CLS_accuracy:98.6621% (7153 / 7250)
+Train_CLS_one_accuracy:96.7786% (2103 / 2173)
+Train_CLS_zero_accuracy:99.4682% (5050 / 5077)
+Valid_CLS_accuracy:96.9921% (1838 / 1895)
+Valid_CLS_one_accuracy:89.8897% (489 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:74[0/7250(0%)]	 loss:0.607094
+Train Epoch:74[5120/7250(70%)]	 loss:0.882605
+Valid: loss: 0.820192
+Train_CLS_accuracy:99.4069% (7207 / 7250)
+Train_CLS_one_accuracy:98.2052% (2134 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.1530% (1860 / 1895)
+Valid_CLS_one_accuracy:94.4853% (514 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:75[0/7250(0%)]	 loss:0.575744
+Train Epoch:75[5120/7250(70%)]	 loss:0.565537
+Valid: loss: 2.847506
+Train_CLS_accuracy:99.3793% (7205 / 7250)
+Train_CLS_one_accuracy:98.1592% (2133 / 2173)
+Train_CLS_zero_accuracy:99.9015% (5072 / 5077)
+Valid_CLS_accuracy:97.6253% (1850 / 1895)
+Valid_CLS_one_accuracy:92.6471% (504 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:76[0/7250(0%)]	 loss:0.474891
+Train Epoch:76[5120/7250(70%)]	 loss:0.897498
+Valid: loss: 1.933728
+Train_CLS_accuracy:99.1310% (7187 / 7250)
+Train_CLS_one_accuracy:98.0212% (2130 / 2173)
+Train_CLS_zero_accuracy:99.6061% (5057 / 5077)
+Valid_CLS_accuracy:96.6227% (1831 / 1895)
+Valid_CLS_one_accuracy:88.9706% (484 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:77[0/7250(0%)]	 loss:0.886128
+Train Epoch:77[5120/7250(70%)]	 loss:0.577394
+Valid: loss: 1.090833
+Train_CLS_accuracy:98.6069% (7149 / 7250)
+Train_CLS_one_accuracy:96.2724% (2092 / 2173)
+Train_CLS_zero_accuracy:99.6061% (5057 / 5077)
+Valid_CLS_accuracy:97.9947% (1857 / 1895)
+Valid_CLS_one_accuracy:94.8529% (516 / 544)
+Valid_CLS_zero_accuracy:99.2598% (1341 / 1351)
+Train Epoch:78[0/7250(0%)]	 loss:1.503233
+Train Epoch:78[5120/7250(70%)]	 loss:0.725935
+Valid: loss: 2.170726
+Train_CLS_accuracy:99.4207% (7208 / 7250)
+Train_CLS_one_accuracy:98.4353% (2139 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:95.2507% (1805 / 1895)
+Valid_CLS_one_accuracy:84.0074% (457 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:79[0/7250(0%)]	 loss:0.428258
+Train Epoch:79[5120/7250(70%)]	 loss:0.764374
+Valid: loss: 1.299434
+Train_CLS_accuracy:99.4621% (7211 / 7250)
+Train_CLS_one_accuracy:98.5734% (2142 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:98.3641% (1864 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.3338% (1342 / 1351)
+Train Epoch:80[0/7250(0%)]	 loss:0.601887
+Train Epoch:80[5120/7250(70%)]	 loss:0.466516
+Valid: loss: 1.298822
+Train_CLS_accuracy:99.4483% (7210 / 7250)
+Train_CLS_one_accuracy:98.4814% (2140 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:97.3615% (1845 / 1895)
+Valid_CLS_one_accuracy:91.5441% (498 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:81[0/7250(0%)]	 loss:0.520397
+Train Epoch:81[5120/7250(70%)]	 loss:0.954254
+Valid: loss: 0.752528
+Train_CLS_accuracy:99.3517% (7203 / 7250)
+Train_CLS_one_accuracy:98.1592% (2133 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:97.3087% (1844 / 1895)
+Valid_CLS_one_accuracy:90.8088% (494 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:82[0/7250(0%)]	 loss:0.965358
+Train Epoch:82[5120/7250(70%)]	 loss:0.854616
+Valid: loss: 1.096977
+Train_CLS_accuracy:99.1586% (7189 / 7250)
+Train_CLS_one_accuracy:97.6530% (2122 / 2173)
+Train_CLS_zero_accuracy:99.8030% (5067 / 5077)
+Valid_CLS_accuracy:97.8892% (1855 / 1895)
+Valid_CLS_one_accuracy:92.8309% (505 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:83[0/7250(0%)]	 loss:0.502857
+Train Epoch:83[5120/7250(70%)]	 loss:0.934074
+Valid: loss: 1.819662
+Train_CLS_accuracy:99.5172% (7215 / 7250)
+Train_CLS_one_accuracy:98.5734% (2142 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:97.9420% (1856 / 1895)
+Valid_CLS_one_accuracy:93.5662% (509 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:84[0/7250(0%)]	 loss:0.662296
+Train Epoch:84[5120/7250(70%)]	 loss:0.527314
+Valid: loss: 3.808456
+Train_CLS_accuracy:98.5103% (7142 / 7250)
+Train_CLS_one_accuracy:96.5025% (2097 / 2173)
+Train_CLS_zero_accuracy:99.3697% (5045 / 5077)
+Valid_CLS_accuracy:96.2533% (1824 / 1895)
+Valid_CLS_one_accuracy:87.3162% (475 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:85[0/7250(0%)]	 loss:0.527121
+Train Epoch:85[5120/7250(70%)]	 loss:0.939265
+Valid: loss: 1.371465
+Train_CLS_accuracy:98.6621% (7153 / 7250)
+Train_CLS_one_accuracy:96.6866% (2101 / 2173)
+Train_CLS_zero_accuracy:99.5076% (5052 / 5077)
+Valid_CLS_accuracy:98.5752% (1868 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:86[0/7250(0%)]	 loss:0.810712
+Train Epoch:86[5120/7250(70%)]	 loss:0.672089
+Valid: loss: 1.343344
+Train_CLS_accuracy:99.4759% (7212 / 7250)
+Train_CLS_one_accuracy:98.6654% (2144 / 2173)
+Train_CLS_zero_accuracy:99.8227% (5068 / 5077)
+Valid_CLS_accuracy:98.0475% (1858 / 1895)
+Valid_CLS_one_accuracy:93.7500% (510 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:87[0/7250(0%)]	 loss:0.678361
+Train Epoch:87[5120/7250(70%)]	 loss:1.335490
+Valid: loss: 1.344639
+Train_CLS_accuracy:99.5724% (7219 / 7250)
+Train_CLS_one_accuracy:98.7575% (2146 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.4169% (1865 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:88[0/7250(0%)]	 loss:0.855815
+Train Epoch:88[5120/7250(70%)]	 loss:0.505672
+Valid: loss: 1.476455
+Train_CLS_accuracy:99.5586% (7218 / 7250)
+Train_CLS_one_accuracy:98.8955% (2149 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:98.2058% (1861 / 1895)
+Valid_CLS_one_accuracy:94.8529% (516 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:89[0/7250(0%)]	 loss:0.493895
+Train Epoch:89[5120/7250(70%)]	 loss:0.539425
+Valid: loss: 0.881976
+Train_CLS_accuracy:98.8276% (7165 / 7250)
+Train_CLS_one_accuracy:96.5946% (2099 / 2173)
+Train_CLS_zero_accuracy:99.7833% (5066 / 5077)
+Valid_CLS_accuracy:97.7836% (1853 / 1895)
+Valid_CLS_one_accuracy:92.4632% (503 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:90[0/7250(0%)]	 loss:0.522753
+Train Epoch:90[5120/7250(70%)]	 loss:0.413211
+Valid: loss: 0.971555
+Train_CLS_accuracy:99.2966% (7199 / 7250)
+Train_CLS_one_accuracy:97.9751% (2129 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:98.6280% (1869 / 1895)
+Valid_CLS_one_accuracy:96.5074% (525 / 544)
+Valid_CLS_zero_accuracy:99.4819% (1344 / 1351)
+Train Epoch:91[0/7250(0%)]	 loss:0.664088
+Train Epoch:91[5120/7250(70%)]	 loss:0.642224
+Valid: loss: 1.152838
+Train_CLS_accuracy:99.2690% (7197 / 7250)
+Train_CLS_one_accuracy:98.0672% (2131 / 2173)
+Train_CLS_zero_accuracy:99.7833% (5066 / 5077)
+Valid_CLS_accuracy:98.4697% (1866 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.4819% (1344 / 1351)
+Train Epoch:92[0/7250(0%)]	 loss:0.821118
+Train Epoch:92[5120/7250(70%)]	 loss:0.295921
+Valid: loss: 1.501949
+Train_CLS_accuracy:99.2138% (7193 / 7250)
+Train_CLS_one_accuracy:97.8831% (2127 / 2173)
+Train_CLS_zero_accuracy:99.7833% (5066 / 5077)
+Valid_CLS_accuracy:96.7810% (1834 / 1895)
+Valid_CLS_one_accuracy:89.3382% (486 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:93[0/7250(0%)]	 loss:0.799992
+Train Epoch:93[5120/7250(70%)]	 loss:0.679398
+Valid: loss: 0.756155
+Train_CLS_accuracy:99.3793% (7205 / 7250)
+Train_CLS_one_accuracy:98.2513% (2135 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:98.4169% (1865 / 1895)
+Valid_CLS_one_accuracy:95.0368% (517 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:94[0/7250(0%)]	 loss:0.920024
+Train Epoch:94[5120/7250(70%)]	 loss:0.558033
+Valid: loss: 1.268067
+Train_CLS_accuracy:99.4621% (7211 / 7250)
+Train_CLS_one_accuracy:98.5734% (2142 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:98.2586% (1862 / 1895)
+Valid_CLS_one_accuracy:95.0368% (517 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:95[0/7250(0%)]	 loss:0.681894
+Train Epoch:95[5120/7250(70%)]	 loss:0.963898
+Valid: loss: 1.265432
+Train_CLS_accuracy:98.6621% (7153 / 7250)
+Train_CLS_one_accuracy:96.4105% (2095 / 2173)
+Train_CLS_zero_accuracy:99.6258% (5058 / 5077)
+Valid_CLS_accuracy:97.4142% (1846 / 1895)
+Valid_CLS_one_accuracy:92.8309% (505 / 544)
+Valid_CLS_zero_accuracy:99.2598% (1341 / 1351)
+Train Epoch:96[0/7250(0%)]	 loss:0.873461
+Train Epoch:96[5120/7250(70%)]	 loss:0.753597
+Valid: loss: 4.027320
+Train_CLS_accuracy:98.9379% (7173 / 7250)
+Train_CLS_one_accuracy:97.2849% (2114 / 2173)
+Train_CLS_zero_accuracy:99.6455% (5059 / 5077)
+Valid_CLS_accuracy:98.1530% (1860 / 1895)
+Valid_CLS_one_accuracy:94.4853% (514 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:97[0/7250(0%)]	 loss:0.485665
+Train Epoch:97[5120/7250(70%)]	 loss:0.777949
+Valid: loss: 1.873238
+Train_CLS_accuracy:99.4759% (7212 / 7250)
+Train_CLS_one_accuracy:98.5734% (2142 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:98.2586% (1862 / 1895)
+Valid_CLS_one_accuracy:95.0368% (517 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:98[0/7250(0%)]	 loss:0.792895
+Train Epoch:98[5120/7250(70%)]	 loss:0.553838
+Valid: loss: 1.178874
+Train_CLS_accuracy:99.5586% (7218 / 7250)
+Train_CLS_one_accuracy:98.7115% (2145 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.4169% (1865 / 1895)
+Valid_CLS_one_accuracy:95.4044% (519 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:99[0/7250(0%)]	 loss:0.466421
+Train Epoch:99[5120/7250(70%)]	 loss:0.791809
+Valid: loss: 3.363558
+Train_CLS_accuracy:99.5724% (7219 / 7250)
+Train_CLS_one_accuracy:98.7115% (2145 / 2173)
+Train_CLS_zero_accuracy:99.9409% (5074 / 5077)
+Valid_CLS_accuracy:98.2586% (1862 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.1858% (1340 / 1351)
+Train Epoch:100[0/7250(0%)]	 loss:0.668451
+Train Epoch:100[5120/7250(70%)]	 loss:0.807763
+Valid: loss: 1.754460
+Train_CLS_accuracy:99.2138% (7193 / 7250)
+Train_CLS_one_accuracy:97.6530% (2122 / 2173)
+Train_CLS_zero_accuracy:99.8818% (5071 / 5077)
+Valid_CLS_accuracy:95.1979% (1804 / 1895)
+Valid_CLS_one_accuracy:84.3750% (459 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:101[0/7250(0%)]	 loss:0.703851
+Train Epoch:101[5120/7250(70%)]	 loss:0.864038
+Valid: loss: 0.957718
+Train_CLS_accuracy:98.0000% (7105 / 7250)
+Train_CLS_one_accuracy:95.1220% (2067 / 2173)
+Train_CLS_zero_accuracy:99.2318% (5038 / 5077)
+Valid_CLS_accuracy:98.1003% (1859 / 1895)
+Valid_CLS_one_accuracy:94.6691% (515 / 544)
+Valid_CLS_zero_accuracy:99.4819% (1344 / 1351)
+Train Epoch:102[0/7250(0%)]	 loss:0.774143
+Train Epoch:102[5120/7250(70%)]	 loss:0.551173
+Valid: loss: 1.381485
+Train_CLS_accuracy:99.3517% (7203 / 7250)
+Train_CLS_one_accuracy:98.2513% (2135 / 2173)
+Train_CLS_zero_accuracy:99.8227% (5068 / 5077)
+Valid_CLS_accuracy:97.6781% (1851 / 1895)
+Valid_CLS_one_accuracy:92.6471% (504 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:103[0/7250(0%)]	 loss:0.524265
+Train Epoch:103[5120/7250(70%)]	 loss:0.329314
+Valid: loss: 1.227679
+Train_CLS_accuracy:99.3931% (7206 / 7250)
+Train_CLS_one_accuracy:98.2973% (2136 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:98.0475% (1858 / 1895)
+Valid_CLS_one_accuracy:93.5662% (509 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:104[0/7250(0%)]	 loss:0.373872
+Train Epoch:104[5120/7250(70%)]	 loss:0.639810
+Valid: loss: 1.448668
+Train_CLS_accuracy:99.4759% (7212 / 7250)
+Train_CLS_one_accuracy:98.4353% (2139 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.7335% (1871 / 1895)
+Valid_CLS_one_accuracy:97.2426% (529 / 544)
+Valid_CLS_zero_accuracy:99.3338% (1342 / 1351)
+Train Epoch:105[0/7250(0%)]	 loss:0.606380
+Train Epoch:105[5120/7250(70%)]	 loss:0.493986
+Valid: loss: 1.537873
+Train_CLS_accuracy:99.3931% (7206 / 7250)
+Train_CLS_one_accuracy:98.5274% (2141 / 2173)
+Train_CLS_zero_accuracy:99.7636% (5065 / 5077)
+Valid_CLS_accuracy:97.2559% (1843 / 1895)
+Valid_CLS_one_accuracy:90.8088% (494 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:106[0/7250(0%)]	 loss:0.578656
+Train Epoch:106[5120/7250(70%)]	 loss:0.671335
+Valid: loss: 1.011552
+Train_CLS_accuracy:99.2276% (7194 / 7250)
+Train_CLS_one_accuracy:97.8831% (2127 / 2173)
+Train_CLS_zero_accuracy:99.8030% (5067 / 5077)
+Valid_CLS_accuracy:97.6253% (1850 / 1895)
+Valid_CLS_one_accuracy:93.5662% (509 / 544)
+Valid_CLS_zero_accuracy:99.2598% (1341 / 1351)
+Train Epoch:107[0/7250(0%)]	 loss:0.682239
+Train Epoch:107[5120/7250(70%)]	 loss:0.736491
+Valid: loss: 1.282250
+Train_CLS_accuracy:97.9586% (7102 / 7250)
+Train_CLS_one_accuracy:95.4441% (2074 / 2173)
+Train_CLS_zero_accuracy:99.0349% (5028 / 5077)
+Valid_CLS_accuracy:97.1504% (1841 / 1895)
+Valid_CLS_one_accuracy:90.6250% (493 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:108[0/7250(0%)]	 loss:0.487425
+Train Epoch:108[5120/7250(70%)]	 loss:0.639863
+Valid: loss: 1.097065
+Train_CLS_accuracy:99.4759% (7212 / 7250)
+Train_CLS_one_accuracy:98.6654% (2144 / 2173)
+Train_CLS_zero_accuracy:99.8227% (5068 / 5077)
+Valid_CLS_accuracy:98.0475% (1858 / 1895)
+Valid_CLS_one_accuracy:94.1176% (512 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:109[0/7250(0%)]	 loss:0.573958
+Train Epoch:109[5120/7250(70%)]	 loss:0.614368
+Valid: loss: 1.153466
+Train_CLS_accuracy:99.5724% (7219 / 7250)
+Train_CLS_one_accuracy:98.8955% (2149 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:97.2559% (1843 / 1895)
+Valid_CLS_one_accuracy:90.9926% (495 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:110[0/7250(0%)]	 loss:0.466309
+Train Epoch:110[5120/7250(70%)]	 loss:0.701793
+Valid: loss: 2.060240
+Train_CLS_accuracy:99.4483% (7210 / 7250)
+Train_CLS_one_accuracy:98.5734% (2142 / 2173)
+Train_CLS_zero_accuracy:99.8227% (5068 / 5077)
+Valid_CLS_accuracy:94.0897% (1783 / 1895)
+Valid_CLS_one_accuracy:79.7794% (434 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:111[0/7250(0%)]	 loss:0.819552
+Train Epoch:111[5120/7250(70%)]	 loss:0.410679
+Valid: loss: 3.653076
+Train_CLS_accuracy:99.4483% (7210 / 7250)
+Train_CLS_one_accuracy:98.5734% (2142 / 2173)
+Train_CLS_zero_accuracy:99.8227% (5068 / 5077)
+Valid_CLS_accuracy:97.9420% (1856 / 1895)
+Valid_CLS_one_accuracy:93.9338% (511 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:112[0/7250(0%)]	 loss:0.559862
+Train Epoch:112[5120/7250(70%)]	 loss:0.699049
+Valid: loss: 16.956646
+Train_CLS_accuracy:99.2138% (7193 / 7250)
+Train_CLS_one_accuracy:98.0672% (2131 / 2173)
+Train_CLS_zero_accuracy:99.7045% (5062 / 5077)
+Valid_CLS_accuracy:88.0739% (1669 / 1895)
+Valid_CLS_one_accuracy:60.4779% (329 / 544)
+Valid_CLS_zero_accuracy:99.1858% (1340 / 1351)
+Train Epoch:113[0/7250(0%)]	 loss:1.000291
+Train Epoch:113[5120/7250(70%)]	 loss:1.139174
+Valid: loss: 2.540550
+Train_CLS_accuracy:98.4828% (7140 / 7250)
+Train_CLS_one_accuracy:96.6406% (2100 / 2173)
+Train_CLS_zero_accuracy:99.2712% (5040 / 5077)
+Valid_CLS_accuracy:95.2507% (1805 / 1895)
+Valid_CLS_one_accuracy:83.8235% (456 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:114[0/7250(0%)]	 loss:0.702679
+Train Epoch:114[5120/7250(70%)]	 loss:0.550093
+Valid: loss: 1.033503
+Train_CLS_accuracy:98.9379% (7173 / 7250)
+Train_CLS_one_accuracy:97.4689% (2118 / 2173)
+Train_CLS_zero_accuracy:99.5667% (5055 / 5077)
+Valid_CLS_accuracy:96.2533% (1824 / 1895)
+Valid_CLS_one_accuracy:87.1324% (474 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:115[0/7250(0%)]	 loss:0.589742
+Train Epoch:115[5120/7250(70%)]	 loss:0.452961
+Valid: loss: 1.446215
+Train_CLS_accuracy:99.0897% (7184 / 7250)
+Train_CLS_one_accuracy:97.9751% (2129 / 2173)
+Train_CLS_zero_accuracy:99.5667% (5055 / 5077)
+Valid_CLS_accuracy:97.2032% (1842 / 1895)
+Valid_CLS_one_accuracy:90.6250% (493 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:116[0/7250(0%)]	 loss:0.777919
+Train Epoch:116[5120/7250(70%)]	 loss:0.709981
+Valid: loss: 1.024195
+Train_CLS_accuracy:99.2000% (7192 / 7250)
+Train_CLS_one_accuracy:97.8371% (2126 / 2173)
+Train_CLS_zero_accuracy:99.7833% (5066 / 5077)
+Valid_CLS_accuracy:97.8364% (1854 / 1895)
+Valid_CLS_one_accuracy:93.3824% (508 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:117[0/7250(0%)]	 loss:0.817922
+Train Epoch:117[5120/7250(70%)]	 loss:0.802067
+Valid: loss: 1.052717
+Train_CLS_accuracy:99.6138% (7222 / 7250)
+Train_CLS_one_accuracy:98.9416% (2150 / 2173)
+Train_CLS_zero_accuracy:99.9015% (5072 / 5077)
+Valid_CLS_accuracy:97.8892% (1855 / 1895)
+Valid_CLS_one_accuracy:94.1176% (512 / 544)
+Valid_CLS_zero_accuracy:99.4078% (1343 / 1351)
+Train Epoch:118[0/7250(0%)]	 loss:0.571246
+Train Epoch:118[5120/7250(70%)]	 loss:0.443906
+Valid: loss: 10.826299
+Train_CLS_accuracy:99.3931% (7206 / 7250)
+Train_CLS_one_accuracy:98.4814% (2140 / 2173)
+Train_CLS_zero_accuracy:99.7833% (5066 / 5077)
+Valid_CLS_accuracy:95.6728% (1813 / 1895)
+Valid_CLS_one_accuracy:85.8456% (467 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:119[0/7250(0%)]	 loss:2.061405
+Train Epoch:119[5120/7250(70%)]	 loss:0.573137
+Valid: loss: 4.453918
+Train_CLS_accuracy:98.4966% (7141 / 7250)
+Train_CLS_one_accuracy:96.2724% (2092 / 2173)
+Train_CLS_zero_accuracy:99.4485% (5049 / 5077)
+Valid_CLS_accuracy:97.7836% (1853 / 1895)
+Valid_CLS_one_accuracy:93.3824% (508 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:120[0/7250(0%)]	 loss:0.533725
+Train Epoch:120[5120/7250(70%)]	 loss:0.725533
+Valid: loss: 4.450296
+Train_CLS_accuracy:99.2000% (7192 / 7250)
+Train_CLS_one_accuracy:98.0212% (2130 / 2173)
+Train_CLS_zero_accuracy:99.7045% (5062 / 5077)
+Valid_CLS_accuracy:97.8892% (1855 / 1895)
+Valid_CLS_one_accuracy:93.3824% (508 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:121[0/7250(0%)]	 loss:0.607745
+Train Epoch:121[5120/7250(70%)]	 loss:0.629199
+Valid: loss: 0.923708
+Train_CLS_accuracy:98.9517% (7174 / 7250)
+Train_CLS_one_accuracy:97.2388% (2113 / 2173)
+Train_CLS_zero_accuracy:99.6849% (5061 / 5077)
+Valid_CLS_accuracy:97.6781% (1851 / 1895)
+Valid_CLS_one_accuracy:92.2794% (502 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:122[0/7250(0%)]	 loss:0.618685
+Train Epoch:122[5120/7250(70%)]	 loss:0.383224
+Valid: loss: 0.870916
+Train_CLS_accuracy:99.3517% (7203 / 7250)
+Train_CLS_one_accuracy:98.1132% (2132 / 2173)
+Train_CLS_zero_accuracy:99.8818% (5071 / 5077)
+Valid_CLS_accuracy:98.5752% (1868 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:123[0/7250(0%)]	 loss:0.296559
+Train Epoch:123[5120/7250(70%)]	 loss:0.629718
+Valid: loss: 0.947027
+Train_CLS_accuracy:99.5034% (7214 / 7250)
+Train_CLS_one_accuracy:98.7115% (2145 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:97.7836% (1853 / 1895)
+Valid_CLS_one_accuracy:92.8309% (505 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:124[0/7250(0%)]	 loss:0.468288
+Train Epoch:124[5120/7250(70%)]	 loss:0.407010
+Valid: loss: 1.925409
+Train_CLS_accuracy:99.2828% (7198 / 7250)
+Train_CLS_one_accuracy:98.0672% (2131 / 2173)
+Train_CLS_zero_accuracy:99.8030% (5067 / 5077)
+Valid_CLS_accuracy:97.2559% (1843 / 1895)
+Valid_CLS_one_accuracy:91.1765% (496 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:125[0/7250(0%)]	 loss:0.377274
+Train Epoch:125[5120/7250(70%)]	 loss:0.407472
+Valid: loss: 2.591958
+Train_CLS_accuracy:98.0828% (7111 / 7250)
+Train_CLS_one_accuracy:95.3981% (2073 / 2173)
+Train_CLS_zero_accuracy:99.2318% (5038 / 5077)
+Valid_CLS_accuracy:97.4142% (1846 / 1895)
+Valid_CLS_one_accuracy:91.3603% (497 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:126[0/7250(0%)]	 loss:0.676850
+Train Epoch:126[5120/7250(70%)]	 loss:0.626626
+Valid: loss: 0.849390
+Train_CLS_accuracy:99.3241% (7201 / 7250)
+Train_CLS_one_accuracy:98.2513% (2135 / 2173)
+Train_CLS_zero_accuracy:99.7833% (5066 / 5077)
+Valid_CLS_accuracy:98.0475% (1858 / 1895)
+Valid_CLS_one_accuracy:93.7500% (510 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:127[0/7250(0%)]	 loss:0.444747
+Train Epoch:127[5120/7250(70%)]	 loss:0.495139
+Valid: loss: 0.751964
+Train_CLS_accuracy:99.4759% (7212 / 7250)
+Train_CLS_one_accuracy:98.5274% (2141 / 2173)
+Train_CLS_zero_accuracy:99.8818% (5071 / 5077)
+Valid_CLS_accuracy:98.2058% (1861 / 1895)
+Valid_CLS_one_accuracy:94.4853% (514 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:128[0/7250(0%)]	 loss:0.671917
+Train Epoch:128[5120/7250(70%)]	 loss:0.556551
+Valid: loss: 1.964218
+Train_CLS_accuracy:99.7517% (7232 / 7250)
+Train_CLS_one_accuracy:99.2637% (2157 / 2173)
+Train_CLS_zero_accuracy:99.9606% (5075 / 5077)
+Valid_CLS_accuracy:96.6755% (1832 / 1895)
+Valid_CLS_one_accuracy:89.3382% (486 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:129[0/7250(0%)]	 loss:0.543286
+Train Epoch:129[5120/7250(70%)]	 loss:0.509543
+Valid: loss: 1.126406
+Train_CLS_accuracy:99.6414% (7224 / 7250)
+Train_CLS_one_accuracy:99.0336% (2152 / 2173)
+Train_CLS_zero_accuracy:99.9015% (5072 / 5077)
+Valid_CLS_accuracy:98.0475% (1858 / 1895)
+Valid_CLS_one_accuracy:93.7500% (510 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:130[0/7250(0%)]	 loss:0.463176
+Train Epoch:130[5120/7250(70%)]	 loss:0.560041
+Valid: loss: 1.394121
+Train_CLS_accuracy:99.6966% (7228 / 7250)
+Train_CLS_one_accuracy:99.1256% (2154 / 2173)
+Train_CLS_zero_accuracy:99.9409% (5074 / 5077)
+Valid_CLS_accuracy:98.3641% (1864 / 1895)
+Valid_CLS_one_accuracy:95.4044% (519 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:131[0/7250(0%)]	 loss:0.681434
+Train Epoch:131[5120/7250(70%)]	 loss:0.614108
+Valid: loss: 2.610313
+Train_CLS_accuracy:99.3379% (7202 / 7250)
+Train_CLS_one_accuracy:98.2973% (2136 / 2173)
+Train_CLS_zero_accuracy:99.7833% (5066 / 5077)
+Valid_CLS_accuracy:91.7678% (1739 / 1895)
+Valid_CLS_one_accuracy:71.5074% (389 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:132[0/7250(0%)]	 loss:0.538738
+Train Epoch:132[5120/7250(70%)]	 loss:0.460221
+Valid: loss: 1.561859
+Train_CLS_accuracy:98.9103% (7171 / 7250)
+Train_CLS_one_accuracy:97.2849% (2114 / 2173)
+Train_CLS_zero_accuracy:99.6061% (5057 / 5077)
+Valid_CLS_accuracy:96.4644% (1828 / 1895)
+Valid_CLS_one_accuracy:87.8676% (478 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:133[0/7250(0%)]	 loss:0.486310
+Train Epoch:133[5120/7250(70%)]	 loss:0.629827
+Valid: loss: 3.449854
+Train_CLS_accuracy:99.6552% (7225 / 7250)
+Train_CLS_one_accuracy:98.9416% (2150 / 2173)
+Train_CLS_zero_accuracy:99.9606% (5075 / 5077)
+Valid_CLS_accuracy:98.2586% (1862 / 1895)
+Valid_CLS_one_accuracy:94.8529% (516 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:134[0/7250(0%)]	 loss:0.382499
+Train Epoch:134[5120/7250(70%)]	 loss:1.914459
+Valid: loss: 2.372739
+Train_CLS_accuracy:98.7448% (7159 / 7250)
+Train_CLS_one_accuracy:96.8247% (2104 / 2173)
+Train_CLS_zero_accuracy:99.5667% (5055 / 5077)
+Valid_CLS_accuracy:96.9393% (1837 / 1895)
+Valid_CLS_one_accuracy:90.4412% (492 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:135[0/7250(0%)]	 loss:0.620130
+Train Epoch:135[5120/7250(70%)]	 loss:0.891286
+Valid: loss: 1.742482
+Train_CLS_accuracy:98.6897% (7155 / 7250)
+Train_CLS_one_accuracy:96.8247% (2104 / 2173)
+Train_CLS_zero_accuracy:99.4879% (5051 / 5077)
+Valid_CLS_accuracy:96.5172% (1829 / 1895)
+Valid_CLS_one_accuracy:88.0515% (479 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:136[0/7250(0%)]	 loss:0.590810
+Train Epoch:136[5120/7250(70%)]	 loss:0.348632
+Valid: loss: 1.442533
+Train_CLS_accuracy:99.3517% (7203 / 7250)
+Train_CLS_one_accuracy:98.2052% (2134 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:98.1530% (1860 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.0377% (1338 / 1351)
+Train Epoch:137[0/7250(0%)]	 loss:0.800261
+Train Epoch:137[5120/7250(70%)]	 loss:0.375861
+Valid: loss: 1.599316
+Train_CLS_accuracy:98.3172% (7128 / 7250)
+Train_CLS_one_accuracy:96.2724% (2092 / 2173)
+Train_CLS_zero_accuracy:99.1924% (5036 / 5077)
+Valid_CLS_accuracy:96.3061% (1825 / 1895)
+Valid_CLS_one_accuracy:87.6838% (477 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:138[0/7250(0%)]	 loss:1.012527
+Train Epoch:138[5120/7250(70%)]	 loss:0.569071
+Valid: loss: 0.915543
+Train_CLS_accuracy:99.1310% (7187 / 7250)
+Train_CLS_one_accuracy:97.8831% (2127 / 2173)
+Train_CLS_zero_accuracy:99.6652% (5060 / 5077)
+Valid_CLS_accuracy:98.3641% (1864 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:139[0/7250(0%)]	 loss:0.575890
+Train Epoch:139[5120/7250(70%)]	 loss:0.934239
+Valid: loss: 0.978875
+Train_CLS_accuracy:99.5172% (7215 / 7250)
+Train_CLS_one_accuracy:98.5734% (2142 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.3113% (1863 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:140[0/7250(0%)]	 loss:0.428355
+Train Epoch:140[5120/7250(70%)]	 loss:0.480199
+Valid: loss: 0.911250
+Train_CLS_accuracy:99.6690% (7226 / 7250)
+Train_CLS_one_accuracy:99.0796% (2153 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.4169% (1865 / 1895)
+Valid_CLS_one_accuracy:95.5882% (520 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:141[0/7250(0%)]	 loss:0.677900
+Train Epoch:141[5120/7250(70%)]	 loss:0.283851
+Valid: loss: 1.360114
+Train_CLS_accuracy:99.6552% (7225 / 7250)
+Train_CLS_one_accuracy:98.9876% (2151 / 2173)
+Train_CLS_zero_accuracy:99.9409% (5074 / 5077)
+Valid_CLS_accuracy:98.2586% (1862 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.1858% (1340 / 1351)
+Train Epoch:142[0/7250(0%)]	 loss:0.804686
+Train Epoch:142[5120/7250(70%)]	 loss:0.492925
+Valid: loss: 1.667635
+Train_CLS_accuracy:98.6345% (7151 / 7250)
+Train_CLS_one_accuracy:96.7786% (2103 / 2173)
+Train_CLS_zero_accuracy:99.4288% (5048 / 5077)
+Valid_CLS_accuracy:97.3087% (1844 / 1895)
+Valid_CLS_one_accuracy:91.1765% (496 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:143[0/7250(0%)]	 loss:0.651544
+Train Epoch:143[5120/7250(70%)]	 loss:0.384705
+Valid: loss: 1.676466
+Train_CLS_accuracy:99.3241% (7201 / 7250)
+Train_CLS_one_accuracy:97.9291% (2128 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.0475% (1858 / 1895)
+Valid_CLS_one_accuracy:93.9338% (511 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:144[0/7250(0%)]	 loss:0.449735
+Train Epoch:144[5120/7250(70%)]	 loss:0.571872
+Valid: loss: 3.818665
+Train_CLS_accuracy:99.4759% (7212 / 7250)
+Train_CLS_one_accuracy:98.4353% (2139 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.3641% (1864 / 1895)
+Valid_CLS_one_accuracy:95.0368% (517 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:145[0/7250(0%)]	 loss:0.446872
+Train Epoch:145[5120/7250(70%)]	 loss:0.463996
+Valid: loss: 3.847194
+Train_CLS_accuracy:99.7379% (7231 / 7250)
+Train_CLS_one_accuracy:99.3097% (2158 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:97.4142% (1846 / 1895)
+Valid_CLS_one_accuracy:91.7279% (499 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:146[0/7250(0%)]	 loss:0.378033
+Train Epoch:146[5120/7250(70%)]	 loss:0.505872
+Valid: loss: 5.534211
+Train_CLS_accuracy:99.5310% (7216 / 7250)
+Train_CLS_one_accuracy:98.6194% (2143 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.5752% (1868 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:147[0/7250(0%)]	 loss:0.292700
+Train Epoch:147[5120/7250(70%)]	 loss:0.723388
+Valid: loss: 1.537325
+Train_CLS_accuracy:98.4828% (7140 / 7250)
+Train_CLS_one_accuracy:96.2724% (2092 / 2173)
+Train_CLS_zero_accuracy:99.4288% (5048 / 5077)
+Valid_CLS_accuracy:98.2058% (1861 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.4078% (1343 / 1351)
+Train Epoch:148[0/7250(0%)]	 loss:0.592839
+Train Epoch:148[5120/7250(70%)]	 loss:0.347002
+Valid: loss: 0.716511
+Train_CLS_accuracy:98.8138% (7164 / 7250)
+Train_CLS_one_accuracy:97.0548% (2109 / 2173)
+Train_CLS_zero_accuracy:99.5667% (5055 / 5077)
+Valid_CLS_accuracy:98.6807% (1870 / 1895)
+Valid_CLS_one_accuracy:95.7721% (521 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:149[0/7250(0%)]	 loss:0.482201
+Train Epoch:149[5120/7250(70%)]	 loss:0.342496
+Valid: loss: 0.735353
+Train_CLS_accuracy:99.5586% (7218 / 7250)
+Train_CLS_one_accuracy:98.7115% (2145 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.7335% (1871 / 1895)
+Valid_CLS_one_accuracy:95.7721% (521 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:150[0/7250(0%)]	 loss:0.421330
+Train Epoch:150[5120/7250(70%)]	 loss:0.321143
+Valid: loss: 0.927687
+Train_CLS_accuracy:99.5862% (7220 / 7250)
+Train_CLS_one_accuracy:98.9876% (2151 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:98.3641% (1864 / 1895)
+Valid_CLS_one_accuracy:94.8529% (516 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:151[0/7250(0%)]	 loss:0.486101
+Train Epoch:151[5120/7250(70%)]	 loss:0.481972
+Valid: loss: 2.993013
+Train_CLS_accuracy:99.5172% (7215 / 7250)
+Train_CLS_one_accuracy:98.9416% (2150 / 2173)
+Train_CLS_zero_accuracy:99.7636% (5065 / 5077)
+Valid_CLS_accuracy:97.4142% (1846 / 1895)
+Valid_CLS_one_accuracy:91.7279% (499 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:152[0/7250(0%)]	 loss:0.411114
+Train Epoch:152[5120/7250(70%)]	 loss:0.503676
+Valid: loss: 1.175354
+Train_CLS_accuracy:98.0690% (7110 / 7250)
+Train_CLS_one_accuracy:95.3520% (2072 / 2173)
+Train_CLS_zero_accuracy:99.2318% (5038 / 5077)
+Valid_CLS_accuracy:97.9947% (1857 / 1895)
+Valid_CLS_one_accuracy:93.1985% (507 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:153[0/7250(0%)]	 loss:0.597737
+Train Epoch:153[5120/7250(70%)]	 loss:0.740132
+Valid: loss: 1.107971
+Train_CLS_accuracy:99.4483% (7210 / 7250)
+Train_CLS_one_accuracy:98.5274% (2141 / 2173)
+Train_CLS_zero_accuracy:99.8424% (5069 / 5077)
+Valid_CLS_accuracy:98.5752% (1868 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:154[0/7250(0%)]	 loss:0.575896
+Train Epoch:154[5120/7250(70%)]	 loss:0.392335
+Valid: loss: 0.739271
+Train_CLS_accuracy:99.4759% (7212 / 7250)
+Train_CLS_one_accuracy:98.6654% (2144 / 2173)
+Train_CLS_zero_accuracy:99.8227% (5068 / 5077)
+Valid_CLS_accuracy:97.9420% (1856 / 1895)
+Valid_CLS_one_accuracy:93.5662% (509 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:155[0/7250(0%)]	 loss:0.620029
+Train Epoch:155[5120/7250(70%)]	 loss:0.520100
+Valid: loss: 0.952071
+Train_CLS_accuracy:99.7517% (7232 / 7250)
+Train_CLS_one_accuracy:99.3097% (2158 / 2173)
+Train_CLS_zero_accuracy:99.9409% (5074 / 5077)
+Valid_CLS_accuracy:97.6253% (1850 / 1895)
+Valid_CLS_one_accuracy:91.7279% (499 / 544)
+Valid_CLS_zero_accuracy:100.0000% (1351 / 1351)
+Train Epoch:156[0/7250(0%)]	 loss:0.698045
+Train Epoch:156[5120/7250(70%)]	 loss:0.244227
+Valid: loss: 0.895840
+Train_CLS_accuracy:99.5586% (7218 / 7250)
+Train_CLS_one_accuracy:98.6194% (2143 / 2173)
+Train_CLS_zero_accuracy:99.9606% (5075 / 5077)
+Valid_CLS_accuracy:98.4697% (1866 / 1895)
+Valid_CLS_one_accuracy:94.6691% (515 / 544)
+Valid_CLS_zero_accuracy:100.0000% (1351 / 1351)
+Train Epoch:157[0/7250(0%)]	 loss:0.504795
+Train Epoch:157[5120/7250(70%)]	 loss:2.162909
+Valid: loss: 0.977321
+Train_CLS_accuracy:99.5034% (7214 / 7250)
+Train_CLS_one_accuracy:98.6654% (2144 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:97.6781% (1851 / 1895)
+Valid_CLS_one_accuracy:92.4632% (503 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:158[0/7250(0%)]	 loss:0.369736
+Train Epoch:158[5120/7250(70%)]	 loss:0.644759
+Valid: loss: 4.682461
+Train_CLS_accuracy:99.4069% (7207 / 7250)
+Train_CLS_one_accuracy:98.6194% (2143 / 2173)
+Train_CLS_zero_accuracy:99.7439% (5064 / 5077)
+Valid_CLS_accuracy:96.2533% (1824 / 1895)
+Valid_CLS_one_accuracy:87.3162% (475 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:159[0/7250(0%)]	 loss:0.922508
+Train Epoch:159[5120/7250(70%)]	 loss:1.465075
+Valid: loss: 2.523466
+Train_CLS_accuracy:97.7931% (7090 / 7250)
+Train_CLS_one_accuracy:94.5697% (2055 / 2173)
+Train_CLS_zero_accuracy:99.1727% (5035 / 5077)
+Valid_CLS_accuracy:95.7256% (1814 / 1895)
+Valid_CLS_one_accuracy:86.5809% (471 / 544)
+Valid_CLS_zero_accuracy:99.4078% (1343 / 1351)
+Train Epoch:160[0/7250(0%)]	 loss:0.303956
+Train Epoch:160[5120/7250(70%)]	 loss:0.555627
+Valid: loss: 4.518963
+Train_CLS_accuracy:98.9793% (7176 / 7250)
+Train_CLS_one_accuracy:97.0087% (2108 / 2173)
+Train_CLS_zero_accuracy:99.8227% (5068 / 5077)
+Valid_CLS_accuracy:96.6227% (1831 / 1895)
+Valid_CLS_one_accuracy:88.9706% (484 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:161[0/7250(0%)]	 loss:0.358316
+Train Epoch:161[5120/7250(70%)]	 loss:0.559071
+Valid: loss: 4.427291
+Train_CLS_accuracy:99.3931% (7206 / 7250)
+Train_CLS_one_accuracy:98.2513% (2135 / 2173)
+Train_CLS_zero_accuracy:99.8818% (5071 / 5077)
+Valid_CLS_accuracy:97.5726% (1849 / 1895)
+Valid_CLS_one_accuracy:92.0956% (501 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:162[0/7250(0%)]	 loss:0.480241
+Train Epoch:162[5120/7250(70%)]	 loss:0.446316
+Valid: loss: 2.769677
+Train_CLS_accuracy:99.5724% (7219 / 7250)
+Train_CLS_one_accuracy:98.8955% (2149 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:98.0475% (1858 / 1895)
+Valid_CLS_one_accuracy:93.9338% (511 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:163[0/7250(0%)]	 loss:0.688368
+Train Epoch:163[5120/7250(70%)]	 loss:0.843226
+Valid: loss: 4.168176
+Train_CLS_accuracy:99.6000% (7221 / 7250)
+Train_CLS_one_accuracy:98.8035% (2147 / 2173)
+Train_CLS_zero_accuracy:99.9409% (5074 / 5077)
+Valid_CLS_accuracy:98.2058% (1861 / 1895)
+Valid_CLS_one_accuracy:94.3015% (513 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:164[0/7250(0%)]	 loss:0.357444
+Train Epoch:164[5120/7250(70%)]	 loss:0.430338
+Valid: loss: 3.345941
+Train_CLS_accuracy:99.6552% (7225 / 7250)
+Train_CLS_one_accuracy:98.9876% (2151 / 2173)
+Train_CLS_zero_accuracy:99.9409% (5074 / 5077)
+Valid_CLS_accuracy:98.3641% (1864 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:165[0/7250(0%)]	 loss:0.346744
+Train Epoch:165[5120/7250(70%)]	 loss:0.415329
+Valid: loss: 1.563721
+Train_CLS_accuracy:99.3241% (7201 / 7250)
+Train_CLS_one_accuracy:98.4353% (2139 / 2173)
+Train_CLS_zero_accuracy:99.7045% (5062 / 5077)
+Valid_CLS_accuracy:97.5726% (1849 / 1895)
+Valid_CLS_one_accuracy:93.5662% (509 / 544)
+Valid_CLS_zero_accuracy:99.1858% (1340 / 1351)
+Train Epoch:166[0/7250(0%)]	 loss:0.779528
+Train Epoch:166[5120/7250(70%)]	 loss:0.811711
+Valid: loss: 2.460925
+Train_CLS_accuracy:98.8138% (7164 / 7250)
+Train_CLS_one_accuracy:97.1928% (2112 / 2173)
+Train_CLS_zero_accuracy:99.5076% (5052 / 5077)
+Valid_CLS_accuracy:97.2032% (1842 / 1895)
+Valid_CLS_one_accuracy:90.6250% (493 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:167[0/7250(0%)]	 loss:0.430092
+Train Epoch:167[5120/7250(70%)]	 loss:0.378316
+Valid: loss: 0.907375
+Train_CLS_accuracy:99.4483% (7210 / 7250)
+Train_CLS_one_accuracy:98.4353% (2139 / 2173)
+Train_CLS_zero_accuracy:99.8818% (5071 / 5077)
+Valid_CLS_accuracy:98.4169% (1865 / 1895)
+Valid_CLS_one_accuracy:94.8529% (516 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:168[0/7250(0%)]	 loss:0.403124
+Train Epoch:168[5120/7250(70%)]	 loss:0.501569
+Valid: loss: 1.222244
+Train_CLS_accuracy:99.7241% (7230 / 7250)
+Train_CLS_one_accuracy:99.1256% (2154 / 2173)
+Train_CLS_zero_accuracy:99.9803% (5076 / 5077)
+Valid_CLS_accuracy:98.1003% (1859 / 1895)
+Valid_CLS_one_accuracy:94.1176% (512 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:169[0/7250(0%)]	 loss:0.356222
+Train Epoch:169[5120/7250(70%)]	 loss:1.467188
+Valid: loss: 9.542348
+Train_CLS_accuracy:98.5655% (7146 / 7250)
+Train_CLS_one_accuracy:97.2388% (2113 / 2173)
+Train_CLS_zero_accuracy:99.1333% (5033 / 5077)
+Valid_CLS_accuracy:97.4670% (1847 / 1895)
+Valid_CLS_one_accuracy:93.0147% (506 / 544)
+Valid_CLS_zero_accuracy:99.2598% (1341 / 1351)
+Train Epoch:170[0/7250(0%)]	 loss:0.611095
+Train Epoch:170[5120/7250(70%)]	 loss:0.701334
+Valid: loss: 1.655035
+Train_CLS_accuracy:98.3586% (7131 / 7250)
+Train_CLS_one_accuracy:96.4105% (2095 / 2173)
+Train_CLS_zero_accuracy:99.1924% (5036 / 5077)
+Valid_CLS_accuracy:96.7810% (1834 / 1895)
+Valid_CLS_one_accuracy:89.1544% (485 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:171[0/7250(0%)]	 loss:0.461056
+Train Epoch:171[5120/7250(70%)]	 loss:0.643164
+Valid: loss: 0.970291
+Train_CLS_accuracy:99.2690% (7197 / 7250)
+Train_CLS_one_accuracy:98.0212% (2130 / 2173)
+Train_CLS_zero_accuracy:99.8030% (5067 / 5077)
+Valid_CLS_accuracy:97.9947% (1857 / 1895)
+Valid_CLS_one_accuracy:94.1176% (512 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:172[0/7250(0%)]	 loss:0.622584
+Train Epoch:172[5120/7250(70%)]	 loss:0.383492
+Valid: loss: 1.987318
+Train_CLS_accuracy:99.4483% (7210 / 7250)
+Train_CLS_one_accuracy:98.4814% (2140 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:95.9367% (1818 / 1895)
+Valid_CLS_one_accuracy:86.0294% (468 / 544)
+Valid_CLS_zero_accuracy:99.9260% (1350 / 1351)
+Train Epoch:173[0/7250(0%)]	 loss:0.430704
+Train Epoch:173[5120/7250(70%)]	 loss:0.460777
+Valid: loss: 2.235987
+Train_CLS_accuracy:99.3103% (7200 / 7250)
+Train_CLS_one_accuracy:97.9751% (2129 / 2173)
+Train_CLS_zero_accuracy:99.8818% (5071 / 5077)
+Valid_CLS_accuracy:97.9420% (1856 / 1895)
+Valid_CLS_one_accuracy:94.3015% (513 / 544)
+Valid_CLS_zero_accuracy:99.4078% (1343 / 1351)
+Train Epoch:174[0/7250(0%)]	 loss:0.655088
+Train Epoch:174[5120/7250(70%)]	 loss:0.396739
+Valid: loss: 1.311101
+Train_CLS_accuracy:99.4621% (7211 / 7250)
+Train_CLS_one_accuracy:98.9416% (2150 / 2173)
+Train_CLS_zero_accuracy:99.6849% (5061 / 5077)
+Valid_CLS_accuracy:98.4697% (1866 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.4819% (1344 / 1351)
+Train Epoch:175[0/7250(0%)]	 loss:0.282524
+Train Epoch:175[5120/7250(70%)]	 loss:0.576551
+Valid: loss: 0.986454
+Train_CLS_accuracy:99.7517% (7232 / 7250)
+Train_CLS_one_accuracy:99.3557% (2159 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.3641% (1864 / 1895)
+Valid_CLS_one_accuracy:95.4044% (519 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:176[0/7250(0%)]	 loss:0.593539
+Train Epoch:176[5120/7250(70%)]	 loss:0.387846
+Valid: loss: 12.996733
+Train_CLS_accuracy:99.1034% (7185 / 7250)
+Train_CLS_one_accuracy:98.8955% (2149 / 2173)
+Train_CLS_zero_accuracy:99.1924% (5036 / 5077)
+Valid_CLS_accuracy:94.5119% (1791 / 1895)
+Valid_CLS_one_accuracy:80.8824% (440 / 544)
+Valid_CLS_zero_accuracy:100.0000% (1351 / 1351)
+Train Epoch:177[0/7250(0%)]	 loss:0.580468
+Train Epoch:177[5120/7250(70%)]	 loss:0.615676
+Valid: loss: 4.667166
+Train_CLS_accuracy:98.9103% (7171 / 7250)
+Train_CLS_one_accuracy:97.5150% (2119 / 2173)
+Train_CLS_zero_accuracy:99.5076% (5052 / 5077)
+Valid_CLS_accuracy:95.8311% (1816 / 1895)
+Valid_CLS_one_accuracy:85.8456% (467 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:178[0/7250(0%)]	 loss:0.919205
+Train Epoch:178[5120/7250(70%)]	 loss:0.429577
+Valid: loss: 0.987104
+Train_CLS_accuracy:99.0483% (7181 / 7250)
+Train_CLS_one_accuracy:97.4229% (2117 / 2173)
+Train_CLS_zero_accuracy:99.7439% (5064 / 5077)
+Valid_CLS_accuracy:98.3113% (1863 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:179[0/7250(0%)]	 loss:0.416474
+Train Epoch:179[5120/7250(70%)]	 loss:0.542165
+Valid: loss: 0.942006
+Train_CLS_accuracy:99.6414% (7224 / 7250)
+Train_CLS_one_accuracy:98.9416% (2150 / 2173)
+Train_CLS_zero_accuracy:99.9409% (5074 / 5077)
+Valid_CLS_accuracy:98.3641% (1864 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:180[0/7250(0%)]	 loss:0.548043
+Train Epoch:180[5120/7250(70%)]	 loss:0.533755
+Valid: loss: 1.589396
+Train_CLS_accuracy:99.6000% (7221 / 7250)
+Train_CLS_one_accuracy:98.9416% (2150 / 2173)
+Train_CLS_zero_accuracy:99.8818% (5071 / 5077)
+Valid_CLS_accuracy:98.4697% (1866 / 1895)
+Valid_CLS_one_accuracy:95.5882% (520 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:181[0/7250(0%)]	 loss:0.332588
+Train Epoch:181[5120/7250(70%)]	 loss:0.427550
+Valid: loss: 2.414181
+Train_CLS_accuracy:99.6690% (7226 / 7250)
+Train_CLS_one_accuracy:98.9876% (2151 / 2173)
+Train_CLS_zero_accuracy:99.9606% (5075 / 5077)
+Valid_CLS_accuracy:98.6807% (1870 / 1895)
+Valid_CLS_one_accuracy:96.6912% (526 / 544)
+Valid_CLS_zero_accuracy:99.4819% (1344 / 1351)
+Train Epoch:182[0/7250(0%)]	 loss:0.633855
+Train Epoch:182[5120/7250(70%)]	 loss:0.425845
+Valid: loss: 1.997042
+Train_CLS_accuracy:99.5448% (7217 / 7250)
+Train_CLS_one_accuracy:98.8035% (2147 / 2173)
+Train_CLS_zero_accuracy:99.8621% (5070 / 5077)
+Valid_CLS_accuracy:96.0950% (1821 / 1895)
+Valid_CLS_one_accuracy:86.7647% (472 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:183[0/7250(0%)]	 loss:0.513995
+Train Epoch:183[5120/7250(70%)]	 loss:0.423033
+Valid: loss: 3.507934
+Train_CLS_accuracy:99.1724% (7190 / 7250)
+Train_CLS_one_accuracy:97.7451% (2124 / 2173)
+Train_CLS_zero_accuracy:99.7833% (5066 / 5077)
+Valid_CLS_accuracy:96.0950% (1821 / 1895)
+Valid_CLS_one_accuracy:87.6838% (477 / 544)
+Valid_CLS_zero_accuracy:99.4819% (1344 / 1351)
+Train Epoch:184[0/7250(0%)]	 loss:0.753015
+Train Epoch:184[5120/7250(70%)]	 loss:0.523276
+Valid: loss: 1.037054
+Train_CLS_accuracy:99.0345% (7180 / 7250)
+Train_CLS_one_accuracy:97.6990% (2123 / 2173)
+Train_CLS_zero_accuracy:99.6061% (5057 / 5077)
+Valid_CLS_accuracy:98.2058% (1861 / 1895)
+Valid_CLS_one_accuracy:94.3015% (513 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:185[0/7250(0%)]	 loss:0.459185
+Train Epoch:185[5120/7250(70%)]	 loss:0.462666
+Valid: loss: 0.716372
+Train_CLS_accuracy:99.6828% (7227 / 7250)
+Train_CLS_one_accuracy:99.0796% (2153 / 2173)
+Train_CLS_zero_accuracy:99.9409% (5074 / 5077)
+Valid_CLS_accuracy:98.4697% (1866 / 1895)
+Valid_CLS_one_accuracy:95.7721% (521 / 544)
+Valid_CLS_zero_accuracy:99.5559% (1345 / 1351)
+Train Epoch:186[0/7250(0%)]	 loss:0.403782
+Train Epoch:186[5120/7250(70%)]	 loss:0.473993
+Valid: loss: 0.836499
+Train_CLS_accuracy:99.7517% (7232 / 7250)
+Train_CLS_one_accuracy:99.3557% (2159 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.6807% (1870 / 1895)
+Valid_CLS_one_accuracy:95.7721% (521 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:187[0/7250(0%)]	 loss:0.284287
+Train Epoch:187[5120/7250(70%)]	 loss:0.525383
+Valid: loss: 2.598041
+Train_CLS_accuracy:99.1172% (7186 / 7250)
+Train_CLS_one_accuracy:98.2973% (2136 / 2173)
+Train_CLS_zero_accuracy:99.4682% (5050 / 5077)
+Valid_CLS_accuracy:98.3641% (1864 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.3338% (1342 / 1351)
+Train Epoch:188[0/7250(0%)]	 loss:0.599292
+Train Epoch:188[5120/7250(70%)]	 loss:0.674274
+Valid: loss: 2.321822
+Train_CLS_accuracy:99.0207% (7179 / 7250)
+Train_CLS_one_accuracy:98.0212% (2130 / 2173)
+Train_CLS_zero_accuracy:99.4485% (5049 / 5077)
+Valid_CLS_accuracy:98.3113% (1863 / 1895)
+Valid_CLS_one_accuracy:95.5882% (520 / 544)
+Valid_CLS_zero_accuracy:99.4078% (1343 / 1351)
+Train Epoch:189[0/7250(0%)]	 loss:0.424142
+Train Epoch:189[5120/7250(70%)]	 loss:0.557066
+Valid: loss: 1.340177
+Train_CLS_accuracy:99.5310% (7216 / 7250)
+Train_CLS_one_accuracy:98.9416% (2150 / 2173)
+Train_CLS_zero_accuracy:99.7833% (5066 / 5077)
+Valid_CLS_accuracy:98.5752% (1868 / 1895)
+Valid_CLS_one_accuracy:96.6912% (526 / 544)
+Valid_CLS_zero_accuracy:99.3338% (1342 / 1351)
+Train Epoch:190[0/7250(0%)]	 loss:0.477571
+Train Epoch:190[5120/7250(70%)]	 loss:0.603837
+Valid: loss: 1.515775
+Train_CLS_accuracy:99.7103% (7229 / 7250)
+Train_CLS_one_accuracy:99.1256% (2154 / 2173)
+Train_CLS_zero_accuracy:99.9606% (5075 / 5077)
+Valid_CLS_accuracy:98.7335% (1871 / 1895)
+Valid_CLS_one_accuracy:96.8750% (527 / 544)
+Valid_CLS_zero_accuracy:99.4819% (1344 / 1351)
+Train Epoch:191[0/7250(0%)]	 loss:0.490417
+Train Epoch:191[5120/7250(70%)]	 loss:0.312701
+Valid: loss: 2.486808
+Train_CLS_accuracy:99.7103% (7229 / 7250)
+Train_CLS_one_accuracy:99.1256% (2154 / 2173)
+Train_CLS_zero_accuracy:99.9606% (5075 / 5077)
+Valid_CLS_accuracy:98.2586% (1862 / 1895)
+Valid_CLS_one_accuracy:94.8529% (516 / 544)
+Valid_CLS_zero_accuracy:99.6299% (1346 / 1351)
+Train Epoch:192[0/7250(0%)]	 loss:0.493705
+Train Epoch:192[5120/7250(70%)]	 loss:0.658317
+Valid: loss: 5.940289
+Train_CLS_accuracy:99.4759% (7212 / 7250)
+Train_CLS_one_accuracy:98.6654% (2144 / 2173)
+Train_CLS_zero_accuracy:99.8227% (5068 / 5077)
+Valid_CLS_accuracy:97.3087% (1844 / 1895)
+Valid_CLS_one_accuracy:90.9926% (495 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:193[0/7250(0%)]	 loss:0.861495
+Train Epoch:193[5120/7250(70%)]	 loss:0.497221
+Valid: loss: 0.775875
+Train_CLS_accuracy:98.0828% (7111 / 7250)
+Train_CLS_one_accuracy:95.2600% (2070 / 2173)
+Train_CLS_zero_accuracy:99.2909% (5041 / 5077)
+Valid_CLS_accuracy:98.5224% (1867 / 1895)
+Valid_CLS_one_accuracy:94.8529% (516 / 544)
+Valid_CLS_zero_accuracy:100.0000% (1351 / 1351)
+Train Epoch:194[0/7250(0%)]	 loss:0.501341
+Train Epoch:194[5120/7250(70%)]	 loss:0.476099
+Valid: loss: 0.642637
+Train_CLS_accuracy:99.2414% (7195 / 7250)
+Train_CLS_one_accuracy:97.9291% (2128 / 2173)
+Train_CLS_zero_accuracy:99.8030% (5067 / 5077)
+Valid_CLS_accuracy:98.5224% (1867 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:195[0/7250(0%)]	 loss:0.671101
+Train Epoch:195[5120/7250(70%)]	 loss:0.743054
+Valid: loss: 0.721341
+Train_CLS_accuracy:99.5448% (7217 / 7250)
+Train_CLS_one_accuracy:98.6654% (2144 / 2173)
+Train_CLS_zero_accuracy:99.9212% (5073 / 5077)
+Valid_CLS_accuracy:98.6807% (1870 / 1895)
+Valid_CLS_one_accuracy:95.9559% (522 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:196[0/7250(0%)]	 loss:0.878678
+Train Epoch:196[5120/7250(70%)]	 loss:0.558658
+Valid: loss: 0.669922
+Train_CLS_accuracy:99.5310% (7216 / 7250)
+Train_CLS_one_accuracy:98.6654% (2144 / 2173)
+Train_CLS_zero_accuracy:99.9015% (5072 / 5077)
+Valid_CLS_accuracy:98.5752% (1868 / 1895)
+Valid_CLS_one_accuracy:95.4044% (519 / 544)
+Valid_CLS_zero_accuracy:99.8520% (1349 / 1351)
+Train Epoch:197[0/7250(0%)]	 loss:0.519774
+Train Epoch:197[5120/7250(70%)]	 loss:0.412121
+Valid: loss: 0.786606
+Train_CLS_accuracy:99.7793% (7234 / 7250)
+Train_CLS_one_accuracy:99.3557% (2159 / 2173)
+Train_CLS_zero_accuracy:99.9606% (5075 / 5077)
+Valid_CLS_accuracy:98.4697% (1866 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)
+Train Epoch:198[0/7250(0%)]	 loss:0.342307
+Train Epoch:198[5120/7250(70%)]	 loss:0.580284
+Valid: loss: 0.818761
+Train_CLS_accuracy:99.5862% (7220 / 7250)
+Train_CLS_one_accuracy:98.7115% (2145 / 2173)
+Train_CLS_zero_accuracy:99.9606% (5075 / 5077)
+Valid_CLS_accuracy:98.4169% (1865 / 1895)
+Valid_CLS_one_accuracy:95.2206% (518 / 544)
+Valid_CLS_zero_accuracy:99.7039% (1347 / 1351)
+Train Epoch:199[0/7250(0%)]	 loss:0.422289
+Train Epoch:199[5120/7250(70%)]	 loss:1.051862
+Valid: loss: 9.249926
+Train_CLS_accuracy:98.4966% (7141 / 7250)
+Train_CLS_one_accuracy:97.6070% (2121 / 2173)
+Train_CLS_zero_accuracy:98.8773% (5020 / 5077)
+Valid_CLS_accuracy:97.7836% (1853 / 1895)
+Valid_CLS_one_accuracy:92.8309% (505 / 544)
+Valid_CLS_zero_accuracy:99.7779% (1348 / 1351)

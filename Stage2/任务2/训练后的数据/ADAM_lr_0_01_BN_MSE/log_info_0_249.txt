@@ -1,0 +1,1250 @@
+Train Epoch: 0 [0/2173 (0%)]	 pts_loss: 2897.222168
+Current learning rate is: 0.01
+Train Epoch: 0 [1280/2173 (59%)]	 pts_loss: 478.732513
+Current learning rate is: 0.01
+Valid: pts_loss: 306.804323
+Train Epoch: 1 [0/2173 (0%)]	 pts_loss: 82.998642
+Current learning rate is: 0.01
+Train Epoch: 1 [1280/2173 (59%)]	 pts_loss: 53.108120
+Current learning rate is: 0.01
+Valid: pts_loss: 28.165812
+Train Epoch: 2 [0/2173 (0%)]	 pts_loss: 34.504604
+Current learning rate is: 0.01
+Train Epoch: 2 [1280/2173 (59%)]	 pts_loss: 28.185112
+Current learning rate is: 0.01
+Valid: pts_loss: 26.828909
+Train Epoch: 3 [0/2173 (0%)]	 pts_loss: 50.245190
+Current learning rate is: 0.01
+Train Epoch: 3 [1280/2173 (59%)]	 pts_loss: 42.978951
+Current learning rate is: 0.01
+Valid: pts_loss: 27.616686
+Train Epoch: 4 [0/2173 (0%)]	 pts_loss: 48.662518
+Current learning rate is: 0.01
+Train Epoch: 4 [1280/2173 (59%)]	 pts_loss: 31.623152
+Current learning rate is: 0.01
+Valid: pts_loss: 24.155562
+Train Epoch: 5 [0/2173 (0%)]	 pts_loss: 45.110580
+Current learning rate is: 0.01
+Train Epoch: 5 [1280/2173 (59%)]	 pts_loss: 41.769505
+Current learning rate is: 0.01
+Valid: pts_loss: 36.565634
+Train Epoch: 6 [0/2173 (0%)]	 pts_loss: 52.181770
+Current learning rate is: 0.01
+Train Epoch: 6 [1280/2173 (59%)]	 pts_loss: 46.700413
+Current learning rate is: 0.01
+Valid: pts_loss: 38.301537
+Train Epoch: 7 [0/2173 (0%)]	 pts_loss: 58.498722
+Current learning rate is: 0.01
+Train Epoch: 7 [1280/2173 (59%)]	 pts_loss: 32.037807
+Current learning rate is: 0.01
+Valid: pts_loss: 25.202588
+Train Epoch: 8 [0/2173 (0%)]	 pts_loss: 36.194530
+Current learning rate is: 0.01
+Train Epoch: 8 [1280/2173 (59%)]	 pts_loss: 50.724396
+Current learning rate is: 0.01
+Valid: pts_loss: 26.228262
+Train Epoch: 9 [0/2173 (0%)]	 pts_loss: 50.340652
+Current learning rate is: 0.01
+Train Epoch: 9 [1280/2173 (59%)]	 pts_loss: 35.425877
+Current learning rate is: 0.01
+Valid: pts_loss: 27.607195
+Train Epoch: 10 [0/2173 (0%)]	 pts_loss: 38.506256
+Current learning rate is: 0.01
+Train Epoch: 10 [1280/2173 (59%)]	 pts_loss: 43.781414
+Current learning rate is: 0.01
+Valid: pts_loss: 25.699481
+Train Epoch: 11 [0/2173 (0%)]	 pts_loss: 38.532413
+Current learning rate is: 0.01
+Train Epoch: 11 [1280/2173 (59%)]	 pts_loss: 52.910576
+Current learning rate is: 0.01
+Valid: pts_loss: 25.984264
+Train Epoch: 12 [0/2173 (0%)]	 pts_loss: 38.081375
+Current learning rate is: 0.01
+Train Epoch: 12 [1280/2173 (59%)]	 pts_loss: 34.829861
+Current learning rate is: 0.01
+Valid: pts_loss: 21.711305
+Train Epoch: 13 [0/2173 (0%)]	 pts_loss: 27.606789
+Current learning rate is: 0.01
+Train Epoch: 13 [1280/2173 (59%)]	 pts_loss: 41.488083
+Current learning rate is: 0.01
+Valid: pts_loss: 26.985785
+Train Epoch: 14 [0/2173 (0%)]	 pts_loss: 31.362835
+Current learning rate is: 0.01
+Train Epoch: 14 [1280/2173 (59%)]	 pts_loss: 31.875637
+Current learning rate is: 0.01
+Valid: pts_loss: 29.791150
+Train Epoch: 15 [0/2173 (0%)]	 pts_loss: 43.457565
+Current learning rate is: 0.01
+Train Epoch: 15 [1280/2173 (59%)]	 pts_loss: 48.947987
+Current learning rate is: 0.01
+Valid: pts_loss: 25.605335
+Train Epoch: 16 [0/2173 (0%)]	 pts_loss: 37.652775
+Current learning rate is: 0.01
+Train Epoch: 16 [1280/2173 (59%)]	 pts_loss: 33.666042
+Current learning rate is: 0.01
+Valid: pts_loss: 27.322035
+Train Epoch: 17 [0/2173 (0%)]	 pts_loss: 42.085793
+Current learning rate is: 0.01
+Train Epoch: 17 [1280/2173 (59%)]	 pts_loss: 41.548363
+Current learning rate is: 0.01
+Valid: pts_loss: 19.905681
+Train Epoch: 18 [0/2173 (0%)]	 pts_loss: 28.924145
+Current learning rate is: 0.01
+Train Epoch: 18 [1280/2173 (59%)]	 pts_loss: 36.794353
+Current learning rate is: 0.01
+Valid: pts_loss: 28.401378
+Train Epoch: 19 [0/2173 (0%)]	 pts_loss: 47.473068
+Current learning rate is: 0.01
+Train Epoch: 19 [1280/2173 (59%)]	 pts_loss: 43.646751
+Current learning rate is: 0.01
+Valid: pts_loss: 56.150970
+Train Epoch: 20 [0/2173 (0%)]	 pts_loss: 70.182465
+Current learning rate is: 0.01
+Train Epoch: 20 [1280/2173 (59%)]	 pts_loss: 31.113640
+Current learning rate is: 0.01
+Valid: pts_loss: 37.633328
+Train Epoch: 21 [0/2173 (0%)]	 pts_loss: 62.438683
+Current learning rate is: 0.01
+Train Epoch: 21 [1280/2173 (59%)]	 pts_loss: 38.048260
+Current learning rate is: 0.01
+Valid: pts_loss: 23.595459
+Train Epoch: 22 [0/2173 (0%)]	 pts_loss: 28.193476
+Current learning rate is: 0.01
+Train Epoch: 22 [1280/2173 (59%)]	 pts_loss: 27.347418
+Current learning rate is: 0.01
+Valid: pts_loss: 22.796322
+Train Epoch: 23 [0/2173 (0%)]	 pts_loss: 52.312042
+Current learning rate is: 0.01
+Train Epoch: 23 [1280/2173 (59%)]	 pts_loss: 29.178020
+Current learning rate is: 0.01
+Valid: pts_loss: 42.869131
+Train Epoch: 24 [0/2173 (0%)]	 pts_loss: 50.305618
+Current learning rate is: 0.01
+Train Epoch: 24 [1280/2173 (59%)]	 pts_loss: 33.695267
+Current learning rate is: 0.01
+Valid: pts_loss: 28.603310
+Train Epoch: 25 [0/2173 (0%)]	 pts_loss: 70.353249
+Current learning rate is: 0.01
+Train Epoch: 25 [1280/2173 (59%)]	 pts_loss: 32.946938
+Current learning rate is: 0.01
+Valid: pts_loss: 21.605062
+Train Epoch: 26 [0/2173 (0%)]	 pts_loss: 27.884830
+Current learning rate is: 0.01
+Train Epoch: 26 [1280/2173 (59%)]	 pts_loss: 21.646482
+Current learning rate is: 0.01
+Valid: pts_loss: 25.552856
+Train Epoch: 27 [0/2173 (0%)]	 pts_loss: 33.953300
+Current learning rate is: 0.01
+Train Epoch: 27 [1280/2173 (59%)]	 pts_loss: 18.906321
+Current learning rate is: 0.01
+Valid: pts_loss: 38.457436
+Train Epoch: 28 [0/2173 (0%)]	 pts_loss: 48.072166
+Current learning rate is: 0.01
+Train Epoch: 28 [1280/2173 (59%)]	 pts_loss: 30.656145
+Current learning rate is: 0.01
+Valid: pts_loss: 26.373356
+Train Epoch: 29 [0/2173 (0%)]	 pts_loss: 26.155727
+Current learning rate is: 0.01
+Train Epoch: 29 [1280/2173 (59%)]	 pts_loss: 35.333782
+Current learning rate is: 0.01
+Valid: pts_loss: 15.687721
+Train Epoch: 30 [0/2173 (0%)]	 pts_loss: 20.544035
+Current learning rate is: 0.01
+Train Epoch: 30 [1280/2173 (59%)]	 pts_loss: 23.030474
+Current learning rate is: 0.01
+Valid: pts_loss: 22.800181
+Train Epoch: 31 [0/2173 (0%)]	 pts_loss: 35.563629
+Current learning rate is: 0.01
+Train Epoch: 31 [1280/2173 (59%)]	 pts_loss: 25.953968
+Current learning rate is: 0.01
+Valid: pts_loss: 15.653833
+Train Epoch: 32 [0/2173 (0%)]	 pts_loss: 15.846569
+Current learning rate is: 0.01
+Train Epoch: 32 [1280/2173 (59%)]	 pts_loss: 17.720863
+Current learning rate is: 0.01
+Valid: pts_loss: 17.920222
+Train Epoch: 33 [0/2173 (0%)]	 pts_loss: 19.887611
+Current learning rate is: 0.01
+Train Epoch: 33 [1280/2173 (59%)]	 pts_loss: 27.043499
+Current learning rate is: 0.01
+Valid: pts_loss: 25.502431
+Train Epoch: 34 [0/2173 (0%)]	 pts_loss: 23.977098
+Current learning rate is: 0.01
+Train Epoch: 34 [1280/2173 (59%)]	 pts_loss: 26.294292
+Current learning rate is: 0.01
+Valid: pts_loss: 15.823346
+Train Epoch: 35 [0/2173 (0%)]	 pts_loss: 27.729946
+Current learning rate is: 0.01
+Train Epoch: 35 [1280/2173 (59%)]	 pts_loss: 14.684797
+Current learning rate is: 0.01
+Valid: pts_loss: 15.495950
+Train Epoch: 36 [0/2173 (0%)]	 pts_loss: 16.405540
+Current learning rate is: 0.01
+Train Epoch: 36 [1280/2173 (59%)]	 pts_loss: 40.585690
+Current learning rate is: 0.01
+Valid: pts_loss: 14.685195
+Train Epoch: 37 [0/2173 (0%)]	 pts_loss: 13.960649
+Current learning rate is: 0.01
+Train Epoch: 37 [1280/2173 (59%)]	 pts_loss: 18.872662
+Current learning rate is: 0.01
+Valid: pts_loss: 14.153382
+Train Epoch: 38 [0/2173 (0%)]	 pts_loss: 23.647625
+Current learning rate is: 0.01
+Train Epoch: 38 [1280/2173 (59%)]	 pts_loss: 27.788385
+Current learning rate is: 0.01
+Valid: pts_loss: 13.224148
+Train Epoch: 39 [0/2173 (0%)]	 pts_loss: 15.946546
+Current learning rate is: 0.01
+Train Epoch: 39 [1280/2173 (59%)]	 pts_loss: 30.508112
+Current learning rate is: 0.01
+Valid: pts_loss: 13.761356
+Train Epoch: 40 [0/2173 (0%)]	 pts_loss: 22.085270
+Current learning rate is: 0.01
+Train Epoch: 40 [1280/2173 (59%)]	 pts_loss: 25.709490
+Current learning rate is: 0.01
+Valid: pts_loss: 14.070668
+Train Epoch: 41 [0/2173 (0%)]	 pts_loss: 18.210217
+Current learning rate is: 0.01
+Train Epoch: 41 [1280/2173 (59%)]	 pts_loss: 21.251446
+Current learning rate is: 0.01
+Valid: pts_loss: 16.693934
+Train Epoch: 42 [0/2173 (0%)]	 pts_loss: 19.329521
+Current learning rate is: 0.01
+Train Epoch: 42 [1280/2173 (59%)]	 pts_loss: 18.143250
+Current learning rate is: 0.01
+Valid: pts_loss: 16.827919
+Train Epoch: 43 [0/2173 (0%)]	 pts_loss: 21.814781
+Current learning rate is: 0.01
+Train Epoch: 43 [1280/2173 (59%)]	 pts_loss: 23.912762
+Current learning rate is: 0.01
+Valid: pts_loss: 13.436361
+Train Epoch: 44 [0/2173 (0%)]	 pts_loss: 15.772416
+Current learning rate is: 0.01
+Train Epoch: 44 [1280/2173 (59%)]	 pts_loss: 21.506201
+Current learning rate is: 0.01
+Valid: pts_loss: 16.415999
+Train Epoch: 45 [0/2173 (0%)]	 pts_loss: 15.127747
+Current learning rate is: 0.01
+Train Epoch: 45 [1280/2173 (59%)]	 pts_loss: 20.764717
+Current learning rate is: 0.01
+Valid: pts_loss: 13.255512
+Train Epoch: 46 [0/2173 (0%)]	 pts_loss: 27.883476
+Current learning rate is: 0.01
+Train Epoch: 46 [1280/2173 (59%)]	 pts_loss: 16.968988
+Current learning rate is: 0.01
+Valid: pts_loss: 18.814160
+Train Epoch: 47 [0/2173 (0%)]	 pts_loss: 20.835333
+Current learning rate is: 0.01
+Train Epoch: 47 [1280/2173 (59%)]	 pts_loss: 13.404815
+Current learning rate is: 0.01
+Valid: pts_loss: 16.183501
+Train Epoch: 48 [0/2173 (0%)]	 pts_loss: 29.217100
+Current learning rate is: 0.01
+Train Epoch: 48 [1280/2173 (59%)]	 pts_loss: 23.726641
+Current learning rate is: 0.01
+Valid: pts_loss: 15.229385
+Train Epoch: 49 [0/2173 (0%)]	 pts_loss: 24.895536
+Current learning rate is: 0.01
+Train Epoch: 49 [1280/2173 (59%)]	 pts_loss: 14.724051
+Current learning rate is: 0.01
+Valid: pts_loss: 16.312318
+Train Epoch: 50 [0/2173 (0%)]	 pts_loss: 25.946655
+Current learning rate is: 0.01
+Train Epoch: 50 [1280/2173 (59%)]	 pts_loss: 23.831255
+Current learning rate is: 0.01
+Valid: pts_loss: 13.107626
+Train Epoch: 51 [0/2173 (0%)]	 pts_loss: 14.840989
+Current learning rate is: 0.01
+Train Epoch: 51 [1280/2173 (59%)]	 pts_loss: 29.071667
+Current learning rate is: 0.01
+Valid: pts_loss: 13.123515
+Train Epoch: 52 [0/2173 (0%)]	 pts_loss: 24.314785
+Current learning rate is: 0.01
+Train Epoch: 52 [1280/2173 (59%)]	 pts_loss: 14.992074
+Current learning rate is: 0.01
+Valid: pts_loss: 14.320512
+Train Epoch: 53 [0/2173 (0%)]	 pts_loss: 15.518160
+Current learning rate is: 0.01
+Train Epoch: 53 [1280/2173 (59%)]	 pts_loss: 21.694536
+Current learning rate is: 0.01
+Valid: pts_loss: 12.069747
+Train Epoch: 54 [0/2173 (0%)]	 pts_loss: 29.019665
+Current learning rate is: 0.01
+Train Epoch: 54 [1280/2173 (59%)]	 pts_loss: 20.980297
+Current learning rate is: 0.01
+Valid: pts_loss: 13.645818
+Train Epoch: 55 [0/2173 (0%)]	 pts_loss: 18.847486
+Current learning rate is: 0.01
+Train Epoch: 55 [1280/2173 (59%)]	 pts_loss: 14.334217
+Current learning rate is: 0.01
+Valid: pts_loss: 16.019445
+Train Epoch: 56 [0/2173 (0%)]	 pts_loss: 15.239682
+Current learning rate is: 0.01
+Train Epoch: 56 [1280/2173 (59%)]	 pts_loss: 34.651909
+Current learning rate is: 0.01
+Valid: pts_loss: 13.251795
+Train Epoch: 57 [0/2173 (0%)]	 pts_loss: 22.750978
+Current learning rate is: 0.01
+Train Epoch: 57 [1280/2173 (59%)]	 pts_loss: 21.577534
+Current learning rate is: 0.01
+Valid: pts_loss: 12.629021
+Train Epoch: 58 [0/2173 (0%)]	 pts_loss: 15.260492
+Current learning rate is: 0.01
+Train Epoch: 58 [1280/2173 (59%)]	 pts_loss: 19.192781
+Current learning rate is: 0.01
+Valid: pts_loss: 18.029399
+Train Epoch: 59 [0/2173 (0%)]	 pts_loss: 17.921928
+Current learning rate is: 0.01
+Train Epoch: 59 [1280/2173 (59%)]	 pts_loss: 20.368931
+Current learning rate is: 0.01
+Valid: pts_loss: 13.879877
+Train Epoch: 60 [0/2173 (0%)]	 pts_loss: 20.082418
+Current learning rate is: 0.01
+Train Epoch: 60 [1280/2173 (59%)]	 pts_loss: 23.182751
+Current learning rate is: 0.01
+Valid: pts_loss: 15.180541
+Train Epoch: 61 [0/2173 (0%)]	 pts_loss: 19.598829
+Current learning rate is: 0.01
+Train Epoch: 61 [1280/2173 (59%)]	 pts_loss: 20.939842
+Current learning rate is: 0.01
+Valid: pts_loss: 13.156922
+Train Epoch: 62 [0/2173 (0%)]	 pts_loss: 19.630569
+Current learning rate is: 0.01
+Train Epoch: 62 [1280/2173 (59%)]	 pts_loss: 17.703161
+Current learning rate is: 0.01
+Valid: pts_loss: 13.342598
+Train Epoch: 63 [0/2173 (0%)]	 pts_loss: 17.703972
+Current learning rate is: 0.01
+Train Epoch: 63 [1280/2173 (59%)]	 pts_loss: 23.685972
+Current learning rate is: 0.01
+Valid: pts_loss: 15.678822
+Train Epoch: 64 [0/2173 (0%)]	 pts_loss: 24.355532
+Current learning rate is: 0.01
+Train Epoch: 64 [1280/2173 (59%)]	 pts_loss: 19.884422
+Current learning rate is: 0.01
+Valid: pts_loss: 11.830618
+Train Epoch: 65 [0/2173 (0%)]	 pts_loss: 20.389385
+Current learning rate is: 0.01
+Train Epoch: 65 [1280/2173 (59%)]	 pts_loss: 19.068533
+Current learning rate is: 0.01
+Valid: pts_loss: 13.218368
+Train Epoch: 66 [0/2173 (0%)]	 pts_loss: 22.376307
+Current learning rate is: 0.01
+Train Epoch: 66 [1280/2173 (59%)]	 pts_loss: 15.126348
+Current learning rate is: 0.01
+Valid: pts_loss: 20.346480
+Train Epoch: 67 [0/2173 (0%)]	 pts_loss: 21.138361
+Current learning rate is: 0.01
+Train Epoch: 67 [1280/2173 (59%)]	 pts_loss: 11.197629
+Current learning rate is: 0.01
+Valid: pts_loss: 14.650474
+Train Epoch: 68 [0/2173 (0%)]	 pts_loss: 16.652605
+Current learning rate is: 0.01
+Train Epoch: 68 [1280/2173 (59%)]	 pts_loss: 17.737503
+Current learning rate is: 0.01
+Valid: pts_loss: 11.308079
+Train Epoch: 69 [0/2173 (0%)]	 pts_loss: 18.960953
+Current learning rate is: 0.01
+Train Epoch: 69 [1280/2173 (59%)]	 pts_loss: 11.951925
+Current learning rate is: 0.01
+Valid: pts_loss: 13.590148
+Train Epoch: 70 [0/2173 (0%)]	 pts_loss: 30.438675
+Current learning rate is: 0.01
+Train Epoch: 70 [1280/2173 (59%)]	 pts_loss: 11.364391
+Current learning rate is: 0.01
+Valid: pts_loss: 12.161071
+Train Epoch: 71 [0/2173 (0%)]	 pts_loss: 16.105936
+Current learning rate is: 0.01
+Train Epoch: 71 [1280/2173 (59%)]	 pts_loss: 14.391875
+Current learning rate is: 0.01
+Valid: pts_loss: 23.315612
+Train Epoch: 72 [0/2173 (0%)]	 pts_loss: 15.943236
+Current learning rate is: 0.01
+Train Epoch: 72 [1280/2173 (59%)]	 pts_loss: 9.328155
+Current learning rate is: 0.01
+Valid: pts_loss: 12.233301
+Train Epoch: 73 [0/2173 (0%)]	 pts_loss: 15.255429
+Current learning rate is: 0.01
+Train Epoch: 73 [1280/2173 (59%)]	 pts_loss: 18.174162
+Current learning rate is: 0.01
+Valid: pts_loss: 18.913870
+Train Epoch: 74 [0/2173 (0%)]	 pts_loss: 26.944025
+Current learning rate is: 0.01
+Train Epoch: 74 [1280/2173 (59%)]	 pts_loss: 10.821525
+Current learning rate is: 0.01
+Valid: pts_loss: 13.096446
+Train Epoch: 75 [0/2173 (0%)]	 pts_loss: 10.418172
+Current learning rate is: 0.01
+Train Epoch: 75 [1280/2173 (59%)]	 pts_loss: 12.607192
+Current learning rate is: 0.01
+Valid: pts_loss: 12.348743
+Train Epoch: 76 [0/2173 (0%)]	 pts_loss: 17.531019
+Current learning rate is: 0.01
+Train Epoch: 76 [1280/2173 (59%)]	 pts_loss: 12.491262
+Current learning rate is: 0.01
+Valid: pts_loss: 12.828542
+Train Epoch: 77 [0/2173 (0%)]	 pts_loss: 11.391709
+Current learning rate is: 0.01
+Train Epoch: 77 [1280/2173 (59%)]	 pts_loss: 16.216692
+Current learning rate is: 0.01
+Valid: pts_loss: 11.294223
+Train Epoch: 78 [0/2173 (0%)]	 pts_loss: 13.048811
+Current learning rate is: 0.01
+Train Epoch: 78 [1280/2173 (59%)]	 pts_loss: 15.399590
+Current learning rate is: 0.01
+Valid: pts_loss: 21.596304
+Train Epoch: 79 [0/2173 (0%)]	 pts_loss: 14.338937
+Current learning rate is: 0.01
+Train Epoch: 79 [1280/2173 (59%)]	 pts_loss: 12.595458
+Current learning rate is: 0.01
+Valid: pts_loss: 12.684997
+Train Epoch: 80 [0/2173 (0%)]	 pts_loss: 14.440295
+Current learning rate is: 0.01
+Train Epoch: 80 [1280/2173 (59%)]	 pts_loss: 21.112926
+Current learning rate is: 0.01
+Valid: pts_loss: 13.715071
+Train Epoch: 81 [0/2173 (0%)]	 pts_loss: 14.828268
+Current learning rate is: 0.01
+Train Epoch: 81 [1280/2173 (59%)]	 pts_loss: 17.425465
+Current learning rate is: 0.01
+Valid: pts_loss: 11.889573
+Train Epoch: 82 [0/2173 (0%)]	 pts_loss: 12.611337
+Current learning rate is: 0.01
+Train Epoch: 82 [1280/2173 (59%)]	 pts_loss: 19.242094
+Current learning rate is: 0.01
+Valid: pts_loss: 12.916180
+Train Epoch: 83 [0/2173 (0%)]	 pts_loss: 8.545696
+Current learning rate is: 0.01
+Train Epoch: 83 [1280/2173 (59%)]	 pts_loss: 16.710890
+Current learning rate is: 0.01
+Valid: pts_loss: 9.880892
+Train Epoch: 84 [0/2173 (0%)]	 pts_loss: 18.007915
+Current learning rate is: 0.01
+Train Epoch: 84 [1280/2173 (59%)]	 pts_loss: 23.371328
+Current learning rate is: 0.01
+Valid: pts_loss: 14.901516
+Train Epoch: 85 [0/2173 (0%)]	 pts_loss: 20.368196
+Current learning rate is: 0.01
+Train Epoch: 85 [1280/2173 (59%)]	 pts_loss: 10.720232
+Current learning rate is: 0.01
+Valid: pts_loss: 11.594020
+Train Epoch: 86 [0/2173 (0%)]	 pts_loss: 14.435125
+Current learning rate is: 0.01
+Train Epoch: 86 [1280/2173 (59%)]	 pts_loss: 14.752297
+Current learning rate is: 0.01
+Valid: pts_loss: 12.991279
+Train Epoch: 87 [0/2173 (0%)]	 pts_loss: 18.940245
+Current learning rate is: 0.01
+Train Epoch: 87 [1280/2173 (59%)]	 pts_loss: 16.996477
+Current learning rate is: 0.01
+Valid: pts_loss: 9.735166
+Train Epoch: 88 [0/2173 (0%)]	 pts_loss: 9.147494
+Current learning rate is: 0.01
+Train Epoch: 88 [1280/2173 (59%)]	 pts_loss: 13.825763
+Current learning rate is: 0.01
+Valid: pts_loss: 11.927615
+Train Epoch: 89 [0/2173 (0%)]	 pts_loss: 18.390104
+Current learning rate is: 0.01
+Train Epoch: 89 [1280/2173 (59%)]	 pts_loss: 10.569318
+Current learning rate is: 0.01
+Valid: pts_loss: 10.112255
+Train Epoch: 90 [0/2173 (0%)]	 pts_loss: 10.614336
+Current learning rate is: 0.01
+Train Epoch: 90 [1280/2173 (59%)]	 pts_loss: 18.081266
+Current learning rate is: 0.01
+Valid: pts_loss: 10.151089
+Train Epoch: 91 [0/2173 (0%)]	 pts_loss: 12.843289
+Current learning rate is: 0.01
+Train Epoch: 91 [1280/2173 (59%)]	 pts_loss: 8.759121
+Current learning rate is: 0.01
+Valid: pts_loss: 9.291650
+Train Epoch: 92 [0/2173 (0%)]	 pts_loss: 10.549038
+Current learning rate is: 0.01
+Train Epoch: 92 [1280/2173 (59%)]	 pts_loss: 12.384413
+Current learning rate is: 0.01
+Valid: pts_loss: 9.837142
+Train Epoch: 93 [0/2173 (0%)]	 pts_loss: 17.843323
+Current learning rate is: 0.01
+Train Epoch: 93 [1280/2173 (59%)]	 pts_loss: 9.114608
+Current learning rate is: 0.01
+Valid: pts_loss: 11.829704
+Train Epoch: 94 [0/2173 (0%)]	 pts_loss: 11.472543
+Current learning rate is: 0.01
+Train Epoch: 94 [1280/2173 (59%)]	 pts_loss: 22.587450
+Current learning rate is: 0.01
+Valid: pts_loss: 11.411182
+Train Epoch: 95 [0/2173 (0%)]	 pts_loss: 8.971975
+Current learning rate is: 0.01
+Train Epoch: 95 [1280/2173 (59%)]	 pts_loss: 8.325802
+Current learning rate is: 0.01
+Valid: pts_loss: 9.286555
+Train Epoch: 96 [0/2173 (0%)]	 pts_loss: 9.159903
+Current learning rate is: 0.01
+Train Epoch: 96 [1280/2173 (59%)]	 pts_loss: 12.890020
+Current learning rate is: 0.01
+Valid: pts_loss: 10.588583
+Train Epoch: 97 [0/2173 (0%)]	 pts_loss: 11.763346
+Current learning rate is: 0.01
+Train Epoch: 97 [1280/2173 (59%)]	 pts_loss: 8.885317
+Current learning rate is: 0.01
+Valid: pts_loss: 10.788698
+Train Epoch: 98 [0/2173 (0%)]	 pts_loss: 6.179411
+Current learning rate is: 0.01
+Train Epoch: 98 [1280/2173 (59%)]	 pts_loss: 9.578228
+Current learning rate is: 0.01
+Valid: pts_loss: 17.066073
+Train Epoch: 99 [0/2173 (0%)]	 pts_loss: 19.236633
+Current learning rate is: 0.01
+Train Epoch: 99 [1280/2173 (59%)]	 pts_loss: 7.974319
+Current learning rate is: 0.01
+Valid: pts_loss: 12.145781
+Train Epoch: 100 [0/2173 (0%)]	 pts_loss: 7.976547
+Current learning rate is: 0.01
+Train Epoch: 100 [1280/2173 (59%)]	 pts_loss: 14.189819
+Current learning rate is: 0.01
+Valid: pts_loss: 12.299289
+Train Epoch: 101 [0/2173 (0%)]	 pts_loss: 9.682717
+Current learning rate is: 0.01
+Train Epoch: 101 [1280/2173 (59%)]	 pts_loss: 15.372256
+Current learning rate is: 0.01
+Valid: pts_loss: 12.050889
+Train Epoch: 102 [0/2173 (0%)]	 pts_loss: 9.006884
+Current learning rate is: 0.01
+Train Epoch: 102 [1280/2173 (59%)]	 pts_loss: 8.999731
+Current learning rate is: 0.01
+Valid: pts_loss: 11.563936
+Train Epoch: 103 [0/2173 (0%)]	 pts_loss: 16.575670
+Current learning rate is: 0.01
+Train Epoch: 103 [1280/2173 (59%)]	 pts_loss: 13.802110
+Current learning rate is: 0.01
+Valid: pts_loss: 10.045427
+Train Epoch: 104 [0/2173 (0%)]	 pts_loss: 10.723103
+Current learning rate is: 0.01
+Train Epoch: 104 [1280/2173 (59%)]	 pts_loss: 9.996740
+Current learning rate is: 0.01
+Valid: pts_loss: 11.330972
+Train Epoch: 105 [0/2173 (0%)]	 pts_loss: 8.427108
+Current learning rate is: 0.01
+Train Epoch: 105 [1280/2173 (59%)]	 pts_loss: 8.766494
+Current learning rate is: 0.01
+Valid: pts_loss: 10.366909
+Train Epoch: 106 [0/2173 (0%)]	 pts_loss: 13.487452
+Current learning rate is: 0.01
+Train Epoch: 106 [1280/2173 (59%)]	 pts_loss: 10.799888
+Current learning rate is: 0.01
+Valid: pts_loss: 11.368174
+Train Epoch: 107 [0/2173 (0%)]	 pts_loss: 13.606297
+Current learning rate is: 0.01
+Train Epoch: 107 [1280/2173 (59%)]	 pts_loss: 9.561098
+Current learning rate is: 0.01
+Valid: pts_loss: 12.341472
+Train Epoch: 108 [0/2173 (0%)]	 pts_loss: 10.503656
+Current learning rate is: 0.01
+Train Epoch: 108 [1280/2173 (59%)]	 pts_loss: 12.213018
+Current learning rate is: 0.01
+Valid: pts_loss: 12.583787
+Train Epoch: 109 [0/2173 (0%)]	 pts_loss: 10.738613
+Current learning rate is: 0.01
+Train Epoch: 109 [1280/2173 (59%)]	 pts_loss: 7.657013
+Current learning rate is: 0.01
+Valid: pts_loss: 9.440289
+Train Epoch: 110 [0/2173 (0%)]	 pts_loss: 13.696319
+Current learning rate is: 0.01
+Train Epoch: 110 [1280/2173 (59%)]	 pts_loss: 11.845286
+Current learning rate is: 0.01
+Valid: pts_loss: 9.695222
+Train Epoch: 111 [0/2173 (0%)]	 pts_loss: 6.918733
+Current learning rate is: 0.01
+Train Epoch: 111 [1280/2173 (59%)]	 pts_loss: 9.251259
+Current learning rate is: 0.01
+Valid: pts_loss: 8.487744
+Train Epoch: 112 [0/2173 (0%)]	 pts_loss: 6.475351
+Current learning rate is: 0.01
+Train Epoch: 112 [1280/2173 (59%)]	 pts_loss: 9.601121
+Current learning rate is: 0.01
+Valid: pts_loss: 9.434822
+Train Epoch: 113 [0/2173 (0%)]	 pts_loss: 7.929721
+Current learning rate is: 0.01
+Train Epoch: 113 [1280/2173 (59%)]	 pts_loss: 22.693727
+Current learning rate is: 0.01
+Valid: pts_loss: 11.452227
+Train Epoch: 114 [0/2173 (0%)]	 pts_loss: 10.897350
+Current learning rate is: 0.01
+Train Epoch: 114 [1280/2173 (59%)]	 pts_loss: 7.411936
+Current learning rate is: 0.01
+Valid: pts_loss: 9.533337
+Train Epoch: 115 [0/2173 (0%)]	 pts_loss: 15.453366
+Current learning rate is: 0.01
+Train Epoch: 115 [1280/2173 (59%)]	 pts_loss: 7.828876
+Current learning rate is: 0.01
+Valid: pts_loss: 9.283897
+Train Epoch: 116 [0/2173 (0%)]	 pts_loss: 8.805506
+Current learning rate is: 0.01
+Train Epoch: 116 [1280/2173 (59%)]	 pts_loss: 7.898582
+Current learning rate is: 0.01
+Valid: pts_loss: 8.328637
+Train Epoch: 117 [0/2173 (0%)]	 pts_loss: 10.937391
+Current learning rate is: 0.01
+Train Epoch: 117 [1280/2173 (59%)]	 pts_loss: 6.974496
+Current learning rate is: 0.01
+Valid: pts_loss: 10.044068
+Train Epoch: 118 [0/2173 (0%)]	 pts_loss: 9.280029
+Current learning rate is: 0.01
+Train Epoch: 118 [1280/2173 (59%)]	 pts_loss: 11.067595
+Current learning rate is: 0.01
+Valid: pts_loss: 17.740750
+Train Epoch: 119 [0/2173 (0%)]	 pts_loss: 12.887495
+Current learning rate is: 0.01
+Train Epoch: 119 [1280/2173 (59%)]	 pts_loss: 7.895470
+Current learning rate is: 0.01
+Valid: pts_loss: 8.681946
+Train Epoch: 120 [0/2173 (0%)]	 pts_loss: 5.848723
+Current learning rate is: 0.01
+Train Epoch: 120 [1280/2173 (59%)]	 pts_loss: 9.216460
+Current learning rate is: 0.01
+Valid: pts_loss: 8.858524
+Train Epoch: 121 [0/2173 (0%)]	 pts_loss: 7.705423
+Current learning rate is: 0.01
+Train Epoch: 121 [1280/2173 (59%)]	 pts_loss: 9.589390
+Current learning rate is: 0.01
+Valid: pts_loss: 8.481256
+Train Epoch: 122 [0/2173 (0%)]	 pts_loss: 10.636336
+Current learning rate is: 0.01
+Train Epoch: 122 [1280/2173 (59%)]	 pts_loss: 14.322878
+Current learning rate is: 0.01
+Valid: pts_loss: 8.615041
+Train Epoch: 123 [0/2173 (0%)]	 pts_loss: 7.534373
+Current learning rate is: 0.01
+Train Epoch: 123 [1280/2173 (59%)]	 pts_loss: 6.508687
+Current learning rate is: 0.01
+Valid: pts_loss: 9.383990
+Train Epoch: 124 [0/2173 (0%)]	 pts_loss: 8.185525
+Current learning rate is: 0.01
+Train Epoch: 124 [1280/2173 (59%)]	 pts_loss: 7.150217
+Current learning rate is: 0.01
+Valid: pts_loss: 8.863224
+Train Epoch: 125 [0/2173 (0%)]	 pts_loss: 6.774990
+Current learning rate is: 0.01
+Train Epoch: 125 [1280/2173 (59%)]	 pts_loss: 6.829410
+Current learning rate is: 0.01
+Valid: pts_loss: 8.862938
+Train Epoch: 126 [0/2173 (0%)]	 pts_loss: 4.931713
+Current learning rate is: 0.01
+Train Epoch: 126 [1280/2173 (59%)]	 pts_loss: 8.043590
+Current learning rate is: 0.01
+Valid: pts_loss: 9.275066
+Train Epoch: 127 [0/2173 (0%)]	 pts_loss: 6.065245
+Current learning rate is: 0.01
+Train Epoch: 127 [1280/2173 (59%)]	 pts_loss: 7.196961
+Current learning rate is: 0.01
+Valid: pts_loss: 8.028328
+Train Epoch: 128 [0/2173 (0%)]	 pts_loss: 4.909155
+Current learning rate is: 0.01
+Train Epoch: 128 [1280/2173 (59%)]	 pts_loss: 7.702093
+Current learning rate is: 0.01
+Valid: pts_loss: 12.951018
+Train Epoch: 129 [0/2173 (0%)]	 pts_loss: 10.386072
+Current learning rate is: 0.01
+Train Epoch: 129 [1280/2173 (59%)]	 pts_loss: 10.921462
+Current learning rate is: 0.01
+Valid: pts_loss: 14.080844
+Train Epoch: 130 [0/2173 (0%)]	 pts_loss: 9.599275
+Current learning rate is: 0.01
+Train Epoch: 130 [1280/2173 (59%)]	 pts_loss: 6.655384
+Current learning rate is: 0.01
+Valid: pts_loss: 8.166645
+Train Epoch: 131 [0/2173 (0%)]	 pts_loss: 6.532828
+Current learning rate is: 0.01
+Train Epoch: 131 [1280/2173 (59%)]	 pts_loss: 10.084029
+Current learning rate is: 0.01
+Valid: pts_loss: 8.239467
+Train Epoch: 132 [0/2173 (0%)]	 pts_loss: 10.264953
+Current learning rate is: 0.01
+Train Epoch: 132 [1280/2173 (59%)]	 pts_loss: 9.510489
+Current learning rate is: 0.01
+Valid: pts_loss: 9.055670
+Train Epoch: 133 [0/2173 (0%)]	 pts_loss: 6.893187
+Current learning rate is: 0.01
+Train Epoch: 133 [1280/2173 (59%)]	 pts_loss: 6.414836
+Current learning rate is: 0.01
+Valid: pts_loss: 7.725329
+Train Epoch: 134 [0/2173 (0%)]	 pts_loss: 5.292738
+Current learning rate is: 0.01
+Train Epoch: 134 [1280/2173 (59%)]	 pts_loss: 5.527530
+Current learning rate is: 0.01
+Valid: pts_loss: 8.037311
+Train Epoch: 135 [0/2173 (0%)]	 pts_loss: 8.093785
+Current learning rate is: 0.01
+Train Epoch: 135 [1280/2173 (59%)]	 pts_loss: 9.797644
+Current learning rate is: 0.01
+Valid: pts_loss: 9.616295
+Train Epoch: 136 [0/2173 (0%)]	 pts_loss: 8.885777
+Current learning rate is: 0.01
+Train Epoch: 136 [1280/2173 (59%)]	 pts_loss: 8.250833
+Current learning rate is: 0.01
+Valid: pts_loss: 14.406467
+Train Epoch: 137 [0/2173 (0%)]	 pts_loss: 12.639273
+Current learning rate is: 0.01
+Train Epoch: 137 [1280/2173 (59%)]	 pts_loss: 13.363688
+Current learning rate is: 0.01
+Valid: pts_loss: 9.447184
+Train Epoch: 138 [0/2173 (0%)]	 pts_loss: 7.750037
+Current learning rate is: 0.01
+Train Epoch: 138 [1280/2173 (59%)]	 pts_loss: 8.533395
+Current learning rate is: 0.01
+Valid: pts_loss: 8.647950
+Train Epoch: 139 [0/2173 (0%)]	 pts_loss: 8.138422
+Current learning rate is: 0.01
+Train Epoch: 139 [1280/2173 (59%)]	 pts_loss: 6.966269
+Current learning rate is: 0.01
+Valid: pts_loss: 8.682097
+Train Epoch: 140 [0/2173 (0%)]	 pts_loss: 7.177166
+Current learning rate is: 0.01
+Train Epoch: 140 [1280/2173 (59%)]	 pts_loss: 7.680582
+Current learning rate is: 0.01
+Valid: pts_loss: 14.428768
+Train Epoch: 141 [0/2173 (0%)]	 pts_loss: 10.466959
+Current learning rate is: 0.01
+Train Epoch: 141 [1280/2173 (59%)]	 pts_loss: 8.935527
+Current learning rate is: 0.01
+Valid: pts_loss: 9.802314
+Train Epoch: 142 [0/2173 (0%)]	 pts_loss: 9.329819
+Current learning rate is: 0.01
+Train Epoch: 142 [1280/2173 (59%)]	 pts_loss: 10.329376
+Current learning rate is: 0.01
+Valid: pts_loss: 12.697530
+Train Epoch: 143 [0/2173 (0%)]	 pts_loss: 10.415364
+Current learning rate is: 0.01
+Train Epoch: 143 [1280/2173 (59%)]	 pts_loss: 7.837943
+Current learning rate is: 0.01
+Valid: pts_loss: 11.518473
+Train Epoch: 144 [0/2173 (0%)]	 pts_loss: 10.979508
+Current learning rate is: 0.01
+Train Epoch: 144 [1280/2173 (59%)]	 pts_loss: 9.028267
+Current learning rate is: 0.01
+Valid: pts_loss: 8.353943
+Train Epoch: 145 [0/2173 (0%)]	 pts_loss: 5.079461
+Current learning rate is: 0.01
+Train Epoch: 145 [1280/2173 (59%)]	 pts_loss: 5.642378
+Current learning rate is: 0.01
+Valid: pts_loss: 7.467256
+Train Epoch: 146 [0/2173 (0%)]	 pts_loss: 6.593353
+Current learning rate is: 0.01
+Train Epoch: 146 [1280/2173 (59%)]	 pts_loss: 4.971379
+Current learning rate is: 0.01
+Valid: pts_loss: 7.433266
+Train Epoch: 147 [0/2173 (0%)]	 pts_loss: 5.889987
+Current learning rate is: 0.01
+Train Epoch: 147 [1280/2173 (59%)]	 pts_loss: 5.431741
+Current learning rate is: 0.01
+Valid: pts_loss: 7.355440
+Train Epoch: 148 [0/2173 (0%)]	 pts_loss: 5.734127
+Current learning rate is: 0.01
+Train Epoch: 148 [1280/2173 (59%)]	 pts_loss: 5.983566
+Current learning rate is: 0.01
+Valid: pts_loss: 7.418293
+Train Epoch: 149 [0/2173 (0%)]	 pts_loss: 6.023860
+Current learning rate is: 0.01
+Train Epoch: 149 [1280/2173 (59%)]	 pts_loss: 4.746081
+Current learning rate is: 0.01
+Valid: pts_loss: 7.725978
+Train Epoch: 150 [0/2173 (0%)]	 pts_loss: 4.916662
+Current learning rate is: 0.01
+Train Epoch: 150 [1280/2173 (59%)]	 pts_loss: 6.651425
+Current learning rate is: 0.01
+Valid: pts_loss: 7.414672
+Train Epoch: 151 [0/2173 (0%)]	 pts_loss: 6.363655
+Current learning rate is: 0.01
+Train Epoch: 151 [1280/2173 (59%)]	 pts_loss: 4.694489
+Current learning rate is: 0.01
+Valid: pts_loss: 7.296219
+Train Epoch: 152 [0/2173 (0%)]	 pts_loss: 5.381805
+Current learning rate is: 0.01
+Train Epoch: 152 [1280/2173 (59%)]	 pts_loss: 5.683538
+Current learning rate is: 0.01
+Valid: pts_loss: 8.894299
+Train Epoch: 153 [0/2173 (0%)]	 pts_loss: 9.561392
+Current learning rate is: 0.01
+Train Epoch: 153 [1280/2173 (59%)]	 pts_loss: 5.079158
+Current learning rate is: 0.01
+Valid: pts_loss: 10.866288
+Train Epoch: 154 [0/2173 (0%)]	 pts_loss: 8.934479
+Current learning rate is: 0.01
+Train Epoch: 154 [1280/2173 (59%)]	 pts_loss: 5.930518
+Current learning rate is: 0.01
+Valid: pts_loss: 8.044700
+Train Epoch: 155 [0/2173 (0%)]	 pts_loss: 6.665683
+Current learning rate is: 0.01
+Train Epoch: 155 [1280/2173 (59%)]	 pts_loss: 6.086283
+Current learning rate is: 0.01
+Valid: pts_loss: 7.453326
+Train Epoch: 156 [0/2173 (0%)]	 pts_loss: 4.860974
+Current learning rate is: 0.01
+Train Epoch: 156 [1280/2173 (59%)]	 pts_loss: 5.030007
+Current learning rate is: 0.01
+Valid: pts_loss: 7.084124
+Train Epoch: 157 [0/2173 (0%)]	 pts_loss: 5.695190
+Current learning rate is: 0.01
+Train Epoch: 157 [1280/2173 (59%)]	 pts_loss: 7.438384
+Current learning rate is: 0.01
+Valid: pts_loss: 7.331775
+Train Epoch: 158 [0/2173 (0%)]	 pts_loss: 6.647592
+Current learning rate is: 0.01
+Train Epoch: 158 [1280/2173 (59%)]	 pts_loss: 4.638967
+Current learning rate is: 0.01
+Valid: pts_loss: 7.585974
+Train Epoch: 159 [0/2173 (0%)]	 pts_loss: 4.616314
+Current learning rate is: 0.01
+Train Epoch: 159 [1280/2173 (59%)]	 pts_loss: 8.206288
+Current learning rate is: 0.01
+Valid: pts_loss: 7.155680
+Train Epoch: 160 [0/2173 (0%)]	 pts_loss: 4.250440
+Current learning rate is: 0.01
+Train Epoch: 160 [1280/2173 (59%)]	 pts_loss: 6.347792
+Current learning rate is: 0.01
+Valid: pts_loss: 8.943601
+Train Epoch: 161 [0/2173 (0%)]	 pts_loss: 5.619432
+Current learning rate is: 0.01
+Train Epoch: 161 [1280/2173 (59%)]	 pts_loss: 6.806090
+Current learning rate is: 0.01
+Valid: pts_loss: 7.434261
+Train Epoch: 162 [0/2173 (0%)]	 pts_loss: 7.297975
+Current learning rate is: 0.01
+Train Epoch: 162 [1280/2173 (59%)]	 pts_loss: 5.796734
+Current learning rate is: 0.01
+Valid: pts_loss: 7.279206
+Train Epoch: 163 [0/2173 (0%)]	 pts_loss: 6.710492
+Current learning rate is: 0.01
+Train Epoch: 163 [1280/2173 (59%)]	 pts_loss: 5.402827
+Current learning rate is: 0.01
+Valid: pts_loss: 10.335065
+Train Epoch: 164 [0/2173 (0%)]	 pts_loss: 6.673702
+Current learning rate is: 0.01
+Train Epoch: 164 [1280/2173 (59%)]	 pts_loss: 5.525487
+Current learning rate is: 0.01
+Valid: pts_loss: 11.853305
+Train Epoch: 165 [0/2173 (0%)]	 pts_loss: 12.099267
+Current learning rate is: 0.01
+Train Epoch: 165 [1280/2173 (59%)]	 pts_loss: 5.921170
+Current learning rate is: 0.01
+Valid: pts_loss: 8.413613
+Train Epoch: 166 [0/2173 (0%)]	 pts_loss: 6.282181
+Current learning rate is: 0.01
+Train Epoch: 166 [1280/2173 (59%)]	 pts_loss: 4.955143
+Current learning rate is: 0.01
+Valid: pts_loss: 7.999496
+Train Epoch: 167 [0/2173 (0%)]	 pts_loss: 5.316420
+Current learning rate is: 0.01
+Train Epoch: 167 [1280/2173 (59%)]	 pts_loss: 4.204949
+Current learning rate is: 0.01
+Valid: pts_loss: 7.152119
+Train Epoch: 168 [0/2173 (0%)]	 pts_loss: 5.091765
+Current learning rate is: 0.01
+Train Epoch: 168 [1280/2173 (59%)]	 pts_loss: 7.149064
+Current learning rate is: 0.01
+Valid: pts_loss: 8.488548
+Train Epoch: 169 [0/2173 (0%)]	 pts_loss: 6.737757
+Current learning rate is: 0.01
+Train Epoch: 169 [1280/2173 (59%)]	 pts_loss: 5.009692
+Current learning rate is: 0.01
+Valid: pts_loss: 7.655226
+Train Epoch: 170 [0/2173 (0%)]	 pts_loss: 4.777769
+Current learning rate is: 0.01
+Train Epoch: 170 [1280/2173 (59%)]	 pts_loss: 5.668397
+Current learning rate is: 0.01
+Valid: pts_loss: 8.038134
+Train Epoch: 171 [0/2173 (0%)]	 pts_loss: 5.784190
+Current learning rate is: 0.01
+Train Epoch: 171 [1280/2173 (59%)]	 pts_loss: 6.688305
+Current learning rate is: 0.01
+Valid: pts_loss: 7.720214
+Train Epoch: 172 [0/2173 (0%)]	 pts_loss: 5.504170
+Current learning rate is: 0.01
+Train Epoch: 172 [1280/2173 (59%)]	 pts_loss: 5.177754
+Current learning rate is: 0.01
+Valid: pts_loss: 7.830546
+Train Epoch: 173 [0/2173 (0%)]	 pts_loss: 5.108052
+Current learning rate is: 0.01
+Train Epoch: 173 [1280/2173 (59%)]	 pts_loss: 4.418954
+Current learning rate is: 0.01
+Valid: pts_loss: 8.344207
+Train Epoch: 174 [0/2173 (0%)]	 pts_loss: 5.726420
+Current learning rate is: 0.01
+Train Epoch: 174 [1280/2173 (59%)]	 pts_loss: 4.870090
+Current learning rate is: 0.01
+Valid: pts_loss: 6.580486
+Train Epoch: 175 [0/2173 (0%)]	 pts_loss: 4.129945
+Current learning rate is: 0.01
+Train Epoch: 175 [1280/2173 (59%)]	 pts_loss: 4.160655
+Current learning rate is: 0.01
+Valid: pts_loss: 6.496102
+Train Epoch: 176 [0/2173 (0%)]	 pts_loss: 4.358355
+Current learning rate is: 0.01
+Train Epoch: 176 [1280/2173 (59%)]	 pts_loss: 5.114393
+Current learning rate is: 0.01
+Valid: pts_loss: 6.948976
+Train Epoch: 177 [0/2173 (0%)]	 pts_loss: 5.908606
+Current learning rate is: 0.01
+Train Epoch: 177 [1280/2173 (59%)]	 pts_loss: 6.434821
+Current learning rate is: 0.01
+Valid: pts_loss: 8.559901
+Train Epoch: 178 [0/2173 (0%)]	 pts_loss: 3.505260
+Current learning rate is: 0.01
+Train Epoch: 178 [1280/2173 (59%)]	 pts_loss: 4.958188
+Current learning rate is: 0.01
+Valid: pts_loss: 6.993651
+Train Epoch: 179 [0/2173 (0%)]	 pts_loss: 4.010199
+Current learning rate is: 0.01
+Train Epoch: 179 [1280/2173 (59%)]	 pts_loss: 4.673927
+Current learning rate is: 0.01
+Valid: pts_loss: 6.825514
+Train Epoch: 180 [0/2173 (0%)]	 pts_loss: 5.051232
+Current learning rate is: 0.01
+Train Epoch: 180 [1280/2173 (59%)]	 pts_loss: 3.591064
+Current learning rate is: 0.01
+Valid: pts_loss: 6.647011
+Train Epoch: 181 [0/2173 (0%)]	 pts_loss: 5.166957
+Current learning rate is: 0.01
+Train Epoch: 181 [1280/2173 (59%)]	 pts_loss: 4.677029
+Current learning rate is: 0.01
+Valid: pts_loss: 6.597347
+Train Epoch: 182 [0/2173 (0%)]	 pts_loss: 4.056074
+Current learning rate is: 0.01
+Train Epoch: 182 [1280/2173 (59%)]	 pts_loss: 3.696566
+Current learning rate is: 0.01
+Valid: pts_loss: 6.818835
+Train Epoch: 183 [0/2173 (0%)]	 pts_loss: 5.880079
+Current learning rate is: 0.01
+Train Epoch: 183 [1280/2173 (59%)]	 pts_loss: 6.921526
+Current learning rate is: 0.01
+Valid: pts_loss: 6.972243
+Train Epoch: 184 [0/2173 (0%)]	 pts_loss: 4.746674
+Current learning rate is: 0.01
+Train Epoch: 184 [1280/2173 (59%)]	 pts_loss: 4.639443
+Current learning rate is: 0.01
+Valid: pts_loss: 6.643404
+Train Epoch: 185 [0/2173 (0%)]	 pts_loss: 5.602775
+Current learning rate is: 0.01
+Train Epoch: 185 [1280/2173 (59%)]	 pts_loss: 4.656290
+Current learning rate is: 0.01
+Valid: pts_loss: 6.298178
+Train Epoch: 186 [0/2173 (0%)]	 pts_loss: 4.507210
+Current learning rate is: 0.01
+Train Epoch: 186 [1280/2173 (59%)]	 pts_loss: 4.972523
+Current learning rate is: 0.01
+Valid: pts_loss: 6.400473
+Train Epoch: 187 [0/2173 (0%)]	 pts_loss: 4.513569
+Current learning rate is: 0.01
+Train Epoch: 187 [1280/2173 (59%)]	 pts_loss: 4.349541
+Current learning rate is: 0.01
+Valid: pts_loss: 6.536469
+Train Epoch: 188 [0/2173 (0%)]	 pts_loss: 4.643322
+Current learning rate is: 0.01
+Train Epoch: 188 [1280/2173 (59%)]	 pts_loss: 5.541164
+Current learning rate is: 0.01
+Valid: pts_loss: 6.199737
+Train Epoch: 189 [0/2173 (0%)]	 pts_loss: 4.348281
+Current learning rate is: 0.01
+Train Epoch: 189 [1280/2173 (59%)]	 pts_loss: 5.140749
+Current learning rate is: 0.01
+Valid: pts_loss: 5.916870
+Train Epoch: 190 [0/2173 (0%)]	 pts_loss: 3.957889
+Current learning rate is: 0.01
+Train Epoch: 190 [1280/2173 (59%)]	 pts_loss: 4.185831
+Current learning rate is: 0.01
+Valid: pts_loss: 6.599778
+Train Epoch: 191 [0/2173 (0%)]	 pts_loss: 4.230230
+Current learning rate is: 0.01
+Train Epoch: 191 [1280/2173 (59%)]	 pts_loss: 3.963650
+Current learning rate is: 0.01
+Valid: pts_loss: 6.433915
+Train Epoch: 192 [0/2173 (0%)]	 pts_loss: 4.192884
+Current learning rate is: 0.01
+Train Epoch: 192 [1280/2173 (59%)]	 pts_loss: 4.872548
+Current learning rate is: 0.01
+Valid: pts_loss: 7.166584
+Train Epoch: 193 [0/2173 (0%)]	 pts_loss: 5.603836
+Current learning rate is: 0.01
+Train Epoch: 193 [1280/2173 (59%)]	 pts_loss: 5.710232
+Current learning rate is: 0.01
+Valid: pts_loss: 6.143445
+Train Epoch: 194 [0/2173 (0%)]	 pts_loss: 3.755886
+Current learning rate is: 0.01
+Train Epoch: 194 [1280/2173 (59%)]	 pts_loss: 5.946509
+Current learning rate is: 0.01
+Valid: pts_loss: 6.233533
+Train Epoch: 195 [0/2173 (0%)]	 pts_loss: 4.376877
+Current learning rate is: 0.01
+Train Epoch: 195 [1280/2173 (59%)]	 pts_loss: 4.269449
+Current learning rate is: 0.01
+Valid: pts_loss: 5.901911
+Train Epoch: 196 [0/2173 (0%)]	 pts_loss: 3.972871
+Current learning rate is: 0.01
+Train Epoch: 196 [1280/2173 (59%)]	 pts_loss: 6.828253
+Current learning rate is: 0.01
+Valid: pts_loss: 6.602180
+Train Epoch: 197 [0/2173 (0%)]	 pts_loss: 4.340710
+Current learning rate is: 0.01
+Train Epoch: 197 [1280/2173 (59%)]	 pts_loss: 4.169251
+Current learning rate is: 0.01
+Valid: pts_loss: 7.009406
+Train Epoch: 198 [0/2173 (0%)]	 pts_loss: 4.757809
+Current learning rate is: 0.01
+Train Epoch: 198 [1280/2173 (59%)]	 pts_loss: 4.269143
+Current learning rate is: 0.01
+Valid: pts_loss: 7.219204
+Train Epoch: 199 [0/2173 (0%)]	 pts_loss: 5.806689
+Current learning rate is: 0.01
+Train Epoch: 199 [1280/2173 (59%)]	 pts_loss: 3.962451
+Current learning rate is: 0.01
+Valid: pts_loss: 5.990531
+Train Epoch: 200 [0/2173 (0%)]	 pts_loss: 3.041031
+Current learning rate is: 0.01
+Train Epoch: 200 [1280/2173 (59%)]	 pts_loss: 4.507740
+Current learning rate is: 0.01
+Valid: pts_loss: 6.253994
+Train Epoch: 201 [0/2173 (0%)]	 pts_loss: 3.756435
+Current learning rate is: 0.01
+Train Epoch: 201 [1280/2173 (59%)]	 pts_loss: 4.040408
+Current learning rate is: 0.01
+Valid: pts_loss: 6.575409
+Train Epoch: 202 [0/2173 (0%)]	 pts_loss: 3.824728
+Current learning rate is: 0.01
+Train Epoch: 202 [1280/2173 (59%)]	 pts_loss: 3.779027
+Current learning rate is: 0.01
+Valid: pts_loss: 5.991861
+Train Epoch: 203 [0/2173 (0%)]	 pts_loss: 3.594133
+Current learning rate is: 0.01
+Train Epoch: 203 [1280/2173 (59%)]	 pts_loss: 4.342858
+Current learning rate is: 0.01
+Valid: pts_loss: 6.344616
+Train Epoch: 204 [0/2173 (0%)]	 pts_loss: 4.163686
+Current learning rate is: 0.01
+Train Epoch: 204 [1280/2173 (59%)]	 pts_loss: 4.838123
+Current learning rate is: 0.01
+Valid: pts_loss: 5.996469
+Train Epoch: 205 [0/2173 (0%)]	 pts_loss: 4.030723
+Current learning rate is: 0.01
+Train Epoch: 205 [1280/2173 (59%)]	 pts_loss: 4.226430
+Current learning rate is: 0.01
+Valid: pts_loss: 6.954394
+Train Epoch: 206 [0/2173 (0%)]	 pts_loss: 6.414267
+Current learning rate is: 0.01
+Train Epoch: 206 [1280/2173 (59%)]	 pts_loss: 4.744738
+Current learning rate is: 0.01
+Valid: pts_loss: 6.472182
+Train Epoch: 207 [0/2173 (0%)]	 pts_loss: 5.229135
+Current learning rate is: 0.01
+Train Epoch: 207 [1280/2173 (59%)]	 pts_loss: 4.326610
+Current learning rate is: 0.01
+Valid: pts_loss: 5.848267
+Train Epoch: 208 [0/2173 (0%)]	 pts_loss: 3.206040
+Current learning rate is: 0.01
+Train Epoch: 208 [1280/2173 (59%)]	 pts_loss: 3.382509
+Current learning rate is: 0.01
+Valid: pts_loss: 5.816517
+Train Epoch: 209 [0/2173 (0%)]	 pts_loss: 3.786521
+Current learning rate is: 0.01
+Train Epoch: 209 [1280/2173 (59%)]	 pts_loss: 4.532385
+Current learning rate is: 0.01
+Valid: pts_loss: 6.347061
+Train Epoch: 210 [0/2173 (0%)]	 pts_loss: 4.528738
+Current learning rate is: 0.01
+Train Epoch: 210 [1280/2173 (59%)]	 pts_loss: 4.560893
+Current learning rate is: 0.01
+Valid: pts_loss: 6.289122
+Train Epoch: 211 [0/2173 (0%)]	 pts_loss: 4.475576
+Current learning rate is: 0.01
+Train Epoch: 211 [1280/2173 (59%)]	 pts_loss: 5.213874
+Current learning rate is: 0.01
+Valid: pts_loss: 5.730489
+Train Epoch: 212 [0/2173 (0%)]	 pts_loss: 4.563863
+Current learning rate is: 0.01
+Train Epoch: 212 [1280/2173 (59%)]	 pts_loss: 3.932818
+Current learning rate is: 0.01
+Valid: pts_loss: 5.578805
+Train Epoch: 213 [0/2173 (0%)]	 pts_loss: 3.387794
+Current learning rate is: 0.01
+Train Epoch: 213 [1280/2173 (59%)]	 pts_loss: 5.597297
+Current learning rate is: 0.01
+Valid: pts_loss: 5.928297
+Train Epoch: 214 [0/2173 (0%)]	 pts_loss: 4.127007
+Current learning rate is: 0.01
+Train Epoch: 214 [1280/2173 (59%)]	 pts_loss: 5.106395
+Current learning rate is: 0.01
+Valid: pts_loss: 5.829193
+Train Epoch: 215 [0/2173 (0%)]	 pts_loss: 3.728210
+Current learning rate is: 0.01
+Train Epoch: 215 [1280/2173 (59%)]	 pts_loss: 3.629744
+Current learning rate is: 0.01
+Valid: pts_loss: 7.898835
+Train Epoch: 216 [0/2173 (0%)]	 pts_loss: 5.120742
+Current learning rate is: 0.01
+Train Epoch: 216 [1280/2173 (59%)]	 pts_loss: 4.419716
+Current learning rate is: 0.01
+Valid: pts_loss: 6.078803
+Train Epoch: 217 [0/2173 (0%)]	 pts_loss: 3.930654
+Current learning rate is: 0.01
+Train Epoch: 217 [1280/2173 (59%)]	 pts_loss: 5.409100
+Current learning rate is: 0.01
+Valid: pts_loss: 7.032374
+Train Epoch: 218 [0/2173 (0%)]	 pts_loss: 5.372364
+Current learning rate is: 0.01
+Train Epoch: 218 [1280/2173 (59%)]	 pts_loss: 4.923948
+Current learning rate is: 0.01
+Valid: pts_loss: 6.298723
+Train Epoch: 219 [0/2173 (0%)]	 pts_loss: 5.098334
+Current learning rate is: 0.01
+Train Epoch: 219 [1280/2173 (59%)]	 pts_loss: 4.936958
+Current learning rate is: 0.01
+Valid: pts_loss: 5.748204
+Train Epoch: 220 [0/2173 (0%)]	 pts_loss: 4.045050
+Current learning rate is: 0.01
+Train Epoch: 220 [1280/2173 (59%)]	 pts_loss: 3.659019
+Current learning rate is: 0.01
+Valid: pts_loss: 6.108508
+Train Epoch: 221 [0/2173 (0%)]	 pts_loss: 4.582328
+Current learning rate is: 0.01
+Train Epoch: 221 [1280/2173 (59%)]	 pts_loss: 4.786854
+Current learning rate is: 0.01
+Valid: pts_loss: 6.164296
+Train Epoch: 222 [0/2173 (0%)]	 pts_loss: 5.757949
+Current learning rate is: 0.01
+Train Epoch: 222 [1280/2173 (59%)]	 pts_loss: 4.419656
+Current learning rate is: 0.01
+Valid: pts_loss: 5.501169
+Train Epoch: 223 [0/2173 (0%)]	 pts_loss: 3.804497
+Current learning rate is: 0.01
+Train Epoch: 223 [1280/2173 (59%)]	 pts_loss: 4.744648
+Current learning rate is: 0.01
+Valid: pts_loss: 7.219404
+Train Epoch: 224 [0/2173 (0%)]	 pts_loss: 4.631867
+Current learning rate is: 0.01
+Train Epoch: 224 [1280/2173 (59%)]	 pts_loss: 3.811049
+Current learning rate is: 0.01
+Valid: pts_loss: 7.387327
+Train Epoch: 225 [0/2173 (0%)]	 pts_loss: 7.512871
+Current learning rate is: 0.01
+Train Epoch: 225 [1280/2173 (59%)]	 pts_loss: 4.225858
+Current learning rate is: 0.01
+Valid: pts_loss: 5.989245
+Train Epoch: 226 [0/2173 (0%)]	 pts_loss: 4.553930
+Current learning rate is: 0.01
+Train Epoch: 226 [1280/2173 (59%)]	 pts_loss: 3.529783
+Current learning rate is: 0.01
+Valid: pts_loss: 5.542462
+Train Epoch: 227 [0/2173 (0%)]	 pts_loss: 3.717335
+Current learning rate is: 0.01
+Train Epoch: 227 [1280/2173 (59%)]	 pts_loss: 3.916339
+Current learning rate is: 0.01
+Valid: pts_loss: 6.595864
+Train Epoch: 228 [0/2173 (0%)]	 pts_loss: 4.456025
+Current learning rate is: 0.01
+Train Epoch: 228 [1280/2173 (59%)]	 pts_loss: 3.953810
+Current learning rate is: 0.01
+Valid: pts_loss: 5.632352
+Train Epoch: 229 [0/2173 (0%)]	 pts_loss: 3.284971
+Current learning rate is: 0.01
+Train Epoch: 229 [1280/2173 (59%)]	 pts_loss: 3.559592
+Current learning rate is: 0.01
+Valid: pts_loss: 6.106127
+Train Epoch: 230 [0/2173 (0%)]	 pts_loss: 4.612113
+Current learning rate is: 0.01
+Train Epoch: 230 [1280/2173 (59%)]	 pts_loss: 4.048542
+Current learning rate is: 0.01
+Valid: pts_loss: 5.407914
+Train Epoch: 231 [0/2173 (0%)]	 pts_loss: 3.871090
+Current learning rate is: 0.01
+Train Epoch: 231 [1280/2173 (59%)]	 pts_loss: 4.298419
+Current learning rate is: 0.01
+Valid: pts_loss: 5.346301
+Train Epoch: 232 [0/2173 (0%)]	 pts_loss: 2.833041
+Current learning rate is: 0.01
+Train Epoch: 232 [1280/2173 (59%)]	 pts_loss: 4.983651
+Current learning rate is: 0.01
+Valid: pts_loss: 5.669227
+Train Epoch: 233 [0/2173 (0%)]	 pts_loss: 3.625674
+Current learning rate is: 0.01
+Train Epoch: 233 [1280/2173 (59%)]	 pts_loss: 4.061856
+Current learning rate is: 0.01
+Valid: pts_loss: 5.597872
+Train Epoch: 234 [0/2173 (0%)]	 pts_loss: 5.096582
+Current learning rate is: 0.01
+Train Epoch: 234 [1280/2173 (59%)]	 pts_loss: 4.059711
+Current learning rate is: 0.01
+Valid: pts_loss: 5.711430
+Train Epoch: 235 [0/2173 (0%)]	 pts_loss: 3.713334
+Current learning rate is: 0.01
+Train Epoch: 235 [1280/2173 (59%)]	 pts_loss: 4.488523
+Current learning rate is: 0.01
+Valid: pts_loss: 7.425025
+Train Epoch: 236 [0/2173 (0%)]	 pts_loss: 5.492910
+Current learning rate is: 0.01
+Train Epoch: 236 [1280/2173 (59%)]	 pts_loss: 6.477615
+Current learning rate is: 0.01
+Valid: pts_loss: 5.841067
+Train Epoch: 237 [0/2173 (0%)]	 pts_loss: 4.110138
+Current learning rate is: 0.01
+Train Epoch: 237 [1280/2173 (59%)]	 pts_loss: 3.873106
+Current learning rate is: 0.01
+Valid: pts_loss: 5.345761
+Train Epoch: 238 [0/2173 (0%)]	 pts_loss: 4.918952
+Current learning rate is: 0.01
+Train Epoch: 238 [1280/2173 (59%)]	 pts_loss: 3.246258
+Current learning rate is: 0.01
+Valid: pts_loss: 5.620571
+Train Epoch: 239 [0/2173 (0%)]	 pts_loss: 3.352260
+Current learning rate is: 0.01
+Train Epoch: 239 [1280/2173 (59%)]	 pts_loss: 3.272258
+Current learning rate is: 0.01
+Valid: pts_loss: 6.353942
+Train Epoch: 240 [0/2173 (0%)]	 pts_loss: 3.757440
+Current learning rate is: 0.01
+Train Epoch: 240 [1280/2173 (59%)]	 pts_loss: 3.261542
+Current learning rate is: 0.01
+Valid: pts_loss: 6.619262
+Train Epoch: 241 [0/2173 (0%)]	 pts_loss: 4.355713
+Current learning rate is: 0.01
+Train Epoch: 241 [1280/2173 (59%)]	 pts_loss: 4.317464
+Current learning rate is: 0.01
+Valid: pts_loss: 5.342104
+Train Epoch: 242 [0/2173 (0%)]	 pts_loss: 3.667794
+Current learning rate is: 0.01
+Train Epoch: 242 [1280/2173 (59%)]	 pts_loss: 3.162534
+Current learning rate is: 0.01
+Valid: pts_loss: 6.422816
+Train Epoch: 243 [0/2173 (0%)]	 pts_loss: 4.305892
+Current learning rate is: 0.01
+Train Epoch: 243 [1280/2173 (59%)]	 pts_loss: 6.439320
+Current learning rate is: 0.01
+Valid: pts_loss: 6.862015
+Train Epoch: 244 [0/2173 (0%)]	 pts_loss: 4.282533
+Current learning rate is: 0.01
+Train Epoch: 244 [1280/2173 (59%)]	 pts_loss: 4.864316
+Current learning rate is: 0.01
+Valid: pts_loss: 5.957251
+Train Epoch: 245 [0/2173 (0%)]	 pts_loss: 5.393046
+Current learning rate is: 0.01
+Train Epoch: 245 [1280/2173 (59%)]	 pts_loss: 7.413614
+Current learning rate is: 0.01
+Valid: pts_loss: 7.560979
+Train Epoch: 246 [0/2173 (0%)]	 pts_loss: 5.647619
+Current learning rate is: 0.01
+Train Epoch: 246 [1280/2173 (59%)]	 pts_loss: 4.297554
+Current learning rate is: 0.01
+Valid: pts_loss: 6.464096
+Train Epoch: 247 [0/2173 (0%)]	 pts_loss: 4.955311
+Current learning rate is: 0.01
+Train Epoch: 247 [1280/2173 (59%)]	 pts_loss: 4.247535
+Current learning rate is: 0.01
+Valid: pts_loss: 5.311168
+Train Epoch: 248 [0/2173 (0%)]	 pts_loss: 3.924719
+Current learning rate is: 0.01
+Train Epoch: 248 [1280/2173 (59%)]	 pts_loss: 4.320973
+Current learning rate is: 0.01
+Valid: pts_loss: 5.665160
+Train Epoch: 249 [0/2173 (0%)]	 pts_loss: 3.977439
+Current learning rate is: 0.01
+Train Epoch: 249 [1280/2173 (59%)]	 pts_loss: 4.879687
+Current learning rate is: 0.01
+Valid: pts_loss: 5.531492
